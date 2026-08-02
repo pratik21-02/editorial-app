@@ -2,13 +2,13 @@ import os
 import json
 import time
 import requests
+from bs4 import BeautifulSoup
 import google.generativeai as genai
 from datetime import datetime, timedelta
 
 # ==========================================
 # 1. SECURE CONFIGURATION (USING ENV VARIABLES)
 # ==========================================
-# GitHub Actions will pass the GEMINI_API_KEY from GitHub Secrets securely
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 if not GEMINI_API_KEY:
@@ -16,10 +16,10 @@ if not GEMINI_API_KEY:
 
 genai.configure(api_key=GEMINI_API_KEY)
 
-# Use the latest fast model
+# Use the fast and cheap flash model
 generation_config = {
-    "temperature": 0.3, # Low temp for factual/analytical consistency
-    "response_mime_type": "application/json", # Force JSON output
+    "temperature": 0.3, 
+    "response_mime_type": "application/json", 
 }
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash", 
@@ -59,61 +59,90 @@ Extract 4-5 difficult vocabulary words. If there are no idioms, leave the list e
 """
 
 # ==========================================
-# 3. FETCHING & PROCESSING LOGIC
+# 3. REAL WEB SCRAPING LOGIC
 # ==========================================
 def fetch_latest_editorials():
-    """
-    In a real scenario, you would scrape a website or use a News API (like NewsAPI.org).
-    For this example, we simulate fetching 2 articles for today.
-    """
-    # Replace this with real scraping logic (e.g., BeautifulSoup for The Hindu/Indian Express)
-    return [
-        {
-            "title": "The Economic Balancing Act of 2026",
-            "content": "As inflation reaches an inflection point, fiscal policies require pragmatic recalibration. The central bank's hawkish stance, while contentious, attempts to mitigate systemic vulnerabilities. However, the collateral damage to nascent startups cannot be overlooked.",
-            "theme": "Economics"
-        },
-        {
-            "title": "AI's Existential Threshold",
-            "content": "The relentless march of generative AI poses profound ethical conundrums. Regulatory frameworks remain anachronistic, failing to encompass the nebulous boundaries of machine consciousness. A proactive paradigm shift is indispensable.",
-            "theme": "Technology"
-        }
-    ]
+    print("Fetching live editorials from The Indian Express...")
+    articles = []
+    
+    # 1. RSS feed URL for Indian Express Editorials
+    rss_url = "https://indianexpress.com/section/opinion/editorials/feed/"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+    
+    try:
+        response = requests.get(rss_url, headers=headers, timeout=10)
+        soup = BeautifulSoup(response.content, 'xml')
+        
+        # Get the top 2 latest articles
+        items = soup.find_all('item')[:2]
+        
+        for item in items:
+            title = item.title.text
+            link = item.link.text
+            print(f"Scraping link: {link}")
+            
+            # 2. Visit the actual article link to scrape paragraphs
+            art_resp = requests.get(link, headers=headers, timeout=10)
+            art_soup = BeautifulSoup(art_resp.content, 'html.parser')
+            
+            paragraphs = art_soup.find_all('p')
+            
+            # 3. Clean up the text (ignore short lines or ads)
+            content_pieces = []
+            for p in paragraphs:
+                text = p.text.strip()
+                # Filter out standard ad/promo texts
+                if len(text) > 60 and "Click here" not in text and "Also Read" not in text:
+                    content_pieces.append(text)
+            
+            full_content = " ".join(content_pieces)
+            
+            # Limit to ~800 words to save AI processing tokens & ensure CAT length
+            words = full_content.split()
+            if len(words) > 800:
+                full_content = " ".join(words[:800]) + "..."
+                
+            if full_content:
+                    articles.append({
+                        "title": title,
+                        "content": full_content,
+                        "theme": "Current Affairs / Editorial"
+                    })
+                
+    except Exception as e:
+        print(f"Error fetching live news: {e}")
+        
+    return articles
 
 def process_article_with_ai(article):
     """Sends the article to Gemini AI to get CAT-level analysis in JSON format."""
-    print(f"Processing: {article['title']}")
+    print(f"Sending to AI: {article['title']}")
     
     prompt = f"Article Title: {article['title']}\n\nContent:\n{article['content']}"
     
     try:
-        # Combine system instructions with the user prompt
         response = model.generate_content(SYSTEM_PROMPT + "\n\n" + prompt)
-        
-        # Parse the JSON response from Gemini
         ai_analysis = json.loads(response.text)
         
-        # Merge the original article data with the AI analysis
         return {
             "id": f"art-{int(time.time())}-{hash(article['title']) % 10000}",
             "date": datetime.now().strftime("%Y-%m-%d"),
             "title": article["title"],
             "content": article["content"],
             "theme": article["theme"],
-            "readTime": f"{max(1, len(article['content'].split()) // 200)} min", # roughly 200 wpm
-            **ai_analysis # Unpack centralIdea, tone, vocab, etc.
+            "readTime": f"{max(1, len(article['content'].split()) // 200)} min", 
+            **ai_analysis 
         }
     except Exception as e:
-        print(f"Error processing article '{article['title']}': {e}")
+        print(f"Error AI processing '{article['title']}': {e}")
         return None
 
 # ==========================================
-# 4. DATABASE MANAGEMENT (data.json)
+# 4. DATABASE MANAGEMENT
 # ==========================================
 def update_database():
     db_file = "data.json"
     
-    # Load existing data if it exists
     if os.path.exists(db_file):
         with open(db_file, "r", encoding="utf-8") as f:
             try:
@@ -123,32 +152,39 @@ def update_database():
     else:
         database = []
 
-    # Fetch and process new articles
+    # Fetch Real News
     new_articles_raw = fetch_latest_editorials()
-    new_articles_processed = []
     
-    for raw_article in new_articles_raw:
-        processed = process_article_with_ai(raw_article)
-        if processed:
-            new_articles_processed.append(processed)
-            time.sleep(2) # Sleep slightly to avoid hitting API rate limits
+    if not new_articles_raw:
+        print("No articles fetched. Check web scraper.")
+        return
 
-    # Add new articles to the front of the database
+    new_articles_processed = []
+    for raw_article in new_articles_raw:
+        # Check if we already have this article based on title to avoid duplicates
+        is_duplicate = any(db_art.get("title") == raw_article["title"] for db_art in database)
+        if not is_duplicate:
+            processed = process_article_with_ai(raw_article)
+            if processed:
+                new_articles_processed.append(processed)
+                time.sleep(2) # Avoid rate limits
+        else:
+            print(f"Skipping duplicate: {raw_article['title']}")
+
+    # Merge and save
     database = new_articles_processed + database
 
-    # Filter out articles older than 30 days to keep the file lightweight
     thirty_days_ago = datetime.now() - timedelta(days=30)
     database = [
         art for art in database 
         if datetime.strptime(art["date"], "%Y-%m-%d") >= thirty_days_ago
     ]
 
-    # Save the updated database
     with open(db_file, "w", encoding="utf-8") as f:
         json.dump(database, f, ensure_ascii=False, indent=4)
         
     print(f"Successfully added {len(new_articles_processed)} articles. Total articles in DB: {len(database)}")
 
 if __name__ == "__main__":
-    print(f"Starting daily editorial fetch for {datetime.now().strftime('%Y-%m-%d')}")
+    print(f"Starting live daily editorial fetch for {datetime.now().strftime('%Y-%m-%d')}")
     update_database()
