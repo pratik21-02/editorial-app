@@ -16,18 +16,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
+          ref: main 
           fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.11' # Updated to 3.11 to fix the warning
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests google-generativeai beautifulsoup4 lxml
+          # Installed google-genai instead of google-generativeai
+          pip install requests google-genai beautifulsoup4 lxml
 
       - name: Run Backend Updater Script
         env:
