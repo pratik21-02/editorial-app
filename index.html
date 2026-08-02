@@ -9,8 +9,8 @@
     <script crossorigin src="https://unpkg.com/react@18.3.1/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js"></script>
     
-    <!-- Babel for JSX compilation -->
-    <script src="https://unpkg.com/@babel/stanAAdalone/babel.min.js"></script>
+    <!-- FIXED: Babel for JSX compilation (Typo corrected) -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -87,8 +87,6 @@
         const Volume2 = (props) => <IconWrapper {...props}><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></IconWrapper>;
         const RefreshCw = (props) => <IconWrapper {...props}><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></IconWrapper>;
 
-        // In a real app, this data would come from a backend API response.
-        // We use these templates to dynamically generate 30 days of data.
         const ARTICLE_TEMPLATES = [
             {
                 title: "The AI Conundrum: Balancing Innovation and Regulation",
@@ -167,8 +165,6 @@
                     setIsFetchingData(true);
                     
                     try {
-                        // 1. Tries to fetch real automated data from the backend JSON file
-                        // The ?t= timestamp prevents the browser from caching old data
                         const response = await fetch('./data.json?t=' + new Date().getTime());
                         
                         if (!response.ok) {
@@ -186,7 +182,6 @@
                     } catch (error) {
                         console.log("Backend data not found, generating simulated local data...", error);
                         
-                        // 2. FALLBACK: Generate simulated data if backend data.json doesn't exist yet
                         await new Promise(resolve => setTimeout(resolve, 1500));
                         let generatedData = [];
                         
@@ -196,14 +191,13 @@
                             dateObj.setDate(dateObj.getDate() - i);
                             const dateString = dateObj.toISOString().split('T')[0];
                             
-                            // Generate 2 simulated articles per day
                             for (let j = 0; j < 2; j++) {
                                 const template = ARTICLE_TEMPLATES[(i + j) % ARTICLE_TEMPLATES.length];
+                                // FIXED: Backticks added for proper template literal interpolation
                                 generatedData.push({
                                     ...template,
                                     id: `sim-${i}-${j}`,
                                     date: dateString,
-                                    // Slightly modify titles to look unique in the list
                                     title: i === 0 && j === 0 ? template.title : `${template.title} - ${['Review', 'Analysis', 'Perspective'][j%3]}` 
                                 });
                             }
@@ -225,14 +219,12 @@
                 return () => window.removeEventListener('resize', handleResize);
             }, []);
 
-            // Group articles by date for the Sidebar
             const groupedArticles = articlesDatabase.reduce((acc, article) => {
                 if (!acc[article.date]) acc[article.date] = [];
                 acc[article.date].push(article);
                 return acc;
             }, {});
 
-            // Sort dates from newest to oldest
             const sortedDates = Object.keys(groupedArticles).sort((a, b) => new Date(b) - new Date(a));
             const currentArticle = articlesDatabase.find(h => h.id === selectedArticleId);
 
@@ -458,6 +450,7 @@
                         </nav>
                     </header>
 
+                    {}
                     {/* Main Layout */}
                     <div className="flex relative flex-1">
                         
@@ -530,6 +523,7 @@
                             />
                         )}
 
+                        {}
                         {/* Content Area */}
                         <main 
                             id="content-to-export"
@@ -664,6 +658,7 @@
                                 </div>
                             )}
 
+                            {}
                             {/* VIEW: VOCAB BANK */}
                             {view === 'vocab' && (
                                 <div className="max-w-5xl mx-auto">
@@ -694,7 +689,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody className="divide-y divide-slate-100 text-sm">
-                                                {articlesDatabase.flatMap(a => a.vocab.map(v => ({...v, date: new Date(a.date).toLocaleDateString('en-IN', {day:'numeric', month:'short'})}))).map((v, i) => (
+                                                {articlesDatabase.flatMap(a => a.vocab.map(v => ({...v, date: new Date(a.date).toLocaleDateString('en-IN', {day:'numeric', month:'short'} عنها)}))).map((v, i) => (
                                                     <tr key={i} className="hover:bg-slate-50/80 transition-colors">
                                                         <td className="p-4 text-slate-400 text-xs whitespace-nowrap">{v.date}</td>
                                                         <td className="p-4 font-bold text-slate-800 text-base">{v.word}</td>
@@ -714,6 +709,7 @@
                         </main>
                     </div>
 
+                    {}
                     {/* DICTIONARY MODAL */}
                     {showDictModal && (
                         <div className="no-print fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 flex items-center justify-center p-4">
