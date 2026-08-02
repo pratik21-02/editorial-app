@@ -163,7 +163,6 @@ def process_article_with_ai(article):
         }
     except Exception as e:
         print(f"Error AI processing '{article['title']}': {e}")
-        print(f"Raw AI Response (if available): {getattr(response, 'text', 'No response text')}")
         return None
 
 # ==========================================
@@ -235,12 +234,3 @@ def update_database():
 if __name__ == "__main__":
     print(f"Starting live daily editorial fetch for {datetime.now().strftime('%Y-%m-%d')}")
     update_database()
-```
-
-### Isme kya naya aur behtar hai?
-1. **The Hindu RSS:** Maine URLs change kar diye hain aur scraper ko unki website ke hisaab se adapt kar diya hai.
-2. **Error Handling & Empty File Fix:** Pehle code empty list save nahi karta tha agar news fail ho jaye, jisse git fail ho raha tha. Ab agar kuch scrape nahi hua, toh bhi ek valid khali `[]` json banegi taki workflow error 128 na de.
-3. **Paywall check:** *The Hindu* mein kai baar chota article dikhta hai (paywall). Code ab length check karke chote articles reject kar dega.
-4. **Headers:** Thode modern headers lagaye hain taki website usko bot na samjhe.
-
-Isko commit karke dobara Action run kijiye! Action tab ke logs check zarur karna.
