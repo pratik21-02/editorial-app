@@ -60,25 +60,22 @@ Extract 4-5 difficult vocabulary words. If there are no idioms, leave the list e
 """
 
 # ==========================================
-# 3. ROBUST WEB SCRAPING (THE HINDU)
+# 3. ROBUST WEB SCRAPING (THE GUARDIAN)
 # ==========================================
 def fetch_latest_editorials():
-    print("Fetching live editorials from The Hindu...")
+    print("Fetching live CAT-level editorials from The Guardian...")
     articles = []
     
-    # 1. RSS feed URL for The Hindu Editorials
-    rss_url = "https://www.thehindu.com/opinion/editorial/feeder/default.rss"
+    # Using The Guardian Editorials: Best for CAT, High Vocabulary, No Paywall Blocking
+    rss_url = "https://www.theguardian.com/profile/editorial/rss"
     
-    # Adding more browser-like headers to avoid being blocked
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.5'
     }
     
     try:
         response = requests.get(rss_url, headers=headers, timeout=15)
-        response.raise_for_status() # Raise an exception for bad status codes
+        response.raise_for_status() 
         soup = BeautifulSoup(response.content, 'xml')
         
         # Get the top 2 latest articles
@@ -93,37 +90,28 @@ def fetch_latest_editorials():
             link = item.link.text
             print(f"Scraping link: {link}")
             
-            # 2. Visit the actual article link to scrape paragraphs
-            time.sleep(2) # Be polite to the server
+            # Visit the actual article link
+            time.sleep(2) 
             art_resp = requests.get(link, headers=headers, timeout=15)
-            art_resp.raise_for_status()
             art_soup = BeautifulSoup(art_resp.content, 'html.parser')
             
-            # The Hindu usually puts article content inside divs with class 'articlebodycontent' or similar
-            # If that fails, we fallback to scraping all paragraphs.
-            content_div = art_soup.find('div', class_=re.compile(r'articlebodycontent', re.IGNORECASE))
+            # The Guardian uses <p> tags natively. We scrape all of them.
+            paragraphs = art_soup.find_all('p')
             
-            if content_div:
-                 paragraphs = content_div.find_all('p')
-            else:
-                 paragraphs = art_soup.find_all('p')
-            
-            # 3. Clean up the text
             content_pieces = []
             for p in paragraphs:
                 text = p.text.strip()
-                # Filter out standard ad/promo texts and very short lines
-                if len(text) > 40 and "Click here" not in text and "Also Read" not in text and "Subscribe" not in text:
+                # Filter out standard ad/promo/newsletter texts
+                if len(text) > 50 and "Sign up" not in text and "Subscribe" not in text and "newsletter" not in text:
                     content_pieces.append(text)
             
             full_content = " ".join(content_pieces)
             
-            # Ensure we actually scraped something before adding it
-            if len(full_content) < 200:
-                 print(f"Warning: Scraped content for '{title}' is too short. Might be a paywall or structure change.")
+            if len(full_content) < 300:
+                 print(f"Warning: Scraped content for '{title}' is too short. Skipping.")
                  continue
 
-            # Limit to ~800 words to save AI processing tokens & ensure CAT length
+            # Limit to ~800 words to save AI processing tokens & ensure CAT RC length
             words = full_content.split()
             if len(words) > 800:
                 full_content = " ".join(words[:800]) + "..."
@@ -132,13 +120,11 @@ def fetch_latest_editorials():
                     articles.append({
                         "title": title,
                         "content": full_content,
-                        "theme": "Current Affairs / Editorial"
+                        "theme": "Global Affairs / CAT Standard Read"
                     })
                 
-    except requests.exceptions.RequestException as e:
-        print(f"Network error fetching news: {e}")
     except Exception as e:
-        print(f"Unexpected error fetching live news: {e}")
+        print(f"Error fetching live news: {e}")
         
     return articles
 
@@ -171,14 +157,13 @@ def process_article_with_ai(article):
 def update_database():
     db_file = "data.json"
     
-    # IMPORTANT: Initialize database FIRST, before checking if file exists
     database = []
     
     if os.path.exists(db_file):
         with open(db_file, "r", encoding="utf-8") as f:
             try:
                 content = f.read().strip()
-                if content: # Only load if file is not empty
+                if content: 
                      database = json.loads(content)
             except json.JSONDecodeError:
                 print(f"Warning: {db_file} is corrupted or empty. Starting fresh.")
@@ -189,24 +174,20 @@ def update_database():
     
     if not new_articles_raw:
         print("No articles fetched. Exiting update process.")
-        
-        # If database is entirely empty and we fetched nothing, create an empty list file
-        # so git doesn't crash on 'git add data.json'
+        # Ensure we at least save an empty array so git doesn't throw pathspec error
         if not os.path.exists(db_file) or os.path.getsize(db_file) == 0:
             with open(db_file, "w", encoding="utf-8") as f:
                 json.dump([], f)
-            print("Created empty data.json to prevent git errors.")
         return
 
     new_articles_processed = []
     for raw_article in new_articles_raw:
-        # Check if we already have this article based on title to avoid duplicates
         is_duplicate = any(db_art.get("title") == raw_article["title"] for db_art in database)
         if not is_duplicate:
             processed = process_article_with_ai(raw_article)
             if processed:
                 new_articles_processed.append(processed)
-                time.sleep(3) # Avoid rate limits
+                time.sleep(3) 
         else:
             print(f"Skipping duplicate: {raw_article['title']}")
 
@@ -215,7 +196,6 @@ def update_database():
 
     thirty_days_ago = datetime.now() - timedelta(days=30)
     
-    # Safely filter dates
     filtered_db = []
     for art in database:
         try:
@@ -223,7 +203,6 @@ def update_database():
              if art_date >= thirty_days_ago:
                  filtered_db.append(art)
         except (ValueError, KeyError):
-             # If a date is malformed or missing, just keep it for now
              filtered_db.append(art)
 
     with open(db_file, "w", encoding="utf-8") as f:
