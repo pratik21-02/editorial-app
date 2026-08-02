@@ -3,9 +3,9 @@ import json
 import time
 import requests
 from bs4 import BeautifulSoup
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from datetime import datetime, timedelta
-import re
 
 # ==========================================
 # 1. SECURE CONFIGURATION (USING ENV VARIABLES)
@@ -15,17 +15,8 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY is missing! Please set it in GitHub Secrets.")
 
-genai.configure(api_key=GEMINI_API_KEY)
-
-# Use the fast and cheap flash model
-generation_config = {
-    "temperature": 0.3, 
-    "response_mime_type": "application/json", 
-}
-model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash", 
-    generation_config=generation_config
-)
+# Initialize the NEW Google GenAI Client
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 # ==========================================
 # 2. AI PROMPT DESIGN
@@ -135,7 +126,15 @@ def process_article_with_ai(article):
     prompt = f"Article Title: {article['title']}\n\nContent:\n{article['content']}"
     
     try:
-        response = model.generate_content(SYSTEM_PROMPT + "\n\n" + prompt)
+        # Using the NEW SDK syntax and the latest reliable flash model
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=SYSTEM_PROMPT + "\n\n" + prompt,
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                temperature=0.3,
+            )
+        )
         ai_analysis = json.loads(response.text)
         
         return {
@@ -173,15 +172,12 @@ def update_database():
     new_articles_raw = fetch_latest_editorials()
     
     if not new_articles_raw:
-        print("No articles fetched. Exiting update process.")
-        # Ensure we at least save an empty array so git doesn't throw pathspec error
-        if not os.path.exists(db_file) or os.path.getsize(db_file) == 0:
-            with open(db_file, "w", encoding="utf-8") as f:
-                json.dump([], f)
+        print("No articles fetched. Check web scraper.")
         return
 
     new_articles_processed = []
     for raw_article in new_articles_raw:
+        # Avoid duplicates
         is_duplicate = any(db_art.get("title") == raw_article["title"] for db_art in database)
         if not is_duplicate:
             processed = process_article_with_ai(raw_article)
