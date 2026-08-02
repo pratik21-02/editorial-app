@@ -126,9 +126,9 @@ def process_article_with_ai(article):
     prompt = f"Article Title: {article['title']}\n\nContent:\n{article['content']}"
     
     try:
-        # Using the NEW SDK syntax and the latest reliable flash model
+        # UPDATED: Using gemini-3.5-flash (The currently supported model)
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-3.5-flash',
             contents=SYSTEM_PROMPT + "\n\n" + prompt,
             config=types.GenerateContentConfig(
                 response_mime_type="application/json",
