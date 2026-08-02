@@ -1,4 +1,4 @@
-name: Daily Editorial Fetcheron:Run automatically every day at 6:00 AM UTC (approx 11:30 AM IST)schedule:- cron: '0 6 * * *'Allow manual trigger from the GitHub Actions tabworkflow_dispatch:Add this permissions block to allow the bot to commit the data.json filepermissions:contents: writejobs:update-data:runs-on: ubuntu-lateststeps:
+name:Daily Editorial Fetcheron:Run automatically every day at 6:00 AM UTC (approx 11:30 AM IST)schedule:- cron: '0 6 * * *'Allow manual trigger from the GitHub Actions tabworkflow_dispatch:Add this permissions block to allow the bot to commit the data.json filepermissions:contents: writejobs:update-data:runs-on: ubuntu-lateststeps:
   - name: Checkout repository
     uses: actions/checkout@v4
     with:
