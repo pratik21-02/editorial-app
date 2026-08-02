@@ -1,1 +1,131 @@
-[]
+[
+    {
+        "id": "art-1785659239-4589",
+        "date": "2026-08-02",
+        "title": "The Guardian view on England’s centralised state: Andy Burnham must unbundle it | Editorial",
+        "content": "Devolution should finance transport, skills and industry, not become a rightwing contest to promise the largest tax giveaway That England is among the rich world’s most centralised countries underpins Andy Burnham’s critique of the economic history of the past 40 years. Only post-communist Europe deindustrialised as rapidly as Yorkshire and the Midlands did in the 1980s. Centralisation did not close every factory or pit, but left regions without the powers, finance or institutions to cushion the shock or build a resilient, replacement economy. Hence Mr Burnham’s radical and welcome plan to unbundle English government. There are three facets to his devolution programme. The first are the detailed and concrete proposals contained in a cabinet paper Mr Burnham released on Friday. This appears to be a blueprint to create a decentralised state organised around mayors as the key regional economic actors, while jointly governed pan-regional agencies could emerge, say for transport, energy, investment and industrial systems, that cross mayoral boundaries. Regions without mayors will get a chance to have one – or limit themselves to weaker powers. The second, outlined in the Guardian and later confirmed by No 10, is that mayors will be able to keep income-tax and business-rate revenues, with the forthcoming budget and spending review deciding on how much. Before entering No 10, Mr Burnham proposed a third pillar: a duty, modelled on Germany’s Basic Law, requiring English regions to pursue equivalent living conditions nationwide. Following this logic, a mayoral authority would receive a share of tax revenues and benefit when its economy and tax base grow. But the national government would continue redistributing resources so that poorer places can provide comparable services and possess meaningful investment capacity. Without such an equalisation measure, disparities would widen. One thinktank pointed out that if mayors received 2.5% of the 20p basic rate of income tax, London would get £2.3bn in 2026-27 while Hull and East Yorkshire would get £135m. Ben Houchen, the Tory mayor of Tees Valley, wants to turn devolved income-tax revenues into new powers to offer tax rebates. That mistakes a regional investment settlement for a tax-cutting competition: poorer places would forfeit the cash needed to rebuild transport links as well as skills and industrial capacity. What some rightwingers seek is to turn regional elections into tax-cutting auctions over who can return the most public money. But cash giveaways now would just mean the bill of the underinvestment would land later. England’s devolution map remains incomplete, but Mr Burnham wants to finish it. New mayors are due in Cumbria, and Cheshire and Warrington, in 2027, followed by ones in southern and eastern regions in 2028. The rest of the country will be asked to choose between mayoral strategic authorities with stronger powers or non-mayoral “foundation” bodies operating with more limited controls. A new Harvard Kennedy School and King’s College London paper, co-authored by the former Labour minister Ed Balls, argues that Britain’s weak productivity stems from persistent regional divides, with the gap between south-east England and the rest of the nation wider than that separating east and west Germany today. One reason this has not been tackled is that Britain has never had both No 10 and the Treasury committed to regional growth. Now it does. The country may finally discover what happens when the centre pulls in the same direction. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "England's highly centralized state has historically hindered regional economic resilience, and Andy Burnham's proposed devolution plan offers a viable path to address deep-seated regional productivity divides through mayoral empowerment and structured tax redistribution.",
+        "tone": "Analytical, Supportive, Pragmatic",
+        "skimming": [
+            "England's extreme centralization historically left regions vulnerable to rapid deindustrialization without local powers to recover.",
+            "Andy Burnham's devolution plan proposes a decentralized state structured around regional mayors, pan-regional agencies, and tax-revenue retention.",
+            "A critical pillar of the plan is a redistribution mechanism (inspired by Germany's Basic Law) to prevent widening disparities between wealthy and poorer regions.",
+            "The editorial warns against turning devolved tax powers into tax-cutting competitions, emphasizing that regional growth requires sustained public investment."
+        ],
+        "grammar": "The sentence 'That England is among the rich world’s most centralised countries underpins Andy Burnham’s critique...' uses a noun clause ('That England is among...') as the grammatical subject of the main verb 'underpins'. This is a sophisticated structure often tested in CAT for sentence correction.",
+        "vocab": [
+            {
+                "word": "Devolution",
+                "english": "The transfer or delegation of power to a lower level, especially by central government to local or regional administration.",
+                "gujarati": "સત્તાનું વિકેન્દ્રીકરણ",
+                "pos": "Noun",
+                "synonyms": "decentralization, delegation, transfer",
+                "antonyms": "centralization, consolidation"
+            },
+            {
+                "word": "Unbundle",
+                "english": "To split a package of services, products, or governmental powers into its constituent parts.",
+                "gujarati": "વિભાજીત કરવું",
+                "pos": "Verb",
+                "synonyms": "separate, untangle, disassemble",
+                "antonyms": "bundle, combine, integrate"
+            },
+            {
+                "word": "Resilient",
+                "english": "Able to withstand or recover quickly from difficult conditions.",
+                "gujarati": "સ્થિતિસ્થાપક",
+                "pos": "Adjective",
+                "synonyms": "tough, flexible, hardy",
+                "antonyms": "fragile, vulnerable, weak"
+            },
+            {
+                "word": "Disparities",
+                "english": "Great differences or inequalities.",
+                "gujarati": "અસમાનતા",
+                "pos": "Noun",
+                "synonyms": "inequalities, imbalances, gaps",
+                "antonyms": "parities, equalities, similarities"
+            },
+            {
+                "word": "Forfeit",
+                "english": "To lose or be deprived of a right or property as a penalty or by choice.",
+                "gujarati": "ગુમાવવું",
+                "pos": "Verb",
+                "synonyms": "lose, surrender, relinquish",
+                "antonyms": "retain, keep, win"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "Pull in the same direction",
+                "meaning": "To work together cooperatively for a common goal.",
+                "gujarati": "એક જ દિશામાં સાથે મળીને કામ કરવું"
+            }
+        ]
+    },
+    {
+        "id": "art-1785659251-6691",
+        "date": "2026-08-02",
+        "title": "The Guardian view on the Lovell telescope: budget cuts to physics are bad science and worse politics | Editorial",
+        "content": "Funders have picked a damaging fight with scientists and the public. They should reconsider their plans The iconic Lovell telescope, housed at the Jodrell Bank Observatory in Cheshire, has always expanded our view of the universe – from tracking the Sputnik launch in 1957 to its current contributions to the study of dark matter. It is now threatened with closure after it was announced that government funding will not continue past March 2028. The projected savings are just £2.8m a year. This is just the latest in a rolling package of cuts from the Science and Technology Facilities Council (STFC) – which disperses government funding to particle, astro and nuclear physics, among other disciplines – aimed at saving about £160m over the next four years. The STFC has insisted that the measures are a result of cost overruns. That may be true, but it is hard not to see this as part of a larger shift in what kind of science the government funds and prioritises, and what areas it allows to wither. There is no doubt that physics is expensive. From telescopes to synchrotron beams, its instruments are increasingly large-scale and power-hungry. And scientists are not immune to the cost of living crisis. If households are feeling the pinch of electricity costs, just imagine getting the monthly bill for a particle accelerator. However, UK Research and Innovation (UKRI), of which the STFC is a subsidiary, has just gone through a revamp of its funding model, one that clearly prioritises economic growth and measureable outcomes. Looking across the programmes cut, which include international collaborations with other telescope arrays and the Cern facility in Switzerland, many scientists believe that long-term, fundamental research is under specific threat. The UKRI and STFC have not helped the situation by badly misreading the politics. In a session at the House of Lords earlier this month, the UKRI chief, Ian Chapman, seemed surprised by the scientists’ “hyperbolic” reaction, and noted that they “feel that they have been cut” when, in fact, overall physics funding has increased. But scientists have reason to feel slighted when valued ongoing projects and collaborations – rather than future plans – are axed, and when what appear to be relatively small cost savings (the UKRI budget will be £10bn by 2030) fall on their shoulders. There are shades of the departed Starmer government in this saga: the UKRI wants to tell a big story about science funding going up, but instead is mired in a row over a fairly minor sum that has angered scientists and sections of the public. One does not have to be an astronomer to know that optics matter. The UKRI and STFC are technically arm’s‑length bodies, but it hasn’t escaped notice that the ministers who set its funding priorities, Liz Kendall and Patrick Vallance, are no longer in office, while Andy Burnham has abolished the Department for Science, Innovation and Technology. It would seem a good time for the current course to be reconsidered, whether by the funding councils or the new government itself. There is a conversation to be had about what research we fund with limited resources, and the balance between so-called blue sky projects and those expected to yield commercial returns. But when physicists warn that the UK could lose a “generation of scientists” to these cuts – in one of the few fields in which we can credibly claim to be world-leading – they should be heeded. It’s time to refocus, and look again. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The editorial criticizes the UK government's short-sighted budget cuts to fundamental physics research, arguing that defunding iconic projects like the Lovell telescope damages scientific progress and political credibility.",
+        "tone": "Critical, Analytical, Cautionary",
+        "skimming": [
+            "The iconic Lovell telescope faces closure by 2028 due to a £2.8m annual funding cut, part of a larger £160m reduction by the STFC.",
+            "These cuts signal a shift in funding priorities away from long-term, fundamental research toward short-term economic growth and measurable outcomes.",
+            "The scientific community is deeply upset because ongoing, highly valued collaborations are being axed despite an overall increase in physics funding.",
+            "The author warns that the UK risks losing a generation of world-leading scientists unless the government and funding councils reconsider their course."
+        ],
+        "grammar": "The sentence 'It is now threatened with closure after it was announced that...' features a double passive construction. The first 'it' refers to the telescope, while the second 'it' is a dummy pronoun acting as a placeholder for the delayed subject clause 'that government funding will not continue...'. This structure is common in formal writing to maintain objectivity.",
+        "vocab": [
+            {
+                "word": "wither",
+                "english": "to become weak, dry, or decay; to lose vitality",
+                "gujarati": "કરમાવું, ક્ષીણ થવું",
+                "pos": "Verb",
+                "synonyms": "decay, fade, decline, dwindle",
+                "antonyms": "flourish, thrive, grow"
+            },
+            {
+                "word": "hyperbolic",
+                "english": "deliberately exaggerated; relating to hyperbole",
+                "gujarati": "અતિશયોક્તિપૂર્ણ",
+                "pos": "Adjective",
+                "synonyms": "exaggerated, overblown, inflated",
+                "antonyms": "understated, realistic, literal"
+            },
+            {
+                "word": "mired",
+                "english": "stuck in a difficult situation or bogged down in mud",
+                "gujarati": "મુશ્કેલીમાં ફસાયેલું",
+                "pos": "Verb",
+                "synonyms": "entangled, bogged down, embroiled",
+                "antonyms": "free, extricated, liberated"
+            },
+            {
+                "word": "heeded",
+                "english": "paid attention to; taken notice of",
+                "gujarati": "ધ્યાનમાં લેવું",
+                "pos": "Verb",
+                "synonyms": "regarded, minded, observed",
+                "antonyms": "ignored, neglected, disregarded"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "feeling the pinch",
+                "meaning": "experiencing hardship, especially financial, due to a limit on money or resources",
+                "gujarati": "આર્થિક તંગી અનુભવવી"
+            },
+            {
+                "idiom": "blue sky",
+                "meaning": "creative, visionary, or theoretical research without immediate practical or commercial application",
+                "gujarati": "વ્યવહારિક ઉપયોગ વિનાનું કાલ્પનિક કે સૈદ્ધાંતિક સંશોધન"
+            }
+        ]
+    }
+]
