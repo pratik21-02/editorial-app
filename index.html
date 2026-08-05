@@ -142,33 +142,45 @@
         ];
 
         function App() {
+            // States for Article Data
             const [articlesDatabase, setArticlesDatabase] = useState([]);
             const [isFetchingData, setIsFetchingData] = useState(true);
             const [selectedArticleId, setSelectedArticleId] = useState(null);
             
+            // View States
             const [view, setView] = useState('editorial'); // 'editorial' | 'vocab'
             const [isSidebarOpen, setIsSidebarOpen] = useState(window.innerWidth >= 768);
             
+            // Dictionary / Search states
             const [searchQuery, setSearchQuery] = useState('');
             const [dictionaryResult, setDictionaryResult] = useState(null);
             const [isSearching, setIsSearching] = useState(false);
             const [showDictModal, setShowDictModal] = useState(false);
             
+            // PDF Download state
             const [isDownloading, setIsDownloading] = useState(false);
 
-            useEffect(() => {
-                const fetchEditorialsFromAPI = async () => {
-                    setIsFetchingData(true);
-                    
-                    try {
-                        const response = await fetch('./data.json?t=' + new Date().getTime());
-                        
-                        if (!response.ok) {
-                            throw new Error('Real data.json not found. Falling back to dummy data.');
+        useEffect(() => {
+            const fetchEditorialsFromAPI = async () => {
+                setIsFetchingData(true);
+                
+                try {
+                    // Added Cache-Control headers to forcefully bust browser cache
+                    const response = await fetch('./data.json?timestamp=' + new Date().getTime(), {
+                        cache: 'no-store', // This forces the browser to bypass the cache
+                        headers: {
+                            'Cache-Control': 'no-cache, no-store, must-revalidate',
+                            'Pragma': 'no-cache',
+                            'Expires': '0'
                         }
-                        
-                        const automatedData = await response.json();
-                        setArticlesDatabase(automatedData);
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error('Real data.json not found. Falling back to dummy data.');
+                    }
+                    
+                    const automatedData = await response.json();
+                    setArticlesDatabase(automatedData);
                         
                         if (automatedData.length > 0) {
                             setSelectedArticleId(automatedData[0].id);
@@ -316,50 +328,36 @@
 
             const handleDownloadPDF = () => {
                 if (!window.html2pdf) {
-                    console.warn("PDF library is still loading, please try again.");
+                    alert("PDF library is still loading, please try again.");
                     return;
                 }
                 
                 setIsDownloading(true);
-                // 1. Add class to strip away sidebar margins and navigation
                 document.body.classList.add('exporting-pdf');
                 
-                // 2. We use setTimeout to give the browser 300ms to automatically
-                // recalculate the pure width of the layout now that the sidebar is gone.
-                setTimeout(() => {
-                    const element = document.getElementById('content-to-export');
-                    
-                    // 3. Automatically analyze the exact scroll width of the element!
-                    const autoWidth = element.scrollWidth;
-                    const autoHeight = element.scrollHeight;
-                    
-                    const opt = {
-                        margin:       [10, 10, 15, 10], // standard mm margins
-                        filename:     `CAT_Editorial_${currentArticle ? currentArticle.date : 'Vocab'}.pdf`,
-                        image:        { type: 'jpeg', quality: 1.0 },
-                        pagebreak:    { mode: ['css', 'legacy'] },
-                        html2canvas:  { 
-                            scale: 2, 
-                            useCORS: true, 
-                            letterRendering: true,
-                            scrollY: 0,
-                            scrollX: 0,
-                            // Set the canvas width to precisely what the element measured dynamically
-                            windowWidth: autoWidth,
-                            width: autoWidth
-                        }, 
-                        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-                    };
+                const element = document.getElementById('content-to-export');
+                
+                const opt = {
+                    margin:       [10, 10, 15, 10], // standard mm margins
+                    filename:     `CAT_Editorial_${currentArticle ? currentArticle.date : 'Vocab'}.pdf`,
+                    image:        { type: 'jpeg', quality: 0.98 },
+                    pagebreak:    { mode: ['css', 'legacy'] },
+                    html2canvas:  { 
+                        scale: 2, 
+                        useCORS: true, 
+                        letterRendering: true 
+                    }, 
+                    jsPDF:        { unit: 'mm', format: 'a4', orientation: 'portrait' }
+                };
 
-                    window.html2pdf().set(opt).from(element).save().then(() => {
-                        setIsDownloading(false);
-                        document.body.classList.remove('exporting-pdf');
-                    }).catch(err => {
-                        console.error("PDF generation error:", err);
-                        setIsDownloading(false);
-                        document.body.classList.remove('exporting-pdf');
-                    });
-                }, 300); // 300ms delay for auto-layout adjustment
+                window.html2pdf().set(opt).from(element).save().then(() => {
+                    setIsDownloading(false);
+                    document.body.classList.remove('exporting-pdf');
+                }).catch(err => {
+                    console.error("PDF generation error:", err);
+                    setIsDownloading(false);
+                    document.body.classList.remove('exporting-pdf');
+                });
             };
 
             if (isFetchingData) {
@@ -379,27 +377,20 @@
             return (
                 <div className="min-h-screen flex flex-col">
                     
-                    {/* AUTOMATIC PDF EXPORT CSS: Cleans the view so auto-width works perfectly */}
                     <style dangerouslySetInnerHTML={{__html: `
-                        .exporting-pdf header,
-                        .exporting-pdf aside,
-                        .exporting-pdf .no-print { 
-                            display: none !important; 
-                        }
+                        .exporting-pdf .no-print { display: none !important; }
+                        .exporting-pdf { background-color: white !important; }
                         .exporting-pdf #content-to-export {
-                            margin: 0 !important;
-                            padding: 20px !important;
-                            width: 100% !important;
-                            max-width: none !important;
-                            box-sizing: border-box !important;
+                            padding: 0 !important; margin: 0 !important;
+                            max-width: none !important; width: 100% !important;
                         }
-                        /* Prevents flex layouts from breaking inside pdf engine */
-                        .exporting-pdf .flex { display: block !important; }
-                        .exporting-pdf table { width: 100% !important; table-layout: fixed; border-collapse: collapse; }
+                        .exporting-pdf .max-w-4xl, .exporting-pdf .max-w-5xl { max-width: 100% !important; }
+                        .exporting-pdf table { width: 100% !important; border-collapse: collapse; }
                         .exporting-pdf td, .exporting-pdf th { word-wrap: break-word !important; white-space: normal !important; }
                         .exporting-pdf h2, .exporting-pdf h3, .exporting-pdf tr, .exporting-pdf li {
                             page-break-inside: avoid; break-inside: avoid;
                         }
+                        .exporting-pdf .overflow-x-auto { overflow: visible !important; }
                     `}} />
 
                     {/* Header */}
@@ -466,6 +457,7 @@
                         </nav>
                     </header>
 
+                    {}
                     {/* Main Layout */}
                     <div className="flex relative flex-1">
                         
@@ -538,6 +530,7 @@
                             />
                         )}
 
+                        {}
                         {/* Content Area */}
                         <main 
                             id="content-to-export"
@@ -576,14 +569,14 @@
                                         </h1>
                                     </div>
 
-                                    <div className="grid md:grid-cols-2 gap-6 mb-8 flex-for-pdf">
-                                        <div className="bg-indigo-50/50 rounded-xl p-5 border border-indigo-100 shadow-sm mb-4">
+                                    <div className="grid md:grid-cols-2 gap-6 mb-8">
+                                        <div className="bg-indigo-50/50 rounded-xl p-5 border border-indigo-100 shadow-sm">
                                             <h3 className="flex items-center gap-2 font-bold text-indigo-900 mb-2 text-lg">
                                                 <BrainCircuit size={18} /> Central Idea
                                             </h3>
                                             <p className="text-sm text-indigo-800/90 leading-relaxed">{currentArticle.centralIdea}</p>
                                         </div>
-                                        <div className="bg-emerald-50/50 rounded-xl p-5 border border-emerald-100 shadow-sm mb-4">
+                                        <div className="bg-emerald-50/50 rounded-xl p-5 border border-emerald-100 shadow-sm">
                                             <h3 className="flex items-center gap-2 font-bold text-emerald-900 mb-2 text-lg">
                                                 <FileText size={18} /> Author's Tone
                                             </h3>
@@ -658,9 +651,9 @@
                                     {currentArticle.idioms && currentArticle.idioms.length > 0 && (
                                         <div className="mb-8">
                                             <h3 className="text-xl font-bold text-slate-800 mb-4">💡 Idioms & Phrasal Verbs</h3>
-                                            <div className="grid sm:grid-cols-2 gap-4 flex-for-pdf">
+                                            <div className="grid sm:grid-cols-2 gap-4">
                                                 {currentArticle.idioms.map((id, i) => (
-                                                    <div key={i} className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow mb-4">
+                                                    <div key={i} className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
                                                         <div className="font-bold text-slate-900 mb-2 text-lg">{id.idiom}</div>
                                                         <div className="text-sm text-slate-700 mb-2 leading-relaxed">{id.meaning}</div>
                                                         <div className="text-sm font-medium text-indigo-700 bg-indigo-50 inline-block px-2 py-1 rounded">{id.gujarati}</div>
@@ -672,6 +665,7 @@
                                 </div>
                             )}
 
+                            {}
                             {/* VIEW: VOCAB BANK */}
                             {view === 'vocab' && (
                                 <div className="max-w-5xl mx-auto">
@@ -702,7 +696,7 @@
                                                 </tr>
                                             </thead>
                                             <tbody className="divide-y divide-slate-100 text-sm">
-                                                {articlesDatabase.flatMap(a => a.vocab.map(v => ({...v, date: new Date(a.date).toLocaleDateString('en-IN', {day:'numeric', month:'short'})}))).map((v, i) => (
+                                                {articlesDatabase.flatMap(a => a.vocab.map(v => ({...v, date: new Date(a.date).toLocaleDateString('en-IN', {day:'numeric', month:'short'} عنها)}))).map((v, i) => (
                                                     <tr key={i} className="hover:bg-slate-50/80 transition-colors">
                                                         <td className="p-4 text-slate-400 text-xs whitespace-nowrap">{v.date}</td>
                                                         <td className="p-4 font-bold text-slate-800 text-base">{v.word}</td>
@@ -722,6 +716,7 @@
                         </main>
                     </div>
 
+                    {}
                     {/* DICTIONARY MODAL */}
                     {showDictModal && (
                         <div className="no-print fixed inset-0 bg-slate-900/40 backdrop-blur-sm z-50 flex items-center justify-center p-4">
@@ -832,4 +827,6 @@
         root.render(<App />);
     </script>
 </body>
-</html>
+</html> this run perfectly thanks
+
+Now I want to learn data analytics please provide me complete roadmap and complete materials.  I don't have any idea about this  but I want to become pro because it's required for mba placements  please provide best step by step guide resources are preferably youtube channels for course but you can give any type
