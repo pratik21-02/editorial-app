@@ -1,5 +1,71 @@
 [
     {
+        "id": "art-1785931483-4509",
+        "date": "2026-08-05",
+        "title": "The Guardian view on Burnham and the devolved nations: a test for the new politics in Westminster | Editorial",
+        "content": "The prime minister has unveiled his plans for English devolution. The picture in Scotland, Wales and Northern Ireland is much less clear After early statements of intent on homelessness and social care, Andy Burnham capped his opening two weeks in office by addressing what one might call the English question. Plans for greater fiscal devolution to England’s mayoral authorities, unveiled last week, are part of what is perhaps the primary raison d’etre of Mr Burnham’s government: the need to rebalance power and resources, in a country where they have been skewed disproportionately towards London and the south-east. As the designated administrative hub of that political project, the creation of No 10 North in Manchester symbolises the ambition. Beyond England’s borders, however, the picture is much less clear. May’s elections in Scotland and particularly Wales were a disaster for Labour and Mr Burnham’s predecessor, Sir Keir Starmer. Progressive nationalist parties now rule in each of the devolved nations. How the prime minister chooses to engage with them will be a test of the kind of politics of compromise and consensus-building he has said he is committed to. Early meetings with John Swinney and Rhun ap Iorwerth, the Scottish and Welsh first ministers, have been reported as positive by both sides. But the challenge for Mr Burnham will be how to combine a conviction that power should be devolved as locally as possible, with the need to respect the status and prerogatives of different national administrations. The prime minister has argued that “the people of Dundee and Bangor feel just as distant from Holyrood and the Senedd as they do from Westminster”. That seems like a stretch, but Westminster should not in any case claim the right to bypass the devolved administrations in attempting to solve the problem. Sir Keir at times adopted precisely that approach, at one point warning ministers against being “overly deferential” to the Scottish and Welsh governments. That didn’t do Labour’s popularity much good in either country. Wales has a population of roughly the same size as Greater Manchester, yet the Welsh government does not, for example, have the powers the mayoral authority does over policing. If Mr Burnham is to be consistent in his devolutionary logic, that kind of anomaly should be addressed. Inevitably there will be frustrations, rows and disagreements, not least over calls for the Barnett formula funding arrangements to be updated. The Scottish National party, Plaid Cymru and Sinn Féin will all have a powerful motive for taking credit for what goes right, and blaming Mr Burnham’s government when things go wrong. Matters in Wales are further complicated by the minority status of the Plaid government, which Welsh Labour has refused to support and which has yet to succeed in passing a budget. But Mr Burnham’s direction of travel can be the right one for the devolved nations as well as the English regions. A confidence-building early move would be to repeal contentious powers granted by the post-Brexit United Kingdom Internal Market Act 2020, which allow London to distribute funds across the UK in a variety of policy areas. As the Institute for Government has suggested, Mr Burnham could instead fund the devolved governments to establish their own priorities. Devolution, and the possibilities it could unleash, were at the heart of Mr Burnham’s rise to Britain’s highest political office. Entirely understandably, his first moves have reflected the regional backdrop to that ascent. He should also follow his instincts in the rest of the United Kingdom. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The editorial analyzes Prime Minister Andy Burnham's plans for English devolution and highlights the critical challenge of managing relations with the devolved administrations of Scotland, Wales, and Northern Ireland through compromise rather than centralization.",
+        "tone": "Analytical, Cautious, Evaluative",
+        "skimming": [
+            "Prime Minister Andy Burnham has launched plans for greater fiscal devolution to England's mayoral authorities to rebalance power away from London.",
+            "The political landscape in Scotland, Wales, and Northern Ireland is complex, with progressive nationalist parties currently in power.",
+            "The author warns against bypassing devolved administrations, noting that previous attempts to do so damaged Labour's popularity.",
+            "To build trust, the government should address regional anomalies and consider repealing contentious post-Brexit funding powers to let devolved nations set their own priorities."
+        ],
+        "grammar": "The sentence 'How the prime minister chooses to engage with them will be a test...' utilizes a wh-noun clause ('How the prime minister chooses to engage with them') acting as the subject of the main verb 'will be'. This is an excellent structure for CAT aspirants to study for identifying complex subject-verb agreements.",
+        "vocab": [
+            {
+                "word": "devolution",
+                "english": "The transfer or delegation of power to a lower level, especially by central government to local or regional administration.",
+                "gujarati": "સત્તાનું વિકેન્દ્રીકરણ",
+                "pos": "Noun",
+                "synonyms": "decentralization, delegation, transferral",
+                "antonyms": "centralization, consolidation"
+            },
+            {
+                "word": "raison d'être",
+                "english": "The most important reason or purpose for someone or something's existence.",
+                "gujarati": "અસ્તિત્વનું મુખ્ય કારણ",
+                "pos": "Noun",
+                "synonyms": "purpose, justification, reason for being",
+                "antonyms": "pointlessness, irrelevance"
+            },
+            {
+                "word": "prerogatives",
+                "english": "Exclusive rights or privileges held by a particular individual or class.",
+                "gujarati": "વિશેષાધિકારો",
+                "pos": "Noun",
+                "synonyms": "entitlements, rights, privileges",
+                "antonyms": "obligations, duties"
+            },
+            {
+                "word": "anomaly",
+                "english": "Something that deviates from what is standard, normal, or expected.",
+                "gujarati": "વિસંગતતા",
+                "pos": "Noun",
+                "synonyms": "irregularity, inconsistency, aberration",
+                "antonyms": "conformity, regularity, normality"
+            },
+            {
+                "word": "deferential",
+                "english": "Showing respect and high regard to a superior or elder.",
+                "gujarati": "આદરપૂર્વકનું",
+                "pos": "Adjective",
+                "synonyms": "respectful, dutiful, submissive",
+                "antonyms": "disrespectful, insolent, arrogant"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "a stretch",
+                "meaning": "An exaggeration or statement that is difficult to believe as entirely true.",
+                "gujarati": "અતિશયોક્તિ અથવા માનવા જેવું ન હોવું તે"
+            }
+        ]
+    },
+    {
         "id": "art-1785918090-9560",
         "date": "2026-08-05",
         "title": "The Guardian view on 80 years of public funding for the arts: more vital than ever | Editorial",
