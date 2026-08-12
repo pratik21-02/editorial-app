@@ -1,5 +1,142 @@
 [
     {
+        "id": "art-1786518647-9831",
+        "date": "2026-08-12",
+        "title": "The Guardian view on wildfires: firefighters can’t handle this crisis alone | Editorial",
+        "content": "The response to this summer’s record heat and drought should be led by ministers – not left to the emergency services The wildfire that began on protected heathland in the New Forest in Hampshire on Sunday was reported to be under control on Tuesday. But with temperatures forecast to reach 36C or higher in parts of England on Thursday, the risk of further outbreaks remains high. Firefighters responded to 185 wildfires in the first 10 days of August. In coastal Suffolk, conservationists and locals are counting the cost of the blaze that devastated Dunwich Heath. Its vegetation and rare bird populations are expected to take decades to recover. Although the immediate cause of many wildfires is litter, the risks are elevated by heat and drought, and repeated warnings from climate scientists do not necessarily lessen the shock and distress caused. As people and governments across Europe assess this summer’s damage, experts including the UN climate chief, Simon Stiell, hope that the fires will focus minds on the urgent necessity of cutting emissions – as well as investing in emergency planning. Europe is currently heating up faster than any other continent, due in part to proximity to the melting Arctic. The global, existential nature of the climate crisis makes it an awkward fit with Andy Burnham’s current focus on “everyday fixes”. But if he does not find more to say about the summer’s disasters, he is in danger of being left behind. The National Trust has already surpassed its £500,000 fundraising target to restore Dunwich Heath. Conservationists and farmers are publicly debating the best ways to prevent fires. The Fire Brigades Union (FBU) is pushing for 5,000 additional firefighters across the UK, along with new equipment. In March, the then fire safety minister, Samantha Dixon, said that the fire and rescue service had suffered from “decades of drift and inertia”. Her speech also confirmed that a new College of Fire and Rescue would oversee professional standards, as recommended by the Grenfell inquiry. But three weeks ago Ms Dixon was sacked. If the government wants to avoid an impression that drift and inertia are ongoing, they need to provide an update, along with a response to repeated calls from the fire service inspectorate for new enforcement powers. MPs on the home affairs committee threw their weight behind this idea two years ago. The fire and rescue service is popular with the public. Even highly critical sections of the Grenfell inquiry report did not significantly undermine confidence in it. This summer’s events seem likely to reaffirm this positive regard, and rightly so: public servants who do dangerous, difficult jobs, when many other people are on holiday, deserve to be appreciated. But scrutiny of the service is also important. An inquiry by the home affairs select committee, which was summarised in a letter to the home secretary in 2024, contained strong criticism of its culture and leadership. Such concerns deserve a fuller response than they have so far received from ministers. So do the FBU’s call for investment to cope with rising risks, and proposals for a temporary ban on disposable barbecues. Ill-informed and ideological attempts to blame rewilding should also be addressed by ministers. Working groups on how to reduce wildfire risks must produce plans. The latest report from the government’s Climate Change Committee found that existing adaptation plans are not fit for purpose. This summer’s extraordinary heat, drought and wildfires should be a spur to action on both the fire service and the wider climate crisis.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The escalating wildfire crisis in the UK, driven by climate change, cannot be managed by emergency services alone; it requires urgent ministerial leadership, policy updates, and robust climate adaptation plans.",
+        "tone": "Urgent, Critical, Analytical",
+        "skimming": [
+            "Record heat and drought have triggered a surge in devastating wildfires across the UK, severely impacting ecosystems like Dunwich Heath.",
+            "Climate experts emphasize that these fires highlight the urgent need to cut emissions and invest in emergency planning.",
+            "The Fire Brigades Union and conservationists are calling for more resources, policy updates, and preventative measures, but government response has suffered from 'drift and inertia'.",
+            "A comprehensive strategy involving both fire service reform and robust climate adaptation plans is crucial to tackle the crisis."
+        ],
+        "grammar": "The text utilizes a first conditional structure: 'If the government wants to avoid an impression that drift and inertia are ongoing, they need to provide an update...'. This structure is used to express a real or highly possible condition in the present/future and its necessary consequence or action.",
+        "vocab": [
+            {
+                "word": "inertia",
+                "english": "A tendency to do nothing or to remain unchanged.",
+                "gujarati": "નિષ્ક્રિયતા / જડતા",
+                "pos": "Noun",
+                "synonyms": "inactivity, apathy, lethargy, inaction",
+                "antonyms": "activity, dynamism, energy, action"
+            },
+            {
+                "word": "existential",
+                "english": "Relating to existence, especially human survival.",
+                "gujarati": "અસ્તિત્વ સંબંધી",
+                "pos": "Adjective",
+                "synonyms": "experiential, ontological, vital",
+                "antonyms": "non-essential, ungrounded"
+            },
+            {
+                "word": "proximity",
+                "english": "Closeness in space, time, or relationship.",
+                "gujarati": "નિકટતા / સમીપતા",
+                "pos": "Noun",
+                "synonyms": "nearness, closeness, adjacency",
+                "antonyms": "distance, remoteness"
+            },
+            {
+                "word": "devastated",
+                "english": "Destroyed or ruined completely.",
+                "gujarati": "તારાજ થયેલું / બરબાદ થયેલું",
+                "pos": "Verb (used as Adjective)",
+                "synonyms": "ravaged, wrecked, ruined, demolished",
+                "antonyms": "restored, preserved, protected"
+            },
+            {
+                "word": "scrutiny",
+                "english": "Critical observation or examination.",
+                "gujarati": "ઝીણવટભરી તપાસ / ચકાસણી",
+                "pos": "Noun",
+                "synonyms": "inspection, examination, analysis, audit",
+                "antonyms": "neglect, ignorance, glance"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "threw their weight behind",
+                "english": "To use one's influence or support to advocate for or help someone or something.",
+                "gujarati": "પૂરેપૂરો ટેકો આપવો / પીઠબળ પૂરું પાડવું"
+            }
+        ]
+    },
+    {
+        "id": "art-1786518660-120",
+        "date": "2026-08-12",
+        "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
+        "content": "Amid public concern over the impact of new technology, Silicon Valley’s use of its wealth to influence specific election races is an unwelcome development As the huge societal ramifications of artificial intelligence have become clear, some of the tech industry’s most senior figures have taken to writing thinkpieces on what comes next. The latest to do so is Mark Zuckerberg, who this week published 6,500 words making the case for a laissez-faire approach to AI development. Worrying too much about regulation, Meta’s CEO unsurprisingly opines, could lead to the United States falling behind in the race to own the future. Mr Zuckerberg’s plea for maximum autonomy is, of course, self-serving. Much of his essay – which airily envisions “invention superpowers” for every entrepreneur and “an abundance of jobs in the future” – reads like unadulterated tech-utopianism. But the lobbying at least has the merit of being out there in the open. As midterm elections loom in the US, darker arts are also being used to counter popular concern about what AI will mean for a host of topics, from the labour market to child safety, the environment and cybersecurity. Replicating a strategy deployed by cryptocurrency backers in the 2024 election cycle, Silicon Valley is pouring hundreds of millions of dollars into Super Pacs – groups unaffiliated to political parties or campaigns – to ensure that voices sympathetic to its deregulatory AI agenda get elected. OpenAI’s co-founder and president, Greg Brockman, and Palantir’s co-founder, Jo Lonsdale, have given large sums to Leading the Future, an organisation dedicated to “identifying, maintaining, and growing pro-AI candidates”. Vast amounts are being spent to try to tilt the balance in individual contests, sometimes through disingenuous means. Earlier this summer, Leading the Future spent $6m on ads attacking Alex Bores, a New York state assemblyman and pioneer of AI regulation at state level. Rather than focus on his AI campaigning, the ads attacked Mr Bores’s progressive credentials, alleging that he had carried out tech work in the past for US Immigration and Customs Enforcement, which he denies. Running for Congress in a Democratic stronghold, he lost a tight primary race after battling what was in essence a smear campaign. Countervailing forces are emerging. Guardrails Alliance, a union-backed Super Pac, is attempting to combat Leading the Future’s influence, while a bipartisan groundswell of opposition to datacentres is generating serious electoral clout. But as tech companies and their billionaire owners seek to shape and above all limit the scope of AI regulation, their influence is distorting debate in a political culture where the power of money already holds far too much sway. In his essay, Mr Zuckerberg urges that AI’s democratising potential be protected from those who believe “a small set of experts … should decide what is best for humanity”. He appears to miss the irony that an unelected tech oligarchy, to which he belongs, is already performing that function by default. Its pressure has been instrumental in persuading Donald Trump to cancel the signing of an executive order which would have given the government the right to review new AI models. Its wealth is now being used to attack and undermine dissenting voices in the public square. If a democratic debate about the benefits and dangers of AI is to take place, such presumption must be fiercely resisted in the US and elsewhere. The semi-covert manipulation of political discussion is no way to map out an inclusive future in challenging times.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The editorial criticizes Silicon Valley's use of immense wealth and Super PACs to influence US elections, arguing that such covert financial manipulation distorts democratic debate and blocks necessary AI regulation.",
+        "tone": "Critical, Analytical, Apprehensive",
+        "skimming": [
+            "Tech executives like Mark Zuckerberg advocate for minimal AI regulation, claiming it is necessary to maintain US competitiveness.",
+            "Silicon Valley is heavily funding Super PACs to elect pro-AI candidates and defeat those advocating for regulatory guardrails.",
+            "These well-funded campaigns often employ smear tactics and disingenuous ads to target and defeat reform-minded politicians.",
+            "The immense financial power of the tech oligarchy distorts democratic processes, making it crucial to resist their influence to ensure a fair debate on AI's future."
+        ],
+        "grammar": "The sentence 'He appears to miss the irony that an unelected tech oligarchy, to which he belongs, is already performing that function by default' features a relative clause introduced by a preposition ('to which'). This formal structure places the preposition before the relative pronoun 'which' rather than stranding it at the end of the clause ('which he belongs to').",
+        "vocab": [
+            {
+                "word": "laissez-faire",
+                "english": "A policy or attitude of letting things take their own course, without interfering.",
+                "gujarati": "હસ્તક્ષેપ ન કરવાની નીતિ",
+                "pos": "Adjective",
+                "synonyms": "non-interventionist, free-enterprise, hands-off",
+                "antonyms": "interventionist, protectionist, regulatory"
+            },
+            {
+                "word": "opines",
+                "english": "States or expresses one's opinion.",
+                "gujarati": "અભિપ્રાય આપવો",
+                "pos": "Verb",
+                "synonyms": "suggests, declares, asserts, observes",
+                "antonyms": "withholds, keeps silent"
+            },
+            {
+                "word": "unadulterated",
+                "english": "Not mixed or diluted with any different or extra elements; complete and absolute.",
+                "gujarati": "શુદ્ધ, ભેળસેળ વિનાનું",
+                "pos": "Adjective",
+                "synonyms": "pure, sheer, unmitigated, absolute",
+                "antonyms": "adulterated, contaminated, diluted, mixed"
+            },
+            {
+                "word": "disingenuous",
+                "english": "Not candid or sincere, typically by pretending that one knows less about something than one really does.",
+                "gujarati": "કપટી, અપ્રમાણિક",
+                "pos": "Adjective",
+                "synonyms": "deceitful, insincere, duplicitous, hypocritical",
+                "antonyms": "ingenuous, sincere, honest, frank"
+            },
+            {
+                "word": "oligarchy",
+                "english": "A small group of people having control of a country, organization, or institution.",
+                "gujarati": "અલ્પજનતંત્ર, થોડા લોકોનું શાસન",
+                "pos": "Noun",
+                "synonyms": "elite, cabal, junta, aristocracy",
+                "antonyms": "democracy, anarchy"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "hold sway",
+                "meaning": "To have great power, influence, or control over a person, group of people, or place.",
+                "gujarati": "વર્ચસ્વ હોવું"
+            },
+            {
+                "idiom": "tilt the balance",
+                "meaning": "To alter a situation in a way that gives one group or person an advantage.",
+                "gujarati": "પલ્લું નમાવવું"
+            }
+        ]
+    },
+    {
         "id": "art-1786431076-1613",
         "date": "2026-08-11",
         "title": "The Guardian view on the failed Gaza peace plan: Trump’s hollow claims are ignored in Jerusalem | Editorial",
