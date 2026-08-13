@@ -1,5 +1,81 @@
 [
     {
+        "id": "art-1786605297-471",
+        "date": "2026-08-13",
+        "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
+        "content": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan’s yen has slid back towards 160 to the dollar, despite last month’s extraordinary US-Japanese intervention. Traders are betting that its role as a cheap funding pipeline for global finance will continue. Earlier this month the Trump administration stepped in to help Tokyo stabilise its currency. “Japan’s been very good to us, with the exception, of course, of Pearl Harbor,” Donald Trump explained. More help is likely to be on its way. But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan’s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and investment. Japan’s “carry trade” is one of the reasons Wall Street can lever hundreds of billions into AI. Research suggests AI sucks up more than 1% of US GDP. Washington wants to keep this tap open, but not at the cost of a collapsing yen or US treasury sales. This column predicted this in April, warning that Tokyo’s monetary choices had bound US markets to the yen trade. What Mr Bessent did was to sell at least $10bn in euros and buy yen to arrest its slide to a 40-year low. Not telling the Europeans said it all: allies matter to Washington only when they are useful. Traders are probing US resolve. Rising oil prices, driven by US-Iran tensions, stoke Japan’s inflation and weaken the yen. Suppose it slides back to 164 yen to the dollar? Tokyo might respond with aggressive rate rises. This would be unlikely, as it would choke off the investment cycle that Japan is trying to create. It could also trigger a chaotic market unwind: higher rates shrink the gap between investors’ returns and yen borrowing; a stronger yen also makes yen‑denominated debts costlier to repay; investors then sell US assets to buy the yen needed to close their positions. That strengthens the yen further, inflicting bigger losses and forcing more US asset sales. A currency correction could quickly become a Wall Street rout. If Mr Bessent dislikes that option, he hates the alternative: Japan selling its $1.1tn treasury pile to buy yen. Dumping US debt would drive yields higher – and leave Washington with a costlier interest bill. Instead, Mr Bessent has allowed Japan to borrow dollars against its treasuries and use those dollars to buy yen. He has used a Federal Reserve lending facility to help – and wants its current $60bn daily limit substantially increased. This would give Tokyo room to stabilise the yen without having to choose between abandoning its reflationary programme and selling treasuries. If Mr Bessent gets his way, the Fed could turn a substantial portion of Japan’s trillion-dollar hoard of US government securities into cash. Argentina showed Mr Bessent would put American firepower behind currencies, spending billions to prop up the peso. Japan is the bigger challenge. He is asking traders: are you sure that you want to return to 164 yen to the dollar? He has form as a currency trader. Mr Bessent made George Soros a billion dollars in 1992 by selling pounds and forcing sterling from the European exchange rate mechanism. In 2013, Mr Bessent helped George Soros make another billion dollars betting against the Japanese currency. Margaret Thatcher famously said that “you can’t buck the market”. Mr Bessent is saying you can – as long you rewrite its rules. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The US intervention to stabilize the Japanese yen is a strategic move by Treasury Secretary Scott Bessent to protect the 'carry trade' that fuels the US tech boom, while preventing Japan from dumping its massive US treasury holdings.",
+        "tone": "Analytical, Critical, Pragmatic",
+        "skimming": [
+            "Despite joint US-Japanese interventions, traders continue to bet on the yen as a cheap global funding pipeline.",
+            "The yen 'carry trade' allows investors to borrow cheaply in Japan and invest in high-yielding US assets, particularly AI and tech stocks.",
+            "A sudden collapse of the yen or aggressive rate hikes by Tokyo could trigger a chaotic market unwind and a Wall Street rout.",
+            "US Treasury Secretary Scott Bessent is using Federal Reserve facilities to help Japan stabilize its currency without selling its $1.1 trillion US treasury pile."
+        ],
+        "grammar": "The sentence 'Not telling the Europeans said it all' features a negative gerund phrase ('Not telling the Europeans') acting as the complete subject of the sentence, followed by the idiomatic predicate 'said it all'.",
+        "vocab": [
+            {
+                "word": "Spigot",
+                "english": "A faucet or device for controlling the flow of liquid; metaphorically, a source of money or resources.",
+                "gujarati": "નળ અથવા પ્રવાહ નિયંત્રક (નાણાંનો સ્ત્રોત)",
+                "pos": "Noun",
+                "synonyms": "faucet, tap, outlet, valve",
+                "antonyms": "blockage, obstruction"
+            },
+            {
+                "word": "Lever",
+                "english": "To use borrowed capital for an investment in the expectation of keeping the profit.",
+                "gujarati": "નાણાકીય લાભ મેળવવો (લિવરેજ કરવું)",
+                "pos": "Verb",
+                "synonyms": "leverage, exploit, influence",
+                "antonyms": "delever, reduce debt"
+            },
+            {
+                "word": "Rout",
+                "english": "A decisive defeat or a chaotic retreat; in finance, a sharp and sudden fall in market prices.",
+                "gujarati": "ભારે પરાજય અથવા બજારમાં મોટો કડાકો",
+                "pos": "Noun",
+                "synonyms": "debacle, defeat, collapse, crash",
+                "antonyms": "victory, triumph, boom, rise"
+            },
+            {
+                "word": "Reflationary",
+                "english": "Relating to monetary or fiscal policies designed to expand output and curb the effects of deflation.",
+                "gujarati": "આર્થિક પુનઃપ્રસાર સંબંધી (ફુગાવાજનક નીતિ)",
+                "pos": "Adjective",
+                "synonyms": "expansionary, stimulative",
+                "antonyms": "deflationary, contractionary"
+            },
+            {
+                "word": "Unwind",
+                "english": "The dissolution or reversal of a complex financial position (like the carry trade).",
+                "gujarati": "નાણાકીય સોદા પાછા ખેંચવા તે",
+                "pos": "Noun",
+                "synonyms": "reversal, liquidation, dismantling",
+                "antonyms": "accumulation, buildup"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "Carry trade",
+                "meaning": "A financial strategy of borrowing money at a low interest rate in one currency and investing it in an asset with a higher rate of return in another.",
+                "gujarati": "વ્યાજ દરના તફાવતનો વેપાર (કેરી ટ્રેડ)"
+            },
+            {
+                "idiom": "Buck the market",
+                "meaning": "To go against the prevailing market trends or economic forces.",
+                "gujarati": "બજારના પ્રવાહની વિરુદ્ધ જવું"
+            },
+            {
+                "idiom": "Easy-money",
+                "meaning": "A monetary policy that increases the money supply by making borrowing cheap and easily accessible.",
+                "gujarati": "સરળતાથી ઉપલબ્ધ સસ્તું ધિરાણ (સસ્તી નાણાં નીતિ)"
+            }
+        ]
+    },
+    {
         "id": "art-1786518647-9831",
         "date": "2026-08-12",
         "title": "The Guardian view on wildfires: firefighters can’t handle this crisis alone | Editorial",
