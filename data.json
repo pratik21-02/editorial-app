@@ -1,5 +1,137 @@
 [
     {
+        "id": "art-1787293831-8710",
+        "date": "2026-08-21",
+        "title": "The Guardian view on GCSE results: much to celebrate, much to reform | Editorial",
+        "content": "Another post-pandemic cohort has shown its resilience and talent. But growing inequalities of outcome must be addressed Most pupils who received their GCSE results this week were in the penultimate year of primary school when Covid struck, disrupting their preparation for secondary education. As with other post-pandemic cohorts, their achievements are therefore a testament to their ability, resilience and determination. A strong set of results, particularly in the core subjects of English and maths, should also be seen as a tribute to teachers dealing with ever expanding workloads. Overall the impression is one of a welcome return to stability, as the legacy of the years of cancelled exams and teacher assessments is left behind. The proportion of top grades awarded in England, Wales and Northern Ireland rose compared with last year, but only by a tenth of a percentage point, while the overall pass rate fell by the same margin to 67.3% – the same as in 2019. Nevertheless, the latest results throw up familiar grounds for concern. The ongoing decline in language learning appears to be accelerating to an alarming degree, with GCSE take-up in French and other modern languages falling sharply again. A culturally enriching part of the curriculum is in danger of becoming the preserve of affluent state schools and the independent sector. More broadly, inequalities of outcome suggest a fundamental change in approach is required to address regional disparities that have become entrenched. London schools once again pulled away from those in the north and the Midlands when it came to the awarding of top grades. Recent research has shown that good GCSE grades have a disproportionately beneficial impact on the life chances of pupils from less privileged backgrounds. A levelling up strategy is urgently needed. While overall results in English and maths were impressive, a significant proportion of teenagers failed to achieve a grade 4 pass. The data also confirmed that the policy in England of imposing compulsory resits in those subjects is blighting lives rather than raising standards. Only 18.8% of those aged 17 and over achieved the requisite pass grade in English, down from last year, with an even smaller proportion achieving a grade 4 in maths. Far too many young people are becoming trapped in a demoralising and humiliating cycle of failure, which is blocking their progress into the world of work. The government plans to introduce a new “stepping stone” qualification to build confidence ahead of resits, but a more radical overhaul is needed. At a time when an estimated 1 million 16- to 24-year-olds are not in education, employment or training, developing a more nuanced approach, including alternative pathways, should be a priority. An overhaul is what Andy Burnham and his education secretary, Lucy Powell, are promising. From 2028, the educational landscape in England may change significantly for 14- to 16-year-olds. The prime minister appears committed to rebalancing the curriculum by expanding the number of technical education options available to students, in a reprise of his approach as the mayor of Greater Manchester. If a true parity of esteem is to be established between academic and vocational routes, as Mr Burnham desires, it will require a significant injection of resources. But the focus is the right one. Though there was much to celebrate as another post-Covid cohort came of age, the inequalities and failures revealed again by this year’s results are long overdue for attention. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "While the resilience of post-pandemic students and their GCSE achievements are commendable, the results expose deep-seated regional inequalities and a flawed compulsory resit policy that urgently demand systemic educational reform.",
+        "tone": "Analytical, Critical, Constructive",
+        "skimming": [
+            "Post-pandemic GCSE results show student resilience and a return to stability, with pass rates mirroring 2019 levels.",
+            "An alarming decline in language learning risks making cultural enrichment exclusive to affluent and independent schools.",
+            "Persistent regional disparities, with London outperforming the North and Midlands, highlight the urgent need for a levelling-up strategy.",
+            "The policy of compulsory English and maths resits is failing, trapping students in a demoralizing cycle of failure and blocking employment."
+        ],
+        "grammar": "The sentence 'If a true parity of esteem is to be established... it will require...' uses a conditional structure combined with a passive infinitive ('is to be established') to express a necessary condition or prerequisite for a future outcome.",
+        "vocab": [
+            {
+                "word": "cohort",
+                "english": "A group of people sharing a common statistical or demographic characteristic.",
+                "gujarati": "સમાન લક્ષણો ધરાવતું જૂથ અથવા સમૂહ",
+                "pos": "Noun",
+                "synonyms": "group, category, generation, batch",
+                "antonyms": "individual, opponent"
+            },
+            {
+                "word": "resilience",
+                "english": "The capacity to recover quickly from difficulties; toughness.",
+                "gujarati": "મુશ્કેલીઓ સામે ટકી રહેવાની ક્ષમતા કે સ્થિતિસ્થાપકતા",
+                "pos": "Noun",
+                "synonyms": "toughness, adaptability, fortitude, strength",
+                "antonyms": "fragility, vulnerability, weakness"
+            },
+            {
+                "word": "entrenched",
+                "english": "Firmly established and difficult or unlikely to change.",
+                "gujarati": "દ્રઢપણે સ્થાપિત થયેલું કે અપરિવર્તનીય",
+                "pos": "Adjective",
+                "synonyms": "deep-seated, ingrained, fixed, rooted",
+                "antonyms": "superficial, temporary, transient"
+            },
+            {
+                "word": "demoralising",
+                "english": "Causing someone to lose confidence or hope; disheartening.",
+                "gujarati": "મનોબળ તોડી નાખનારું કે નિરાશાજનક",
+                "pos": "Adjective",
+                "synonyms": "disheartening, discouraging, dispiriting, depressing",
+                "antonyms": "encouraging, heartening, inspiring, motivating"
+            },
+            {
+                "word": "parity",
+                "english": "The state or condition of being equal, especially regarding status, pay, or value.",
+                "gujarati": "સમાનતા અથવા સમકક્ષતા",
+                "pos": "Noun",
+                "synonyms": "equality, equivalence, uniformity, balance",
+                "antonyms": "disparity, inequality, imbalance, divergence"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "came of age",
+                "meaning": "Reached full development, maturity, or a significant milestone.",
+                "gujarati": "પુખ્ત વયના થવું અથવા પરિપક્વતાના તબક્કે પહોંચવું"
+            }
+        ]
+    },
+    {
+        "id": "art-1787293841-727",
+        "date": "2026-08-21",
+        "title": "The Guardian view on Trump’s MMR executive order: endangering the children he claims to care about | Editorial",
+        "content": "The president’s empty advice that children should receive separate jabs against measles, mumps and rubella will only lead to less take-up by parents Nobody wants to hurt a child. The howl of pain, the tears, the look of betrayed shock all make it very hard to deliver a cherished small person to the needle-wielding nurse. But that’s part of being a responsible parent. It becomes a lot tougher if mum or dad is being fed mixed and erroneous messages about the benefits and harms of vaccination. Parents have to make a lot of decisions about what’s right for their child, from the school they should go to and the food they should eat to the hours they should spend on the phone or watching TV. In the US, Donald Trump wants them to add another: do they choose to give their children separate jabs against measles, mumps and rubella, involving six visits to the clinic, or should they opt for the combined MMR vaccine, which does the job in two? For decades, the vast majority of families have been taking the advice of doctors, accepting their assurance that the MMR vaccine is safe and very effective. But what are they to think when a US president announces that the triple jab could be “quite lethal” and signs an executive order advising states to offer separate vaccines? For the moment, what Mr Trump is proposing is an empty choice. The individual vaccines are not available. They have not been widely used in decades. In the US and in the UK, they don’t have a licence, and to get one, pharma companies such as GSK and Merck & Co would probably have to run new clinical trials to prove that they work and are safe, which would take years. Both have already said that no published scientific evidence supports splitting the MMR vaccine into single shots. They are not rushing to invest in making them, for all the US president’s enthusiasm. But we are likely to see a rerun of the furore and distress in 1998 caused by Andrew Wakefield, the British gastroenterologist (not an infectious diseases specialist) who declared that the MMR vaccine was linked to the gut disorder Crohn’s disease and thence to autism. His evidence-free advice was for parents to seek separate vaccines. As now, they were not readily available, so many children went without. Measles vaccination levels dropped alarmingly and measles cases rose. Struck off as a doctor, Mr Wakefield now lives in Texas, hero-worshipped by vaccine sceptics, and his views are embraced by all those suspicious of or hostile to the medical and scientific establishment, including the president and his health secretary, Robert F Kennedy Jr. They fit an anti-science agenda that has recently seen the pursuit by a congressional committee of Dr Anthony Fauci, who led the US response to Covid-19 and is now being accused of covering up its origins. Mr Trump and RFK Jr already aim to shrink the vaccine schedule in the US from 18 to 11 shots, citing Denmark, where fewer vaccines are given to young children. But Denmark offers universal high-quality healthcare and excellent screening programmes to pick up those at risk. The US does not, and children fall through the cracks. No other country recommends single measles, mumps and rubella vaccines. But such is the confusion that some parents are likely to take away the message that the combined jab is unsafe – and that no jab is a better choice. President Trump is putting at risk the very “beautiful, healthy, lovely, delicate little children” that he claims to care about. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "Donald Trump's executive order promoting separate vaccines for measles, mumps, and rubella instead of the combined MMR vaccine is scientifically unfounded and threatens public health by confusing parents and lowering vaccination rates.",
+        "tone": "Critical, Apprehensive, Condemnatory",
+        "skimming": [
+            "Donald Trump's executive order advises states to offer separate vaccines for measles, mumps, and rubella instead of the combined MMR vaccine.",
+            "The individual vaccines are currently unlicensed and unavailable, meaning pharmaceutical companies would have to run years of clinical trials to produce them.",
+            "The current situation mirrors the 1998 Andrew Wakefield controversy, which caused vaccination rates to drop and measles cases to rise.",
+            "The anti-science agenda of the Trump administration risks confusing parents into avoiding vaccinations altogether, endangering children's lives."
+        ],
+        "grammar": "The phrase 'for all the US president’s enthusiasm' uses 'for all' as a preposition meaning 'despite' or 'in spite of'. It is an advanced concessive structure used to contrast the president's eagerness with the pharmaceutical companies' reluctance to invest.",
+        "vocab": [
+            {
+                "word": "erroneous",
+                "english": "wrong; incorrect",
+                "gujarati": "ભૂલભરેલું",
+                "pos": "Adjective",
+                "synonyms": "inaccurate, fallacious, mistaken",
+                "antonyms": "correct, accurate, true"
+            },
+            {
+                "word": "furore",
+                "english": "an outbreak of public anger or excitement",
+                "gujarati": "હોબાળો",
+                "pos": "Noun",
+                "synonyms": "uproar, commotion, outcry",
+                "antonyms": "calm, peace, tranquility"
+            },
+            {
+                "word": "sceptics",
+                "english": "people inclined to question or doubt accepted opinions",
+                "gujarati": "શંકાશીલ લોકો",
+                "pos": "Noun",
+                "synonyms": "doubters, cynics, dissenters",
+                "antonyms": "believers, devotees, followers"
+            },
+            {
+                "word": "lethal",
+                "english": "sufficient to cause death; deadly",
+                "gujarati": "ઘાતક",
+                "pos": "Adjective",
+                "synonyms": "fatal, deadly, mortal",
+                "antonyms": "harmless, safe, beneficial"
+            },
+            {
+                "word": "cherished",
+                "english": "protectively cared for; deeply loved",
+                "gujarati": "વહાલું",
+                "pos": "Adjective",
+                "synonyms": "adored, treasured, valued",
+                "antonyms": "despised, neglected, unloved"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "fall through the cracks",
+                "meaning": "to be neglected, overlooked, or forgotten by a system",
+                "gujarati": "ધ્યાન બહાર રહી જવું અથવા ઉપેક્ષિત થવું"
+            }
+        ]
+    },
+    {
         "id": "art-1787207409-4682",
         "date": "2026-08-20",
         "title": "The Guardian view on the Ebola outbreak in the DRC: a case study in why international aid matters | Editorial",
