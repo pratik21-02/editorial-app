@@ -1,5 +1,139 @@
 [
     {
+        "id": "art-1787379834-7989",
+        "date": "2026-08-22",
+        "title": "The Guardian view on Andy Burnham’s buses: a blueprint for governing Britain | Editorial",
+        "content": "The prime minister is right to think that taking Manchester’s model national could widen opportunity, clean the air and rebuild state capacity. Other public services could be next Barely a month into his premiership, Andy Burnham is already taking the lessons of Manchester’s buses national. This week his government backed the West Midlands mayor Richard Parker’s move to bring the region’s main bus operation into public control. In July, he announced that he would reinstate a £2 national bus fare cap from January 2027. He’s also expanding free bus travel for disabled people to all hours. Transport affordability is clearly part of Mr Burnham’s cost of living programme. That is to be applauded, as is the emphasis on public transport, which – importantly for Labour – reduces social exclusion, boosts local economies, and is better for the environment. Yet buses may matter to Mr Burnham for another reason: they offer a blueprint for how he wants to govern. This is because Mr Burnham seems to have a worked-out model. He told the Times this week that the prescription for services such as water, housing and energy isn’t yet clear, “with the exception of buses”. Public control, Mr Burnham reasons, gives government the power to make provision cheaper and more reliable – and to shape it around the public interest. For buses, that means the government determining the shape of the network even where private companies run the services. Municipal ownership this is not. Despite that, more money will be needed. Austerity slashed public transport budgets, and consequently bus journeys fell. Outside London, buses clock up about 736m miles a year, nearly a third below 2005. Getting back to a decent service would cost a paltry sum. For £300m a year, England could get buses back into its worst-served communities. For about £1bn, the Campaign for Better Transport calculated, ministers could provide decent, frequent services in towns and rural areas. In 2021, the Campaign to Protect Rural England put the price of a Swiss-style bus network – an hourly service from 6am to midnight for every village of more than 300 people – at £2.7bn a year. Accounting for inflation, that would be £3.4bn today, just 1.5% of the NHS budget. Public transport isn’t only about moving people around. London’s extensive tube, rail and bus network gave Sir Sadiq Khan the room to introduce Ulez. The scheme charged drivers of older, more polluting vehicles and brought measurable health benefits. A study has shown that children’s lungs grew bigger and stronger after Ulez was introduced. It is worth noting that Mr Burnham abandoned Manchester’s clean-air charging zone when the post-pandemic cost of replacing dirty vehicles threatened to fall heavily on businesses. He instead pressed ahead with the Bee Network, giving Manchester a more affordable public-transport alternative, while simultaneously spending public money cleaning up the city’s bus fleet. It was a politically shrewd sequence: improve the alternative so that you could persuade people to use their cars less. Both Theresa May and Sir John Major have tried to diminish Mr Burnham’s mayoral experience by contrasting “running Manchester” and “dealing with buses” with being in Downing Street. Yet the prime minister appears to regard buses not as an incidental part of his record but as an exemplar for his government. The Centre for Cities thinktank argues that poor transport makes big English urban centres outside London effectively smaller in economic terms, by cutting workers off from opportunities. Perhaps his critics have it backwards: buses are not a distraction from governing Britain; connecting people to cities is part of the job.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The editorial highlights how bringing bus services under public control, modeled after Manchester's system, serves as a practical blueprint for national governance to improve public services, boost local economies, and address environmental concerns.",
+        "tone": "Analytical, Supportive, Pragmatic",
+        "skimming": [
+            "The UK government is backing regional moves to bring bus operations back under public control, inspired by Manchester's successful model.",
+            "Public control allows the state to regulate fares and routes, offering a template for managing other public utilities like water and energy.",
+            "Revitalizing the national bus network requires a relatively small financial investment compared to other major public sectors like the NHS.",
+            "Efficient public transport is crucial for economic growth as it connects workers to opportunities and enables effective environmental policies."
+        ],
+        "grammar": "The text frequently uses colons (e.g., 'Yet buses may matter to Mr Burnham for another reason: they offer a blueprint...') to connect two independent clauses where the second clause directly explains or expands upon the first. This is a crucial punctuation rule tested in CAT sentence correction.",
+        "vocab": [
+            {
+                "word": "premiership",
+                "english": "The office or term of office of a prime minister",
+                "gujarati": "વડાપ્રધાનપદ",
+                "pos": "Noun",
+                "synonyms": "term of office, administration, reign",
+                "antonyms": "N/A"
+            },
+            {
+                "word": "paltry",
+                "english": "Very small or meager; practically worthless",
+                "gujarati": "નજીવું",
+                "pos": "Adjective",
+                "synonyms": "meager, trifling, insignificant, petty",
+                "antonyms": "substantial, significant, considerable"
+            },
+            {
+                "word": "shrewd",
+                "english": "Having or showing sharp powers of judgment; astute",
+                "gujarati": "ચતુર",
+                "pos": "Adjective",
+                "synonyms": "astute, sharp-witted, clever, calculating",
+                "antonyms": "foolish, naive, unwise"
+            },
+            {
+                "word": "diminish",
+                "english": "To make or become less; to belittle",
+                "gujarati": "ઘટાડવું",
+                "pos": "Verb",
+                "synonyms": "decrease, lessen, decline, disparage",
+                "antonyms": "increase, magnify, praise"
+            },
+            {
+                "word": "exemplar",
+                "english": "A person or thing serving as a typical example or excellent model",
+                "gujarati": "આદર્શ નમૂનો",
+                "pos": "Noun",
+                "synonyms": "epitome, perfect example, paradigm, model",
+                "antonyms": "anomaly, imperfection"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "clock up",
+                "meaning": "To reach a total of a distance, time, or points",
+                "gujarati": "નોંધાવવું (અંતર કે સમય)"
+            },
+            {
+                "idiom": "have it backwards",
+                "meaning": "To have a situation, concept, or idea completely wrong or reversed",
+                "gujarati": "ઊંધું સમજવું"
+            }
+        ]
+    },
+    {
+        "id": "art-1787379845-9111",
+        "date": "2026-08-22",
+        "title": "The Guardian view on the export of fossils: they deserve national treasure status | Editorial",
+        "content": "Scientific specimens are being sold to foreign museums or snapped up by the super-rich. They should have the same legal protections as works of art As Sir David Attenborough has observed, “there’s nothing more magical than finding a shiny shell and knowing you’re the first person to have seen it for 150 million years”. Senior museum figures are campaigning for fossils to be classed as national treasures, according to the Waverley criteria, which control the export of objects considered culturally important to the nation. But the rules only cover natural treasures that are “made”, excluding fossils. These calls come after a private collection from the Jurassic Coast was sold to the Natural History Museum Abu Dhabi for a reported eight-figure sum. Both the Natural History Museum in London and Amgueddfa Cymru (Museum Wales) were offered the 318 fossils, but they didn’t have the funds. Unlike countries such as Brazil and Mongolia, where fossils belong to the state, Britain relies largely on a voluntary code of conduct. The line between fossils as scientific specimens and fossils as aesthetic objects is becoming increasingly blurred – and their value is rocketing accordingly. Where once Damien Hirst’s shark made waves on the contemporary art scene, a dinosaur fossil appeared at London’s Frieze Masters in 2023. Last month, a 67m-year-old Tyrannosaurus rex fossil called Gus broke records at a Sotheby’s auction in New York. He toppled Apex, a stegosaurus bought by an American hedge fund manager in 2024, now on loan to the American Museum of Natural History in New York, and Stan, another T rex, was also acquired by the Natural History Museum Abu Dhabi in 2022. Big beasts of Hollywood have also got in on the act, with Nicolas Cage and Leonardo DiCaprio battling it out for a fossil. Today’s dinomania has everyone from tech giants to TikTokers in its grip. But there is nothing new about fossil collecting. Mary Anning, a cabinetmaker’s daughter born in Lyme Regis in 1799, was one the UK’s greatest palaeontologists, although, as a woman, she was not allowed to join the Geological Society of London. Her life story inspired Tracy Chevalier’s 2009 novel Remarkable Creatures and the 2020 film Ammonite. The Victorian passion for palaeontology provides the backdrop to the clandestine love stories in John Fowles’s French Lieutenant’s Woman (also set in Lyme Regis) and AS Byatt’s Possession. Fossils have provided a rich seam for writers and film‑makers from Tennyson (an enthusiastic collector on the Isle of Wight) to Noel Streatfeild’s 1936 children’s classic Ballet Shoes starring the foundling Fossil sisters, to Steven Spielberg’s Jurassic Park blockbusters. Last year’s Jurassic World Reborn has been credited with contributing to the recent collecting boom. Fossils and dinosaurs are a source of childhood wonder. These long-dead specimens speak to us across millions of years. But they also hold important clues to the future, recording changing ecosystems, climate and biodiversity, providing vital evidence in the environmental emergency. Without private hunters, many of these discoveries would not be made, especially in rapidly eroding landscapes like the Jurassic Coast. These collections are better in a museum, even if it is abroad. And the UK has no shortage of fossils from other countries. But measures to protect them are overdue. Important fossils should not be allowed to disappear into the collections of the super-rich. They should be accessible for scientists to study and the public to enjoy for hundreds of years to come. They are national treasures and deserve to be treated as such.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The editorial argues that fossils found in the UK should be granted national treasure status and legal export protections similar to works of art, preventing important scientific specimens from being monopolized by wealthy private buyers and ensuring they remain accessible to the public and researchers.",
+        "tone": "Analytical, Urgent, Advocating",
+        "skimming": [
+            "Museum figures in the UK are campaigning to classify fossils as national treasures under the Waverley criteria to restrict their export.",
+            "Unlike countries where fossils are state property, the UK relies on a voluntary code, allowing rare specimens to be sold to wealthy private collectors or foreign museums.",
+            "The commercial value of fossils is skyrocketing due to growing interest from celebrities and the super-rich, blurring the line between science and art.",
+            "While private collectors aid in fossil discovery, stronger regulations are essential to preserve these vital clues to Earth's history for public and scientific benefit."
+        ],
+        "grammar": "The sentence 'Unlike countries such as Brazil and Mongolia, where fossils belong to the state, Britain relies largely on a voluntary code of conduct' features a contrastive prepositional phrase ('Unlike...') followed by a non-defining relative clause ('where fossils belong to the state') that provides additional context about the countries mentioned.",
+        "vocab": [
+            {
+                "word": "clandestine",
+                "english": "kept secret or done secretively, especially because illicit",
+                "gujarati": "ગુપ્ત, છૂપું",
+                "pos": "Adjective",
+                "synonyms": "secret, covert, surreptitious, stealthy",
+                "antonyms": "open, public, overt, transparent"
+            },
+            {
+                "word": "eroding",
+                "english": "gradually wearing away or destroying by natural forces",
+                "gujarati": "ઘસાતું, ધોવાણ થતું",
+                "pos": "Verb (present participle)",
+                "synonyms": "wearing away, corroding, disintegrating, decaying",
+                "antonyms": "building, constructing, preserving"
+            },
+            {
+                "word": "specimen",
+                "english": "an individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study",
+                "gujarati": "નમૂનો, પ્રતીક",
+                "pos": "Noun",
+                "synonyms": "sample, exemplar, instance, pattern",
+                "antonyms": "whole, entirety"
+            },
+            {
+                "word": "foundling",
+                "english": "an infant that has been abandoned by its parents and is discovered and cared for by others",
+                "gujarati": "ત્યજી દેવાયેલું બાળક, અનાથ બાળક",
+                "pos": "Noun",
+                "synonyms": "orphan, waif, stray",
+                "antonyms": "cherished child, natural child"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "make waves",
+                "meaning": "to cause a sensation, create a significant impression, or cause trouble",
+                "gujarati": "ભારે અસર ઊભી કરવી, ચર્ચા જગાવવી"
+            },
+            {
+                "idiom": "get in on the act",
+                "meaning": "to become involved in an activity that someone else has started, especially to share in its benefits",
+                "gujarati": "પ્રવૃત્તિમાં સામેલ થવું, વહેતી ગંગામાં હાથ ધોવા"
+            }
+        ]
+    },
+    {
         "id": "art-1787293831-8710",
         "date": "2026-08-21",
         "title": "The Guardian view on GCSE results: much to celebrate, much to reform | Editorial",
