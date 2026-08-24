@@ -1,5 +1,147 @@
 [
     {
+        "id": "art-1787553491-8161",
+        "date": "2026-08-24",
+        "title": "The Guardian view on Andy Burnham’s foreign policy: work in progress | Editorial",
+        "content": "The prime minister has focused on domestic affairs since coming to office. But at a time of global disruption, he will need to define Britain’s place in the world A run of volatility in domestic British politics in recent years has tracked a period of global turbulence, and yet foreign policy over the same period has been an area of relative stability. What little is known about Andy Burnham’s approach to international relations expresses more continuity with Sir Keir Starmer’s administration than deviation. In negotiations with the EU, the red lines that prohibit membership of the single market or customs union still stand. Where Washington is concerned, Mr Burnham shows no interest in performances of bonhomie with Donald Trump, but his predecessor had already swapped that approach for a cooler pragmatic tone by the end of his tenure. The new foreign secretary, Ed Miliband, has opened a good dialogue with Marco Rubio, his US counterpart. Such is the density of integration in defence and security matters that incoming UK prime ministers, regardless of ideology, have little choice but to invest time in cultivating a bond with whoever sits in the White House. Anyone hoping for a spectacular transatlantic rupture and sudden clinch with Brussels will be disappointed. Some patterns of consistency date back beyond the recent transfer of power within the Labour party to the previous Conservative administrations. Support for Ukraine in the face of Russian aggression was one of the few creditable positions taken by Boris Johnson, and that line has held through four transfers of power in Downing Street. The process of rebuilding functional relations with European neighbours predated the 2024 general election. Rishi Sunak negotiated the Windsor framework for Northern Ireland. He also ditched a bill that threatened chaos for businesses by vaporising retained EU laws without a timetable to replace them. The business secretary who executed that U-turn in defiance of the Tories’ fanatical Eurosceptic tendency was Kemi Badenoch. It was not a choice she highlighted in her subsequent bid to become Conservative leader. By then the party, relieved of the burden of governing responsibility, was in no mood to consider the merits of pragmatism where Europe was concerned. Having withdrawn to an ideological comfort zone, the Tories still cannot pretend that Brexit has been a success. Sir Keir became gradually more confident in attributing Britain’s economic woes to the terms of departure from the EU. But the shift was largely rhetorical because he was locked into a manifesto commitment that precluded a substantial change of direction. Mr Burnham has accepted the same constraint as a condition of his hand-me-down electoral mandate. Having accepted the parameters of Boris Johnson’s hard Brexit and acknowledged Britain’s security dependency on Washington, the prime minister doesn’t have much room to innovate in foreign policy. Nor has he shown much interest, focusing instead on domestic issues that are much more salient to voters than geopolitics. That is a rational priority for a new leader hoping to win over sceptical voters. But with no sign of global volatility abating, an international crisis will force itself on to Mr Burnham’s agenda soon enough. Global strife, especially when it whips up economic headwinds, quickly manifests itself as pressure to act in domestic politics. The prime minister has proved adept at connecting with an audience close to home. That advantage will be degraded if he cannot also connect his domestic agenda to a coherent strategy for engagement with the wider world.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The editorial highlights that Britain's foreign policy under the new leadership remains constrained by past decisions like Brexit and US dependency, suggesting that while a domestic focus is pragmatic now, global crises will eventually demand a coherent international strategy.",
+        "tone": "Analytical, Pragmatic, Cautious",
+        "skimming": [
+            "Britain's foreign policy shows continuity with previous administrations, maintaining strict red lines on EU integration and a pragmatic approach to the US.",
+            "Key diplomatic stances, such as unwavering support for Ukraine and rebuilding European relations, have persisted across multiple leadership changes.",
+            "The Prime Minister's capacity for foreign policy innovation is highly restricted by the constraints of a hard Brexit and security reliance on Washington.",
+            "While prioritizing domestic affairs is politically rational, ongoing global volatility will inevitably force international crises onto the government's agenda."
+        ],
+        "grammar": "The sentence 'Such is the density of integration... that incoming UK prime ministers... have little choice but to invest time...' uses the 'Such is [Noun Phrase] that [Clause]' construction. This is an inverted correlative structure used for rhetorical emphasis to highlight the degree or intensity of a condition and its unavoidable consequence.",
+        "vocab": [
+            {
+                "word": "volatility",
+                "english": "The quality of being subject to frequent, rapid, and significant change.",
+                "gujarati": "અસ્થિરતા",
+                "pos": "Noun",
+                "synonyms": "instability, unpredictability, fluctuation",
+                "antonyms": "stability, constancy, predictability"
+            },
+            {
+                "word": "bonhomie",
+                "english": "Cheerful friendliness; geniality.",
+                "gujarati": "ખુશમિજાજ અથવા મિત્રતાપૂર્ણ વ્યવહાર",
+                "pos": "Noun",
+                "synonyms": "geniality, affability, amiability",
+                "antonyms": "hostility, coldness, aloofness"
+            },
+            {
+                "word": "precluded",
+                "english": "Prevented from happening; made impossible.",
+                "gujarati": "અટકાવ્યું અથવા અશક્ય બનાવ્યું",
+                "pos": "Verb",
+                "synonyms": "prevented, barred, forestalled",
+                "antonyms": "allowed, permitted, facilitated"
+            },
+            {
+                "word": "salient",
+                "english": "Most noticeable or important; prominent.",
+                "gujarati": "મુખ્ય અથવા નોંધપાત્ર",
+                "pos": "Adjective",
+                "synonyms": "prominent, conspicuous, key",
+                "antonyms": "insignificant, minor, inconspicuous"
+            },
+            {
+                "word": "abating",
+                "english": "Becoming less intense, active, or widespread.",
+                "gujarati": "ઓછું થવું અથવા શાંત પડવું",
+                "pos": "Verb",
+                "synonyms": "subsiding, diminishing, declining",
+                "antonyms": "intensifying, increasing, escalating"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "U-turn",
+                "meaning": "A complete reversal of policy, position, or opinion.",
+                "gujarati": "નીતિ કે નિર્ણયમાં સંપૂર્ણ પલટો લેવો"
+            },
+            {
+                "idiom": "hand-me-down",
+                "meaning": "Passed on from one person to another; inherited or second-hand.",
+                "gujarati": "વારસામાં મળેલી અથવા બીજા પાસેથી હસ્તાંતરિત થયેલી"
+            }
+        ]
+    },
+    {
+        "id": "art-1787553503-9214",
+        "date": "2026-08-24",
+        "title": "The Guardian view on the new Hungary: de-Orbánising at pace | Editorial",
+        "content": "As a Brussels deadline looms with over €10bn at stake, Péter Magyar’s first three months have been transformative in addressing a corrupt legacy Some elections are more important than others. Since taking office in May, Hungary’s new prime minister, Péter Magyar, has embarked upon the country’s most far-reaching and dramatic programme of transformation since the fall of communism in 1989. Mr Magyar’s predecessor, Viktor Orbán, established a soft autocracy which thrived on corruption and, over 16 years, exerted its grip on most areas of Hungarian life, from religion to culture and the media. It is being dismantled at extraordinary pace. Last week, a newly appointed president took office following the sacking of Tamás Sulyok, accused by Mr Magyar of having rubber-stamped the erosion of the rule of law in the country. In stark contrast, András Baka is a former president of Hungary’s supreme court, a role he was removed from by the Orbán regime in an action judged unlawful by the European court of human rights. On Hungary’s national day last Thursday, news bulletins returned to the main state television channel, having been shut down for six weeks. In July, viewers had encountered a blank screen along with the message: “Public media should not lie. We are sorry for doing it for so long.” Ending naked bias on state TV was one of Mr Magyar’s key pledges, in a campaign that saw him buck an electoral system weighted in favour of Mr Orbán and win a landslide. The tempo has been equally relentless when it comes to attacking networks of corruption and clientelism built up over a decade and a half. Well over €100bn in public funds, including billions of euros of EU money, is believed to have been siphoned off during the Orbán years. Investigators have been empowered to go after it via a new National Asset Recovery and Protection Office. Mr Magyar has also confirmed Hungarian participation in the European public prosecutor’s office, enabling the EU to better protect itself from financial crime in the country. It will take time for Hungary to feel like a normal pluralist European democracy again. For now, Mr Magyar is functioning as a one-man political whirlwind, heading what amounts to a national unity government elected by voters across the political spectrum. Concerns have been raised over constitutional manoeuvring to ensure many MPs in Mr Orbán’s Fidesz party cannot stand again, and Mr Baka has warned against appearing to take revenge on the former prime minister’s supporters. But a root-and-branch approach to de-Orbánising Hungary was what was needed, and continues to be rewarded by record levels of popularity in polls. The next major threshold is likely to be crossed in the autumn. Brussels has given Hungary’s new government until the end of this month to demonstrate that enough is being done on corruption to warrant the release of over €10bn in frozen funds. If, as seems likely, the vast majority of the funds are disbursed, it will seal the ongoing rapprochement between the EU and its former rogue member state. In May, Mr Magyar relocated the prime minister’s office away from a controversially cordoned-off former Carmelite monastery used by Mr Orbán, opening the building up to the public. “I was not elected simply to change the government, but to change the regime,” he had told interviewers soon after taking power. Three months on, the symbolism is being supplemented by a peaceful political revolution.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "Since taking office, Hungary's new Prime Minister Péter Magyar has initiated a rapid and dramatic dismantling of Viktor Orbán's corrupt, autocratic legacy, aiming to restore democratic norms and secure frozen EU funds.",
+        "tone": "Analytical, Optimistic, Evaluative",
+        "skimming": [
+            "Péter Magyar has launched a rapid transformation to dismantle Viktor Orbán's 16-year soft autocracy in Hungary.",
+            "Key reforms include replacing compromised officials, restoring unbiased state television, and targeting systemic corruption.",
+            "Hungary has joined the European public prosecutor's office and set up a recovery office to reclaim siphoned public funds.",
+            "The government faces a critical Brussels deadline to prove anti-corruption progress to release over €10bn in frozen EU funds."
+        ],
+        "grammar": "The sentence 'If, as seems likely, the vast majority of the funds are disbursed, it will seal the ongoing rapprochement...' features a first conditional structure ('If... will...') interrupted by a parenthetical comment clause ('as seems likely') used to express the writer's stance on the probability of the condition being met.",
+        "vocab": [
+            {
+                "word": "Autocracy",
+                "english": "A system of government by one person with absolute power.",
+                "gujarati": "સરમુખત્યારશાહી",
+                "pos": "Noun",
+                "synonyms": "dictatorship, tyranny, absolutism",
+                "antonyms": "democracy, republic"
+            },
+            {
+                "word": "Siphoned",
+                "english": "Draw off or transfer (funds) over a period of time, especially illegally or unfairly.",
+                "gujarati": "ગેરકાયદેસર રીતે નાણાં તારવી લેવા",
+                "pos": "Verb",
+                "synonyms": "diverted, embezzled, pilfered",
+                "antonyms": "donated, contributed, returned"
+            },
+            {
+                "word": "Clientelism",
+                "english": "A social order in which alliance and loyalty are promoted by patronage and favors.",
+                "gujarati": "પક્ષપાત અને આશ્રિતવાદ આધારિત વ્યવસ્થા",
+                "pos": "Noun",
+                "synonyms": "patronage, cronyism, nepotism",
+                "antonyms": "meritocracy, impartiality"
+            },
+            {
+                "word": "Rapprochement",
+                "english": "An establishment or resumption of harmonious relations.",
+                "gujarati": "પુનઃમેળાપ / સુમેળભર્યા સંબંધોની સ્થાપના",
+                "pos": "Noun",
+                "synonyms": "reconciliation, cordiality, agreement",
+                "antonyms": "estrangement, alienation, hostility"
+            },
+            {
+                "word": "Relentless",
+                "english": "Oppressively constant; incessant and harsh.",
+                "gujarati": "અવિરત / અથાક",
+                "pos": "Adjective",
+                "synonyms": "persistent, unyielding, implacable",
+                "antonyms": "irresolute, merciful, yielding"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "Root-and-branch",
+                "meaning": "Thorough, complete, or radical, affecting all parts of something.",
+                "gujarati": "મૂળભૂત અને સંપૂર્ણ"
+            },
+            {
+                "idiom": "Rubber-stamped",
+                "meaning": "Approved automatically without proper consideration or judgment.",
+                "gujarati": "વિચાર્યા વિના આંખો મીંચીને મંજૂર કરવું"
+            }
+        ]
+    },
+    {
         "id": "art-1787379834-7989",
         "date": "2026-08-22",
         "title": "The Guardian view on Andy Burnham’s buses: a blueprint for governing Britain | Editorial",
