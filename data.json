@@ -1,5 +1,68 @@
 [
     {
+        "id": "art-1787725989-3158",
+        "date": "2026-08-26",
+        "title": "The Guardian view on the French left: division makes Marine Le Pen’s path to the Élysée more straightforward | Editorial",
+        "content": "Two years ago, progressive parties allied to see off the far right in a parliamentary election. Ahead of a seismic presidential election, that unity is missing In the summer of 2024, as polls suggested that Marine Le Pen’s far-right Rassemblement National party would win a snap legislative election rashly called by Emmanuel Macron, the perennially fragmented French left united to spectacular effect. The New Popular Front, whose name evoked Léon Blum’s anti-fascist alliance in the 1930s, came first in a poll that delivered a hung parliament. Eight months before a presidential contest in which Ms Le Pen is the clear frontrunner, the prospect of a repeat performance appears close to zero. Jean-Luc Mélenchon, the leader of the hard-left France Unbowed, and Olivier Faure, the leader of the Socialist party (PS), have both ruled out the idea of backing a single candidate. Efforts by the Greens to broker talks between progressive parties have fallen on deaf ears. The obvious danger, as the most important election in the history of the Fifth Republic looms, is that chronic division will ease Ms Le Pen’s path to the Élysée. The 75-year-old Mr Mélenchon is a deeply polarising figure who has failed three times to reach the second round of a presidential race. But in a fractured field, the loyalty of his base among the young, the urban precariat and ethnic minority voters gives him a credible chance of making the runoff this time. At which point, polls predict, France’s traditional “Republican front” against the far right would disintegrate, handing Ms Le Pen a crushing victory. Within the PS, the picture is one of confusion and debilitating internal rivalries. Raphael Glucksmann, the leader of Public Square, a small sister movement, declared his candidacy on Sunday and is favourite to win a joint primary. But senior figures such as the former president François Hollande are rumoured to be waiting to make their own move later on. The Greens are divided over whether to offer support to Mr Mélenchon’s uncompromising leftism and reward his new emphasis on the environment, or back Mr Glucksmann’s more centrist strategy. All of which makes Mr Glucksmann’s stated ambition to “rebuild the left” seem somewhat optimistic. A Parisian intellectual married to a famous television newsreader (who has taken leave for the duration of the campaign), he is polling at 10% and is unburdened by the aura of failure that has dogged the Socialist party in recent years. But if he becomes its presidential candidate, he will face the same challenge as his immediate predecessors: how to reconnect with alienated blue-collar towns that now vote for Ms Le Pen, while simultaneously courting Mr Mélenchon’s urban radicals and reassuring middle-class voters who deserted for Mr Macron. In 2022, the former Paris mayor Anne Hidalgo comprehensively flunked that test, receiving 1.75% of votes cast. A historic humiliation was partly the result of progressive voters calculating that Mr Mélenchon was the left candidate with the best chance of coming second, thus excluding Ms Le Pen from the runoff. But as the 2027 campaign begins in earnest, she enjoys a 20-point lead in the polls, and another place in the second round is all but assured. The question, therefore, is who can rally enough support from across the political spectrum to stop her becoming president. A united left would have had a far better chance of coming up with a convincing answer. But that is not the left France currently has. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The fragmentation and internal rivalries within the French left-wing parties ahead of the presidential election are dismantling the unified front that previously blocked the far-right, thereby smoothing Marine Le Pen's path to the presidency.",
+        "tone": "Analytical, Apprehensive, Critical",
+        "skimming": [
+            "In 2024, a unified French left successfully blocked the far-right, but this crucial unity has completely dissolved ahead of the upcoming presidential election.",
+            "Key leftist leaders, including Jean-Luc Mélenchon and Olivier Faure, have rejected efforts to rally behind a single candidate.",
+            "The Socialist Party is crippled by internal rivalries, with Raphael Glucksmann emerging as a candidate who faces the monumental task of uniting highly polarized voter bases.",
+            "With Marine Le Pen holding a commanding lead, the fragmented left's inability to form a coalition virtually guarantees her a spot in the runoff and a potential victory."
+        ],
+        "grammar": "The sentence 'All of which makes Mr Glucksmann’s stated ambition... seem somewhat optimistic' uses 'All of which' as a relative pronoun referring back to the entire preceding paragraph of political complications, functioning as a cohesive device to synthesize multiple points into a single consequence.",
+        "vocab": [
+            {
+                "word": "seismic",
+                "english": "of enormous proportions or having a highly significant impact",
+                "gujarati": "પ્રચંડ",
+                "pos": "Adjective",
+                "synonyms": "monumental, earth-shattering, consequential",
+                "antonyms": "insignificant, minor, trivial"
+            },
+            {
+                "word": "perennially",
+                "english": "in a way that continues for a long or apparently infinite time; persistently",
+                "gujarati": "કાયમ માટે",
+                "pos": "Adverb",
+                "synonyms": "perpetually, constantly, eternally",
+                "antonyms": "temporarily, fleetingly, occasionally"
+            },
+            {
+                "word": "debilitating",
+                "english": "making someone or something very weak or infirm; hindering progress",
+                "gujarati": "નબળું પાડનારું",
+                "pos": "Adjective",
+                "synonyms": "weakening, crippling, enervating",
+                "antonyms": "invigorating, strengthening, fortifying"
+            },
+            {
+                "word": "flunked",
+                "english": "failed utterly or failed to meet a required standard",
+                "gujarati": "નિષ્ફળ ગયું",
+                "pos": "Verb",
+                "synonyms": "failed, bombed, collapsed",
+                "antonyms": "succeeded, passed, triumphed"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "fall on deaf ears",
+                "meaning": "to be completely ignored or disregarded by the audience",
+                "gujarati": "ધ્યાનમાં ન લેવાવું / બહેરા કાને અથડાવું"
+            },
+            {
+                "idiom": "see off",
+                "meaning": "to defeat an opponent or get rid of an unwelcome visitor",
+                "gujarati": "હરાવવું કે હાંકી કાઢવું"
+            }
+        ]
+    },
+    {
         "id": "art-1787639453-4610",
         "date": "2026-08-25",
         "title": "The Guardian view on Britain helping Ukraine: build the weapons independence Kyiv needs | Editorial",
