@@ -1,5 +1,76 @@
 [
     {
+        "id": "art-1788431178-4788",
+        "date": "2026-09-03",
+        "title": "The Guardian view on Israeli settlements: Britain can no longer look away | Editorial",
+        "content": "International law, European action and UK public opinion point the same way. Britain should stop helping to sustain Israeli settlements economically In the Commons this week, the foreign secretary, Ed Miliband, appeared to have accepted the principle of a trade ban between the UK and Israeli settlements, which Britain says are illegal under international law. This is long overdue. The test now is whether his promised “comprehensive reset” deserves the name. Stopping settlement-produced goods at the border is not enough. Britain should prohibit its companies from sustaining settlement activity – by financing, constructing, insuring, advertising – in territory whose occupation it regards as unlawful. The ban must have teeth. The UK can no longer ignore the violence and pressure exerted on Palestinians in the West Bank by Israel’s government, military and settlers. There have been more than 1,400 settler attacks so far this year, according to the UN, against a record 1,800 registered in 2025. An election campaign has only made matters worse. Last month, Israel issued tenders for 1,234 homes in the 3,401-unit E1 development east of Jerusalem. The country’s ministers gave the green light for the controversial settlement – long condemned for effectively bisecting the West Bank – expressly to “erase” the idea of a Palestinian state, the creation of which the UK officially supports. Israeli ministers have reacted with fury, threatening retaliation if Britain imposes sanctions over settlement expansion. This is disappointing, but hardly surprising. Benjamin Netanyahu has accused countries imposing sanctions of “moral bankruptcy”. Yet Britain would be following several comparable European states that increasingly regard such bans as a consequence of international law. Spain has banned settlement imports; Norway is legislating against trade and services linked to settlements; nine EU governments have demanded action from Brussels. Since 1967, Israel has built about 160 settlements housing 700,000 Jewish people among 3.3 million Palestinians in the occupied West Bank and East Jerusalem. There are now calls to suspend the EU’s trade agreement with Israel. Britain has such a deal and, under Sir Keir Starmer, Labour wanted to “distinguish and protect trade with people and businesses across the state of Israel”. This gave critics reason to warn that targeting settlements could end up as a “de facto” boycott of Israel. But that gets the argument backwards: Israel cannot make the settlements part of its economy and then argue that other nations must treat them as part of the country. Mr Miliband has political room to manoeuvre. Polling suggests that even Reform UK and Conservative voters are more likely to support than oppose a settlement trade ban. In parliament there was agreement stretching from the Greens to Labour to Tory MPs that something has to be done. Settlement expansion accelerated after Mr Netanyahu’s far-right coalition took power in 2022 and then again after Hamas’s murderous attack sparked the Gaza war in 2023. The legal case is clear: other nations are acting and the political space is opening up – all while creeping annexation becomes a reality. Israel is extending civilian control over occupied territory as settlements expand. Gaza, where more than 70,000 Palestinians have been killed, has understandably commanded the world’s attention. No one disputes that Israel exists in a violent and unstable neighbourhood, though its actions aggravate, rather than alleviate, that instability. But the West Bank and Jerusalem cannot be ignored. Security cannot justify an ideological land grab. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The UK must move beyond symbolic gestures and implement a comprehensive, legally binding trade ban on Israeli settlements to stop economically sustaining illegal occupations and address escalating violence in the West Bank.",
+        "tone": "Critical, Analytical, Urgent",
+        "skimming": [
+            "UK Foreign Secretary Ed Miliband has accepted the principle of a trade ban with Israeli settlements, but it must be comprehensive to be effective.",
+            "Settler violence and illegal expansions in the West Bank have surged, explicitly aimed at erasing the possibility of a Palestinian state.",
+            "European nations like Spain and Norway are already taking action, showing that the UK would not be isolated in enforcing international law.",
+            "Domestic political and public consensus across various UK parties supports taking decisive action against settlement trade."
+        ],
+        "grammar": "The sentence 'Britain should prohibit its companies from sustaining settlement activity...' showcases the 'prohibit someone from doing something' construction, where 'prohibit' is paired with the preposition 'from' followed by a gerund ('sustaining'), which is a common error-prone area in CAT sentence correction questions.",
+        "vocab": [
+            {
+                "word": "sustain",
+                "english": "To strengthen or support physically, mentally, or economically.",
+                "gujarati": "ટકાવી રાખવું",
+                "pos": "Verb",
+                "synonyms": "support, maintain, uphold",
+                "antonyms": "undermine, weaken, obstruct"
+            },
+            {
+                "word": "bisecting",
+                "english": "Dividing into two parts.",
+                "gujarati": "બે ભાગમાં વિભાજીત કરવું",
+                "pos": "Verb",
+                "synonyms": "halving, splitting, intersecting",
+                "antonyms": "joining, uniting, combining"
+            },
+            {
+                "word": "retaliation",
+                "english": "The action of returning an attack; counterattack or revenge.",
+                "gujarati": "વેર વાળવું / બદલો",
+                "pos": "Noun",
+                "synonyms": "revenge, vengeance, reprisal",
+                "antonyms": "forgiveness, pardon, sympathy"
+            },
+            {
+                "word": "manoeuvre",
+                "english": "A movement or series of moves requiring skill and care.",
+                "gujarati": "દાવપેચ / કુનેહપૂર્વકનું પગલું",
+                "pos": "Noun",
+                "synonyms": "scheme, tactic, strategy",
+                "antonyms": "inaction, stagnation, blunder"
+            },
+            {
+                "word": "annexation",
+                "english": "The action of seizing or taking over a territory.",
+                "gujarati": "જોડાણ / પ્રદેશ પડાવી લેવો તે",
+                "pos": "Noun",
+                "synonyms": "seizure, occupation, takeover",
+                "antonyms": "relinquishment, surrender, liberation"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "have teeth",
+                "meaning": "To have the power to be effective or to enforce rules and punishments.",
+                "gujarati": "અસરકારક અમલ કરવાની સત્તા હોવી"
+            },
+            {
+                "idiom": "give the green light",
+                "meaning": "To give permission for an action or project to proceed.",
+                "gujarati": "મંજૂરી આપવી"
+            }
+        ]
+    },
+    {
         "id": "art-1788344065-9841",
         "date": "2026-09-02",
         "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
@@ -2906,148 +2977,6 @@
                 "idiom": "at arm's length",
                 "meaning": "Avoiding intimacy or close contact; keeping an independent distance to avoid influence or conflict of interest.",
                 "gujarati": "સુરક્ષિત અંતર રાખવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1785831802-9216",
-        "date": "2026-08-04",
-        "title": "The Guardian view on events in Ceuta: chaos and tragedy are weaponised by the far right | Editorial",
-        "content": "Instead of finger-pointing at Spain, mainstream EU leaders should be showing solidarity with its prime minister, Pedro Sánchez At least 72 people are believed to have died late last week, most of them drowned or crushed as they joined tens of thousands of others in attempting to swim from Moroccan waters to the Spanish exclave of Ceuta. Yet the scale of that human tragedy has barely registered, as Donald Trump has decried an “invasion” while European politicians exploit the crisis to serve their own agendas. If further evidence were needed of the way that the radical right increasingly distorts the terms of the migration debate in the EU, the last few days have furnished it. More needs to be understood about the drivers behind a shocking episode. Misinformation on social media – orchestrated or otherwise – appears to have played a big part, following a Spanish supreme court ruling that migrants arriving by sea could not be summarily turned back. Moroccan authorities seemingly did little to prevent the chaotic exodus, which echoed previous smaller incidents and focused international attention on a territory whose sovereignty Rabat contests. If there were online indications that such an incursion was a possibility, no alarm was sounded. The Spanish government, distracted by the need to combat ongoing wildfires, was utterly unprepared. But the vast majority of the 60,000 or so who crossed into Ceuta returned voluntarily across the border within 48 hours, some having aired grievances to reporters at the lack of work, decent wages and prospects available to them at home. The dangerous recklessness of their actions underlined the pressure-cooker levels of frustration beyond Europe’s external borders, particularly among the young. Subsequently, the response of leaders such as Italy’s Giorgia Meloni has been predictable but deeply dispiriting. In a performative overreaction, Ms Meloni sought to demonstrate her hard line on irregular migration by temporarily suspending Rome’s Schengen agreement with Madrid, though Ceuta has never been included in Schengen, and Italy and Spain share no border. Along with Germany’s chancellor, Friedrich Merz, she was also among 22 signatories to a letter sent to the European Commission, suggesting that the liberal migration policies of the Spanish prime minister, Pedro Sánchez – which, again, have no application in Ceuta – are undermining Europe’s security. Such posturing is largely intended for a domestic audience. Mr Merz, for example, faces a major challenge from the far-right Alternative für Deutschland (AfD) in three imminent state elections, while Ms Meloni is dealing with the emergence of a new party that threatens her own right flank. The zeal of such forces to weaponise the immigration issue was shown by the speed with which the AfD’s leader, Alice Weidel, claimed that the “likely destination” for most of those entering Ceuta was Germany. Hyperbolic rhetoric and finger-pointing will only undermine solidarity between European nations, and hamper attempts to deal effectively with the challenges of migration. It is impossible to cross from Ceuta into mainland Spain and the Schengen zone without passing through a checkpoint. It is also worth noting that the number of irregular border crossings into Europe in fact declined by 40% in the first half of 2026 compared with last year, partly as a result of better-coordinated preventive strategies. Instead of rounding on Mr Sánchez, mainstream European leaders should be pledging their cooperation in helping Spain to minimise the possibility of such a tragic incident ever happening again. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The editorial criticizes far-right European politicians for weaponizing the tragic migration crisis in Ceuta for domestic political gain, arguing that mainstream EU leaders should instead show solidarity and cooperate with Spain.",
-        "tone": "Critical, Analytical, Condemnatory",
-        "skimming": [
-            "A tragic mass migration attempt to the Spanish exclave of Ceuta resulted in at least 72 deaths, driven by social media misinformation and economic frustration.",
-            "Right-wing European leaders like Italy's Giorgia Meloni and Germany's Friedrich Merz exploited the crisis to posture for domestic audiences, despite their claims having little geographical or policy relevance to Ceuta.",
-            "The actual numbers of irregular border crossings into Europe have decreased by 40% in early 2026 due to better preventive strategies.",
-            "The author urges mainstream EU leaders to support Spanish Prime Minister Pedro Sánchez and cooperate on migration challenges instead of using hyperbolic rhetoric."
-        ],
-        "grammar": "The text uses the past subjunctive mood in the conditional clause 'If further evidence were needed...', which is used to express a hypothetical or contrary-to-fact situation in the present or future.",
-        "vocab": [
-            {
-                "word": "Exclave",
-                "english": "A portion of territory of one state completely surrounded by territory of another state.",
-                "gujarati": "બાહ્ય પ્રદેશ (અન્ય દેશના પ્રદેશથી ઘેરાયેલો દેશનો ભાગ)",
-                "pos": "Noun",
-                "synonyms": "enclave, territory, outpost",
-                "antonyms": "mainland, motherland"
-            },
-            {
-                "word": "Weaponise",
-                "english": "To exploit or exploit something for political or tactical advantage.",
-                "gujarati": "હથિયાર તરીકે ઉપયોગ કરવો",
-                "pos": "Verb",
-                "synonyms": "exploit, harness, capitalize on",
-                "antonyms": "neutralize, defuse, pacify"
-            },
-            {
-                "word": "Recklessness",
-                "english": "Lack of regard for the danger or consequences of one's actions.",
-                "gujarati": "બેદરકારી / ઉતાવળિયું પગલું",
-                "pos": "Noun",
-                "synonyms": "audacity, carelessness, rashness",
-                "antonyms": "caution, prudence, care"
-            },
-            {
-                "word": "Performative",
-                "english": "Relating to a performance, especially an action done for show rather than genuine conviction.",
-                "gujarati": "દેખાડા પૂરતું / પ્રદર્શનકારી",
-                "pos": "Adjective",
-                "synonyms": "theatrical, dramatic, ostentatious",
-                "antonyms": "genuine, sincere, authentic"
-            },
-            {
-                "word": "Hyperbolic",
-                "english": "Deliberately exaggerated.",
-                "gujarati": "અતિશયોક્તિપૂર્ણ",
-                "pos": "Adjective",
-                "synonyms": "exaggerated, overstated, inflated",
-                "antonyms": "understated, realistic, modest"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "Finger-pointing",
-                "meaning": "The act of blaming someone for a problem or failure.",
-                "gujarati": "એકબીજા પર દોષારોપણ કરવું"
-            },
-            {
-                "idiom": "Hard line",
-                "meaning": "A strict, uncompromising policy or attitude.",
-                "gujarati": "કડક વલણ"
-            }
-        ]
-    },
-    {
-        "id": "art-1785831812-4962",
-        "date": "2026-08-04",
-        "title": "The Guardian view on funerals: the law must change following Robert Bush’s crimes | Editorial",
-        "content": "An undertaker’s trial has exposed a regulatory blind spot. The public, as well as trade bodies, should be involved in shaping reform There are few more vulnerable moments in life than the days before and after the loss of a loved one. The rituals of farewell surrounding a funeral matter deeply. Hence the horrified public reaction to the crimes of Robert Bush in Hull. Bush was sentenced last week to 20 years in prison for 67 offences including 30 counts of preventing a lawful and decent burial. When his business, Legacy Independent Funeral Services, was searched, police found multiple bodies decomposing on racks. Bush had returned the wrong ashes to families, stolen money donated to charities and spent more than £42,000 on holidays over 12 years. In court, relatives revealed the distress caused; David Gorbutt, who scattered a stranger’s ashes in place of his wife’s, described feeling “abused”. The Competition and Markets Authority proposed tighter regulation of the funeral industry in 2020. The independent inquiry into David Fuller – who abused the bodies of more than 100 women and girls in hospital mortuaries – included regulation of undertakers among its recommendations. Now, a year after that report was published, ministers have decided that they agree. New laws, which should be expected to include a licensing scheme, minimum standards and provision for inspections, are on the way. This is the right call. It is a peculiar blind spot in UK law that a service as sensitive and essential as that provided by undertakers is unregulated; the Scottish government, recognising this, introduced its own system last year. And while Bush’s case is by far the most extreme of several recent ones, he is not the only undertaker to have been jailed. Last year, another funeral director, Amie Upton, was banned from NHS mortuaries and maternity wards in Leeds after the BBC uncovered complaints about Florrie’s Army, a baby-loss service that she set up. Ms Upton has not been charged with any crime. But the Labour MP Mark Sewards has argued, rightly, that his constituents’ disturbing experiences with Florrie’s Army point to the need for new laws. An enhanced role for local government would be in keeping with the government’s devolution push, and would require funding. Trade organisations have proposed a model in which they would play a part alongside the Human Tissue Authority. But while all options should be looked at, regulation must not be mistaken for a panacea. As in other situations where a position of trust has been abused, opportunities to intervene in Hull appear to have been missed. About 65% of the more than 500,000 funerals that take place in the UK each year are handled by small, independent businesses. Regulation must be protective of them as well as of families who want to prepare bodies for cremation or burial themselves. Undertakers do a difficult job; those paying for their services are often extremely vulnerable. The likely increase in the cost of funerals, following tighter regulation, must also be taken seriously. Many people already struggle to afford them. It is vital to find out what the public, as well as the industry, want. It may be that laws concerning dead bodies require a wider review, as the Law Commission believes. But the priority must be to find an effective, proportionate way to prevent rogue operators from setting up funeral businesses, and to identify any who already have. Grieving people ought to be able to have confidence in those they entrust with the bodies of relatives. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The horrific crimes of undertaker Robert Bush highlight a critical regulatory blind spot in the UK's funeral industry, necessitating urgent, balanced, and comprehensive legal reforms to protect vulnerable grieving families.",
-        "tone": "Analytical, Critical, Urgent",
-        "skimming": [
-            "The conviction of Robert Bush for multiple offences, including preventing lawful burials, has exposed a severe lack of regulation in the UK funeral sector.",
-            "In response to these crimes and previous inquiry recommendations, the UK government is planning new laws to introduce licensing, minimum standards, and inspections.",
-            "While regulation is necessary, it must not be treated as a panacea, as past opportunities to intervene in cases of abuse were repeatedly missed.",
-            "Future regulatory frameworks must balance protecting vulnerable families with maintaining affordability and supporting small, independent funeral operators."
-        ],
-        "grammar": "The sentence 'There are few more vulnerable moments in life than the days before and after the loss of a loved one' utilizes an existential 'there' construction combined with a comparative adjective structure ('few more... than...') to emphasize a universal human condition and set a solemn, empathetic premise for the argument.",
-        "vocab": [
-            {
-                "word": "panacea",
-                "english": "A solution or remedy for all difficulties or diseases.",
-                "gujarati": "રામબાણ ઈલાજ / સર્વરોગહર દવા",
-                "pos": "Noun",
-                "synonyms": "cure-all, universal remedy, elixir",
-                "antonyms": "poison, toxin, affliction"
-            },
-            {
-                "word": "devolution",
-                "english": "The transfer or delegation of power to a lower level, especially by central government to local or regional administration.",
-                "gujarati": "સત્તાનું વિકેન્દ્રીકરણ",
-                "pos": "Noun",
-                "synonyms": "decentralization, delegation, transfer",
-                "antonyms": "centralization, concentration"
-            },
-            {
-                "word": "proportionate",
-                "english": "Corresponding in size or amount to something else; balanced and reasonable.",
-                "gujarati": "પ્રમાણસર / યોગ્ય પ્રમાણમાં",
-                "pos": "Adjective",
-                "synonyms": "commensurate, comparable, balanced",
-                "antonyms": "disproportionate, inappropriate, unequal"
-            },
-            {
-                "word": "rogue",
-                "english": "Behaving in ways that are not expected or approved, often causing damage; dishonest or unprincipled.",
-                "gujarati": "અપ્રમાણિક / ઠગ / લુચ્ચું",
-                "pos": "Adjective",
-                "synonyms": "unscrupulous, fraudulent, dishonest, aberrant",
-                "antonyms": "honest, ethical, principled, law-abiding"
-            },
-            {
-                "word": "decomposing",
-                "english": "Decaying; rotting; breaking down into component parts.",
-                "gujarati": "સડતું / કોહવાતું",
-                "pos": "Verb (used as Adjective)",
-                "synonyms": "decaying, rotting, putrefying",
-                "antonyms": "preserving, flourishing, growing"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "blind spot",
-                "meaning": "An area in which a person's or system's lack of understanding, regulation, or impartiality prevents them from appreciating a situation.",
-                "gujarati": "અજ્ઞાત ક્ષેત્ર / નબળાઈ"
-            },
-            {
-                "idiom": "right call",
-                "meaning": "The correct or wise decision.",
-                "gujarati": "યોગ્ય નિર્ણય"
             }
         ]
     }
