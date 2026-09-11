@@ -1,5 +1,137 @@
 [
     {
+        "id": "art-1789121819-8553",
+        "date": "2026-09-11",
+        "title": "The Guardian view on the prisons crisis: moving men into women’s jails is not the answer | Editorial",
+        "content": "Kneejerk reactions to overcrowding will do more harm than good. Ministers should focus on probation It is not hard to see why ministers are considering converting parts of the women’s prison estate for use by men. While Andy Burnham’s decision to narrow the early-release scheme was born of political necessity, it has made an already acute capacity problem worse. Excluding manslaughter and further sexual offences cut projected early releases from 6,000 to 4,500. The family of PC Andrew Harper, who was killed on duty in 2019, welcomed the assurance that his killers would not be released early. But the change left overcrowded English and Welsh jails with even less room. The government is trying to innovate. Last week it was announced that £110m will be spent on creating new cells in existing jails, by converting underused spaces such as storage and laundry areas. Deportations are to be speeded up, if foreign governments can be persuaded to cooperate. There is an overdue and welcome commitment to examine how indeterminate imprisonment for public protection sentences can be phased out. But nobody believes that these schemes will be enough. Demand for places will continue to outstrip supply, while continued overcrowding risks worsening grave existing problems including endemic drug use, high rates of recidivism, violence and low staff morale (which undermines recruitment and retention). Most of the criminals who the public is anxious to see locked up are violent men. At the same time, there is a growing consensus that it would be better if some of the roughly 3,300 female prisoners in England (Wales has no women’s prison) served their sentences in the community. Most women are imprisoned for non-violent offences and pose no threat to public safety. Two out of three have been victims of domestic abuse; one in three have a child under 10. More than a quarter are on remand, so have not even been sentenced. The social and financial costs of locking them up are shockingly high. It is good to see these arguments gaining traction. A landmark review by Jean Corston proposed the replacement of women’s jails with smaller local custodial centres nearly 20 years ago. But rushing to close a women’s prison, or part of one, in order to free up space for men would be damaging, as experts have pointed out. Female prisoners are held separately from men primarily for reasons of safety. Already, because there are so few female prisons, women are more likely than men to be held a long way from home. A report by the charity Women in Prison on the closure of Holloway prison in 2016 described it as a “deeply harmful process” owing to the disruption it caused. The Tories bear a heavy responsibility for prisons’ calamitous state. Criminal justice budgets were singled out for huge cuts under austerity because voters would be unlikely to notice – at least initially. The failed privatisation of the probation service was a disaster. But after two years in office, Labour must focus on the future, and explain to voters why locking people up in squalid, drug-riddled buildings is so wasteful. If they are serious about community alternatives, as plans to shrink the women’s estate would suggest, they need to show that this is more than a kneejerk reaction to overcrowding. Probation cannot be an afterthought: in early 2026, more offenders returned to prison on recall than were released from custody. Mr Burnham’s ministers need a new slogan: probation, probation, probation. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The government's proposal to convert women's prisons for male inmates to address overcrowding is a short-sighted reaction that compromises safety; instead, ministers must focus on robust probation systems and community-based alternatives for non-violent female offenders.",
+        "tone": "Critical, Analytical, Urgent",
+        "skimming": [
+            "Overcrowding in English and Welsh prisons has reached a critical stage, worsened by political decisions that restricted early-release schemes.",
+            "Stopgap measures like converting storage spaces, speeding up deportations, and phasing out indeterminate sentences are insufficient to meet the rising demand for prison cells.",
+            "A majority of female prisoners are non-violent, have histories of domestic abuse, and could be better rehabilitated through community-based sentences rather than incarceration.",
+            "Converting women's prisons for male use disrupts rehabilitation, compromises female safety, and highlights the urgent need to prioritize and fund the probation service."
+        ],
+        "grammar": "The text utilizes a concessive clause starting with 'While' ('While Andy Burnham’s decision... was born of political necessity, it has made an already acute capacity problem worse') to acknowledge a counter-argument or political constraint before asserting the main clause's negative consequence.",
+        "vocab": [
+            {
+                "word": "Kneejerk",
+                "english": "An immediate response made without active thought or deliberation.",
+                "gujarati": "વિચાર્યા વિનાનું ત્વરિત પ્રતિક્રિયાત્મક",
+                "pos": "Adjective",
+                "synonyms": "automatic, impulsive, involuntary",
+                "antonyms": "deliberate, premeditated, calculated"
+            },
+            {
+                "word": "Recidivism",
+                "english": "The tendency of a convicted criminal to reoffend.",
+                "gujarati": "ગુનાખોરીનું પુનરાવર્તન",
+                "pos": "Noun",
+                "synonyms": "relapse, backsliding, regression",
+                "antonyms": "rehabilitation, redemption"
+            },
+            {
+                "word": "Indeterminate",
+                "english": "Not exactly known, established, or defined.",
+                "gujarati": "અનિશ્ચિત",
+                "pos": "Adjective",
+                "synonyms": "vague, uncertain, indefinite",
+                "antonyms": "determinate, definite, certain"
+            },
+            {
+                "word": "Calamitous",
+                "english": "Involving or causing sudden great damage or distress; disastrous.",
+                "gujarati": "આપત્તિજનક, વિનાશક",
+                "pos": "Adjective",
+                "synonyms": "disastrous, catastrophic, ruinous",
+                "antonyms": "beneficial, advantageous, fortunate"
+            },
+            {
+                "word": "Squalid",
+                "english": "Extremely dirty and unpleasant, especially as a result of poverty or neglect.",
+                "gujarati": "ગંદુ અને દયનીય",
+                "pos": "Adjective",
+                "synonyms": "filthy, sordid, wretched",
+                "antonyms": "clean, pristine, pleasant"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "Gain traction",
+                "meaning": "To become popular, accepted, or to gather momentum.",
+                "gujarati": "વેગ પકડવો અથવા લોકપ્રિયતા મેળવવી"
+            }
+        ]
+    },
+    {
+        "id": "art-1789121844-538",
+        "date": "2026-09-11",
+        "title": "The Guardian view on falling birthrates: cash alone cannot buy belonging | Editorial",
+        "content": "Young people still want partners and children. Governments must address the insecurity and isolation preventing them from building families Why are people in one of the world’s richest, safest countries having so few children? Singapore is asking that question. In 2000, its fertility rate matched America’s at 1.6 children per woman. By 2025, it had dropped to 0.87 – almost half the US rate. Singapore’s leaders, worried about population collapse, have reached for the chequebook. Each child, including those born to unmarried parents, will get $55,000 in government support by the time they turn 17. Yet a quarter of Singaporeans say they do not intend to have children. Wealth and security, clearly, don’t guarantee more babies. UN data shows that global fertility fell from 5.3 births per woman in 1963 to 2.2 in 2023. But this masks a growing divide. In some poor sub-Saharan African countries there are around six births per woman. Compare this with England and Wales, where the figure is just 1.39. More than half of the world – including a billion women in India and China – have a fertility rate below the global 2.1 “replacement level” needed to sustain populations without migration. But even in poor countries with high mortality rates and consequently higher replacement rates, births outpace deaths. In Nigeria, for example, the fertility rate of 4.4 exceeds its replacement rate of 2.6 children per woman. To understand this phenomenon, the UN asked 100,000 18- to 39-year-olds from 73 nations their views on relationships and having children. The results, released in July, were striking: two-thirds said they want to marry or live with a partner. Those who did not have children overwhelmingly wanted them. Yet about a quarter of those aged 25 to 39 said they wanted a partner but were single and not dating – a status reported more by men than women. More than half said the biggest barriers to a durable relationship were economic constraints. Young people want partnership and parenthood, but questioned achieving the “emotional and financial” stability needed for a shared life. The Nordic region – consisting of five states and three territories – is viewed as a good place to have children thanks to generous parental leave and subsidised childcare. Yet fertility rates have fallen by up to third since 2010, against 12% across the EU. The Polish sociologist Anna Gromada wrote in the Guardian that despite her country’s economic success, its fertility rate was 1.05. While the state transfers cash worth 10% of the median wage for every child born each month, Poland’s population is shrinking. Prof Gromada argues that people are not just deciding against children; many never form lasting relationships in which the question arises. Almost half of under-30s are single. Cash paid after a family exists cannot create the togetherness needed for a family in the first place. The world is not running out of people. The UN expects today’s 8.2 billion people to become 10.3 billion by the mid-2080s. What is emerging is a demographic divide between ageing, shrinking rich societies and population growth in poorer ones. Getting richer seems to mean lower fertility. The baby bust may indicate a wealthy country’s failure to reproduce itself socially as well as biologically. People ask not only whether they can afford children, but whether they fit in, can trust each other and believe in a future. This loss of confident belonging poses questions that politics across the rich world has yet to tackle. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "Despite financial incentives from governments, global fertility rates in wealthy nations continue to decline because young people face deep-seated economic insecurity and social isolation, preventing them from forming the stable relationships necessary to start families.",
+        "tone": "Analytical, Reflective, Critical",
+        "skimming": [
+            "Singapore's fertility rate has halved since 2000 to 0.87, despite massive government financial incentives of up to $55,000 per child.",
+            "A stark demographic divide is emerging between ageing, shrinking rich societies and rapidly growing populations in poorer nations.",
+            "A UN survey reveals that while young people still desire partners and children, economic constraints and lack of stability prevent them from dating or marrying.",
+            "Even social-democratic havens like the Nordic countries and Poland are seeing birthrates plummet, proving that cash transfers alone cannot buy social belonging or create families."
+        ],
+        "grammar": "The sentence 'People ask not only whether they can afford children, but whether they fit in...' utilizes the correlative conjunction structure 'not only... but (also)...' paired with parallel noun clauses ('whether they can...', 'whether they fit in...') to emphasize multiple layers of decision-making.",
+        "vocab": [
+            {
+                "word": "fertility",
+                "english": "The quality of being fertile; productiveness or the ability to conceive children.",
+                "gujarati": "પ્રજનનક્ષમતા",
+                "pos": "Noun",
+                "synonyms": "fecundity, fruitfulness, productiveness",
+                "antonyms": "sterility, infertility, barrenness"
+            },
+            {
+                "word": "sustain",
+                "english": "To strengthen or support physically or mentally; to maintain or keep going.",
+                "gujarati": "ટકાવી રાખવું",
+                "pos": "Verb",
+                "synonyms": "maintain, support, preserve, prolong",
+                "antonyms": "abandon, neglect, destroy"
+            },
+            {
+                "word": "constraints",
+                "english": "Limitations or restrictions that restrict activity or behavior.",
+                "gujarati": "અવરોધો",
+                "pos": "Noun",
+                "synonyms": "restrictions, limitations, curbs, restraints",
+                "antonyms": "freedoms, liberties, allowances"
+            },
+            {
+                "word": "demographic",
+                "english": "Relating to the structure of populations, especially statistical data.",
+                "gujarati": "વસ્તીવિષયક",
+                "pos": "Adjective",
+                "synonyms": "population-based, statistical",
+                "antonyms": "non-demographic"
+            },
+            {
+                "word": "belonging",
+                "english": "A secure relationship of affinity or connection with a particular group, place, or society.",
+                "gujarati": "આપ્તભાવ",
+                "pos": "Noun",
+                "synonyms": "acceptance, affinity, attachment, inclusion",
+                "antonyms": "alienation, isolation, estrangement"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "reach for the chequebook",
+                "meaning": "To prepare to spend money, especially a large amount, to resolve a problem or situation.",
+                "gujarati": "સમસ્યા ઉકેલવા માટે નાણાં ખર્ચવા તૈયાર થવું"
+            }
+        ]
+    },
+    {
         "id": "art-1788949648-990",
         "date": "2026-09-09",
         "title": "The Guardian view on Britain’s new Middle East policy: an unlawful occupation must carry a price | Editorial",
@@ -2799,143 +2931,6 @@
                 "idiom": "Easy-money",
                 "meaning": "A monetary policy that increases the money supply by making borrowing cheap and easily accessible.",
                 "gujarati": "સરળતાથી ઉપલબ્ધ સસ્તું ધિરાણ (સસ્તી નાણાં નીતિ)"
-            }
-        ]
-    },
-    {
-        "id": "art-1786518647-9831",
-        "date": "2026-08-12",
-        "title": "The Guardian view on wildfires: firefighters can’t handle this crisis alone | Editorial",
-        "content": "The response to this summer’s record heat and drought should be led by ministers – not left to the emergency services The wildfire that began on protected heathland in the New Forest in Hampshire on Sunday was reported to be under control on Tuesday. But with temperatures forecast to reach 36C or higher in parts of England on Thursday, the risk of further outbreaks remains high. Firefighters responded to 185 wildfires in the first 10 days of August. In coastal Suffolk, conservationists and locals are counting the cost of the blaze that devastated Dunwich Heath. Its vegetation and rare bird populations are expected to take decades to recover. Although the immediate cause of many wildfires is litter, the risks are elevated by heat and drought, and repeated warnings from climate scientists do not necessarily lessen the shock and distress caused. As people and governments across Europe assess this summer’s damage, experts including the UN climate chief, Simon Stiell, hope that the fires will focus minds on the urgent necessity of cutting emissions – as well as investing in emergency planning. Europe is currently heating up faster than any other continent, due in part to proximity to the melting Arctic. The global, existential nature of the climate crisis makes it an awkward fit with Andy Burnham’s current focus on “everyday fixes”. But if he does not find more to say about the summer’s disasters, he is in danger of being left behind. The National Trust has already surpassed its £500,000 fundraising target to restore Dunwich Heath. Conservationists and farmers are publicly debating the best ways to prevent fires. The Fire Brigades Union (FBU) is pushing for 5,000 additional firefighters across the UK, along with new equipment. In March, the then fire safety minister, Samantha Dixon, said that the fire and rescue service had suffered from “decades of drift and inertia”. Her speech also confirmed that a new College of Fire and Rescue would oversee professional standards, as recommended by the Grenfell inquiry. But three weeks ago Ms Dixon was sacked. If the government wants to avoid an impression that drift and inertia are ongoing, they need to provide an update, along with a response to repeated calls from the fire service inspectorate for new enforcement powers. MPs on the home affairs committee threw their weight behind this idea two years ago. The fire and rescue service is popular with the public. Even highly critical sections of the Grenfell inquiry report did not significantly undermine confidence in it. This summer’s events seem likely to reaffirm this positive regard, and rightly so: public servants who do dangerous, difficult jobs, when many other people are on holiday, deserve to be appreciated. But scrutiny of the service is also important. An inquiry by the home affairs select committee, which was summarised in a letter to the home secretary in 2024, contained strong criticism of its culture and leadership. Such concerns deserve a fuller response than they have so far received from ministers. So do the FBU’s call for investment to cope with rising risks, and proposals for a temporary ban on disposable barbecues. Ill-informed and ideological attempts to blame rewilding should also be addressed by ministers. Working groups on how to reduce wildfire risks must produce plans. The latest report from the government’s Climate Change Committee found that existing adaptation plans are not fit for purpose. This summer’s extraordinary heat, drought and wildfires should be a spur to action on both the fire service and the wider climate crisis.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "2 min",
-        "centralIdea": "The escalating wildfire crisis in the UK, driven by climate change, cannot be managed by emergency services alone; it requires urgent ministerial leadership, policy updates, and robust climate adaptation plans.",
-        "tone": "Urgent, Critical, Analytical",
-        "skimming": [
-            "Record heat and drought have triggered a surge in devastating wildfires across the UK, severely impacting ecosystems like Dunwich Heath.",
-            "Climate experts emphasize that these fires highlight the urgent need to cut emissions and invest in emergency planning.",
-            "The Fire Brigades Union and conservationists are calling for more resources, policy updates, and preventative measures, but government response has suffered from 'drift and inertia'.",
-            "A comprehensive strategy involving both fire service reform and robust climate adaptation plans is crucial to tackle the crisis."
-        ],
-        "grammar": "The text utilizes a first conditional structure: 'If the government wants to avoid an impression that drift and inertia are ongoing, they need to provide an update...'. This structure is used to express a real or highly possible condition in the present/future and its necessary consequence or action.",
-        "vocab": [
-            {
-                "word": "inertia",
-                "english": "A tendency to do nothing or to remain unchanged.",
-                "gujarati": "નિષ્ક્રિયતા / જડતા",
-                "pos": "Noun",
-                "synonyms": "inactivity, apathy, lethargy, inaction",
-                "antonyms": "activity, dynamism, energy, action"
-            },
-            {
-                "word": "existential",
-                "english": "Relating to existence, especially human survival.",
-                "gujarati": "અસ્તિત્વ સંબંધી",
-                "pos": "Adjective",
-                "synonyms": "experiential, ontological, vital",
-                "antonyms": "non-essential, ungrounded"
-            },
-            {
-                "word": "proximity",
-                "english": "Closeness in space, time, or relationship.",
-                "gujarati": "નિકટતા / સમીપતા",
-                "pos": "Noun",
-                "synonyms": "nearness, closeness, adjacency",
-                "antonyms": "distance, remoteness"
-            },
-            {
-                "word": "devastated",
-                "english": "Destroyed or ruined completely.",
-                "gujarati": "તારાજ થયેલું / બરબાદ થયેલું",
-                "pos": "Verb (used as Adjective)",
-                "synonyms": "ravaged, wrecked, ruined, demolished",
-                "antonyms": "restored, preserved, protected"
-            },
-            {
-                "word": "scrutiny",
-                "english": "Critical observation or examination.",
-                "gujarati": "ઝીણવટભરી તપાસ / ચકાસણી",
-                "pos": "Noun",
-                "synonyms": "inspection, examination, analysis, audit",
-                "antonyms": "neglect, ignorance, glance"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "threw their weight behind",
-                "english": "To use one's influence or support to advocate for or help someone or something.",
-                "gujarati": "પૂરેપૂરો ટેકો આપવો / પીઠબળ પૂરું પાડવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1786518660-120",
-        "date": "2026-08-12",
-        "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
-        "content": "Amid public concern over the impact of new technology, Silicon Valley’s use of its wealth to influence specific election races is an unwelcome development As the huge societal ramifications of artificial intelligence have become clear, some of the tech industry’s most senior figures have taken to writing thinkpieces on what comes next. The latest to do so is Mark Zuckerberg, who this week published 6,500 words making the case for a laissez-faire approach to AI development. Worrying too much about regulation, Meta’s CEO unsurprisingly opines, could lead to the United States falling behind in the race to own the future. Mr Zuckerberg’s plea for maximum autonomy is, of course, self-serving. Much of his essay – which airily envisions “invention superpowers” for every entrepreneur and “an abundance of jobs in the future” – reads like unadulterated tech-utopianism. But the lobbying at least has the merit of being out there in the open. As midterm elections loom in the US, darker arts are also being used to counter popular concern about what AI will mean for a host of topics, from the labour market to child safety, the environment and cybersecurity. Replicating a strategy deployed by cryptocurrency backers in the 2024 election cycle, Silicon Valley is pouring hundreds of millions of dollars into Super Pacs – groups unaffiliated to political parties or campaigns – to ensure that voices sympathetic to its deregulatory AI agenda get elected. OpenAI’s co-founder and president, Greg Brockman, and Palantir’s co-founder, Jo Lonsdale, have given large sums to Leading the Future, an organisation dedicated to “identifying, maintaining, and growing pro-AI candidates”. Vast amounts are being spent to try to tilt the balance in individual contests, sometimes through disingenuous means. Earlier this summer, Leading the Future spent $6m on ads attacking Alex Bores, a New York state assemblyman and pioneer of AI regulation at state level. Rather than focus on his AI campaigning, the ads attacked Mr Bores’s progressive credentials, alleging that he had carried out tech work in the past for US Immigration and Customs Enforcement, which he denies. Running for Congress in a Democratic stronghold, he lost a tight primary race after battling what was in essence a smear campaign. Countervailing forces are emerging. Guardrails Alliance, a union-backed Super Pac, is attempting to combat Leading the Future’s influence, while a bipartisan groundswell of opposition to datacentres is generating serious electoral clout. But as tech companies and their billionaire owners seek to shape and above all limit the scope of AI regulation, their influence is distorting debate in a political culture where the power of money already holds far too much sway. In his essay, Mr Zuckerberg urges that AI’s democratising potential be protected from those who believe “a small set of experts … should decide what is best for humanity”. He appears to miss the irony that an unelected tech oligarchy, to which he belongs, is already performing that function by default. Its pressure has been instrumental in persuading Donald Trump to cancel the signing of an executive order which would have given the government the right to review new AI models. Its wealth is now being used to attack and undermine dissenting voices in the public square. If a democratic debate about the benefits and dangers of AI is to take place, such presumption must be fiercely resisted in the US and elsewhere. The semi-covert manipulation of political discussion is no way to map out an inclusive future in challenging times.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "2 min",
-        "centralIdea": "The editorial criticizes Silicon Valley's use of immense wealth and Super PACs to influence US elections, arguing that such covert financial manipulation distorts democratic debate and blocks necessary AI regulation.",
-        "tone": "Critical, Analytical, Apprehensive",
-        "skimming": [
-            "Tech executives like Mark Zuckerberg advocate for minimal AI regulation, claiming it is necessary to maintain US competitiveness.",
-            "Silicon Valley is heavily funding Super PACs to elect pro-AI candidates and defeat those advocating for regulatory guardrails.",
-            "These well-funded campaigns often employ smear tactics and disingenuous ads to target and defeat reform-minded politicians.",
-            "The immense financial power of the tech oligarchy distorts democratic processes, making it crucial to resist their influence to ensure a fair debate on AI's future."
-        ],
-        "grammar": "The sentence 'He appears to miss the irony that an unelected tech oligarchy, to which he belongs, is already performing that function by default' features a relative clause introduced by a preposition ('to which'). This formal structure places the preposition before the relative pronoun 'which' rather than stranding it at the end of the clause ('which he belongs to').",
-        "vocab": [
-            {
-                "word": "laissez-faire",
-                "english": "A policy or attitude of letting things take their own course, without interfering.",
-                "gujarati": "હસ્તક્ષેપ ન કરવાની નીતિ",
-                "pos": "Adjective",
-                "synonyms": "non-interventionist, free-enterprise, hands-off",
-                "antonyms": "interventionist, protectionist, regulatory"
-            },
-            {
-                "word": "opines",
-                "english": "States or expresses one's opinion.",
-                "gujarati": "અભિપ્રાય આપવો",
-                "pos": "Verb",
-                "synonyms": "suggests, declares, asserts, observes",
-                "antonyms": "withholds, keeps silent"
-            },
-            {
-                "word": "unadulterated",
-                "english": "Not mixed or diluted with any different or extra elements; complete and absolute.",
-                "gujarati": "શુદ્ધ, ભેળસેળ વિનાનું",
-                "pos": "Adjective",
-                "synonyms": "pure, sheer, unmitigated, absolute",
-                "antonyms": "adulterated, contaminated, diluted, mixed"
-            },
-            {
-                "word": "disingenuous",
-                "english": "Not candid or sincere, typically by pretending that one knows less about something than one really does.",
-                "gujarati": "કપટી, અપ્રમાણિક",
-                "pos": "Adjective",
-                "synonyms": "deceitful, insincere, duplicitous, hypocritical",
-                "antonyms": "ingenuous, sincere, honest, frank"
-            },
-            {
-                "word": "oligarchy",
-                "english": "A small group of people having control of a country, organization, or institution.",
-                "gujarati": "અલ્પજનતંત્ર, થોડા લોકોનું શાસન",
-                "pos": "Noun",
-                "synonyms": "elite, cabal, junta, aristocracy",
-                "antonyms": "democracy, anarchy"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "hold sway",
-                "meaning": "To have great power, influence, or control over a person, group of people, or place.",
-                "gujarati": "વર્ચસ્વ હોવું"
-            },
-            {
-                "idiom": "tilt the balance",
-                "meaning": "To alter a situation in a way that gives one group or person an advantage.",
-                "gujarati": "પલ્લું નમાવવું"
             }
         ]
     }
