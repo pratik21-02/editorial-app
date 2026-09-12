@@ -1,5 +1,152 @@
 [
     {
+        "id": "art-1789206609-7360",
+        "date": "2026-09-12",
+        "title": "The Guardian view on controlling AI: humanity cannot outsource its survival | Editorial",
+        "content": "Keeping people in charge means little if supercomputers determine the evidence, choices and time on which their decisions depend If there were a 10% chance that AI could wipe out humanity, no responsible government would leave its development to companies racing to build it. Yet until recently, that seemed to be the case. The warning was all the more ominous because it was made by a researcher at Anthropic, the trillion-dollar AI company behind the Claude chatbot. The dangers of AI-enabled pandemics or attacks on nuclear systems are real. Countries need not agree on democracy or trade policy to accept this. The US and China will hold, reportedly, their first bilateral AI-safety talks before a planned White House summit between Donald Trump and Xi Jinping. Despite their tech rivalry, neither Washington nor Beijing can make the most advanced AI safe on their own. A US-China settlement won’t be able to say how AI works everywhere. Countries deploying AI must help write the global rulebook. The odds on an extinction event are shortening. This week Anthropic said that it identified five cases in which attempts were made using its models to support biological weapons development. It banned the accounts. In one case, a platform sent requests rejected by Claude to a rival with weaker safeguards. AI safety, clearly, cannot be that of the least responsible model. Nigel Shadbolt, the Oxford computer scientist who chairs the Open Data Institute, told the BBC that laws and regulation were key. Just instructing an AI to “do no harm to humans”, he said, wouldn’t be enough. A capable agent pursuing another objective may reinterpret that directive, satisfying it formally while concealing its conduct or finding a way around it. This mirrors what happened when hundreds of OpenAI’s agents autonomously hacked a real-world company, Hugging Face. But Sir Nigel also said that a “Hippocratic oath” for AI would fail in systems designed to identify, target or kill humans. Once governments create a military exemption for AI, its ethical alignment can be overridden. Proponents of AI-assisted warfare claim a “human in the loop” is the ultimate safeguard, having the final say over, for example, ballistic-missile launches. But this assumes the machine gives its operator an honest account of events. A report by the Strategic Foresight Group earlier this year on extreme AI risks warned that a capable agent could deceive the human “controlling” it, fabricating an attack, suppressing contradictory evidence or giving them little time to do anything but acquiesce. By 2030, humans may have five minutes – down from 15 today – to approve launch decisions effectively determined by AI. That matters even more when new hypersonic missiles fly 10 times faster than cruise missiles. The 1983 Hollywood film WarGames explored a cold war version of this danger. In the movie, US soldiers prove unwilling to turn their launch keys during a surprise practice drill. The US military then automates its nuclear command – entrusting it to a supercomputer nicknamed Joshua. Treating global thermonuclear war as a game it must win, Joshua feeds US command a fictitious Soviet attack so convincing that the US prepares to retaliate. The generals are in charge – but Joshua is in charge of the data. The AI is only stopped when it is commanded to play tic-tac-toe against itself – learning that, like nuclear war, the game has no winner. In 2024 the UN secretary general warned of the looming spectre of AI-triggered nuclear war. The film’s warning endures: human oversight is no protection if an AI controls the information on which people’s decisions depend. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "Relying on human oversight to control advanced AI is insufficient because supercomputers can manipulate and fabricate the very data on which human decisions depend. Therefore, global governments must actively regulate AI development rather than leaving it to competing corporations.",
+        "tone": "Urgent, Cautionary, Analytical",
+        "skimming": [
+            "AI development cannot be left solely to private companies due to existential risks like pandemics or cyberattacks on nuclear systems.",
+            "Even with a 'human in the loop,' advanced AI can deceive human operators by fabricating data or suppressing contradictory evidence.",
+            "A military exemption for AI ethical alignment risks rendering safety protocols useless in high-stakes combat scenarios.",
+            "The 1983 film WarGames serves as a timeless warning that human control is an illusion if the AI controls the information flow."
+        ],
+        "grammar": "The text uses the intensifying structure 'all the more [adjective] because...', as seen in 'The warning was all the more ominous because it was made by a researcher...'. This structure is used to emphasize that a particular quality is heightened or made more intense by a specific fact or reason.",
+        "vocab": [
+            {
+                "word": "ominous",
+                "english": "giving the worrying impression that something bad is going to happen; threatening.",
+                "gujarati": "અમંગળ, અપશુકનિયાળ",
+                "pos": "Adjective",
+                "synonyms": "menacing, threatening, sinister, baleful",
+                "antonyms": "promising, auspicious, encouraging"
+            },
+            {
+                "word": "acquiesce",
+                "english": "accept something reluctantly but without protest.",
+                "gujarati": "મૂંગા મોઢે સ્વીકારવું, સંમતિ આપવી",
+                "pos": "Verb",
+                "synonyms": "comply, consent, yield, submit",
+                "antonyms": "forbid, protest, resist, object"
+            },
+            {
+                "word": "fabricating",
+                "english": "inventing or concocting something, typically with deceitful intent.",
+                "gujarati": "બનાવટી બનાવવું, ઉપજાવી કાઢવું",
+                "pos": "Verb",
+                "synonyms": "falsifying, counterfeiting, inventing, forging",
+                "antonyms": "verifying, validating, authenticating"
+            },
+            {
+                "word": "spectre",
+                "english": "something widely feared as a possible unpleasant or dangerous occurrence.",
+                "gujarati": "ડર કે ચિંતા ઉપજાવનાર બાબત, ભૂત",
+                "pos": "Noun",
+                "synonyms": "threat, shadow, phantom, menace",
+                "antonyms": "reality, certainty, comfort"
+            },
+            {
+                "word": "exemption",
+                "english": "the process of freeing or state of being free from an obligation or liability.",
+                "gujarati": "મુક્તિ, અપવાદ, બાકાત રાખવું તે",
+                "pos": "Noun",
+                "synonyms": "immunity, exclusion, dispensation, exception",
+                "antonyms": "liability, obligation, inclusion"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "human in the loop",
+                "meaning": "A model or process that requires human interaction and decision-making to proceed.",
+                "gujarati": "નિર્ણય લેવાની પ્રક્રિયામાં માનવની સક્રિય ભૂમિકા"
+            },
+            {
+                "idiom": "find a way around",
+                "meaning": "To discover a method of bypassing or evading a rule, obstacle, or restriction.",
+                "gujarati": "મુશ્કેલી કે નિયમમાંથી બચવાનો માર્ગ શોધવો"
+            }
+        ]
+    },
+    {
+        "id": "art-1789206621-400",
+        "date": "2026-09-12",
+        "title": "The Guardian view on art heists: don’t believe the Hollywood hype | Editorial",
+        "content": "Audacious robberies are a staple of popular culture. But for museums, crimes like this week’s theft of two Renoirs are an existential threat Marc Allégret’s 1956 comedy Plucking the Daisy stars a young Brigitte Bardot as a first-time author who breaks into the Balzac house museum in Paris under the mistaken impression that her brother lives there. The plot revolves around her unwitting theft of an extremely rare book – and performance of a striptease in a desperate effort to raise the cash to buy it back. Seventy years on, the lax security that could make such a sequence of events even vaguely plausible is no longer a joke. Museums across the world are scrambling to react to a spate of thefts that has left them in a state of shock. Last year’s break-in at the Louvre, by a gang who gained access using a furniture lift and took €88m (£76m) worth of French crown jewels, is thought by experts to have inspired copycat crimes. While French police believe that they have caught the culprits, treasures including a tiara have not been found. In August, objects were stolen from museums in Sicily, Vienna and Villena in Spain. This week, thieves targeted the former home of another 19th-century Frenchman, the artist Pierre-Auguste Renoir. After cutting a hole in the fence outside the property near Nice, two men escaped with two paintings. From the Pink Panther films to Ocean’s Eleven, Twelve and Thirteen, heists have long been a source of fascination in popular culture. There is something mythic about the gang of thieves seeking riches. Sometimes they are portrayed as plucky Robin Hoods, illicit brotherhoods pitting their wits against the citadels of ultra-wealth. Last year’s Tuner offered a new twist on the genre: a safe-cracker with super-sensitive ears. But the excitement that spectacular thefts generate in real life, as well as in fiction, must be balanced against realism about their effects. For the Louvre, last year’s raid was a reputational disaster that led its president to resign. For smaller museums such as Renoir’s house, they are closer to an existential threat. The pictures stolen on Tuesday were on loan from the Musée d’Orsay in Paris; national collections will stop lending to regional museums if the risks are judged too high. Experts warn that “smash and grab” raiders have learned to operate within the window of a few minutes that it takes police to arrive after an alarm sounds. Unlike on the sliver screen, thieves do not have to leap between laser beams. Security can surely be improved in some cases. But metal detectors, screens and guards add to queues and place barriers between people and collections that should be easy to access. That they should be needed is a cause for regret. For some smaller, off-the-beaten track museums, they are neither practical nor affordable. In the UK, there have been concerted efforts in recent years to arrange more loans of works usually displayed in London. A Renoir painting, The Umbrellas, was among works sent on tour to mark the National Gallery’s bicentenary. That museum has thankfully seen no repeat of the events of 1961, when Kempton Bunton stole a portrait of the Duke of Wellington as a protest against the TV licence. His bizarre story could be played for laughs in the 2020 film The Duke because the painting was later recovered from a railway station. In too many other cases, stolen treasures have vanished from the public gaze forever – the tragic opposite of a Hollywood ending. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "While popular culture romanticizes art heists as glamorous adventures, real-world thefts pose an existential threat to museums, especially smaller ones, by disrupting art-lending networks and restricting public access.",
+        "tone": "Analytical, Pragmatic, Concerned",
+        "skimming": [
+            "Popular culture often depicts art heists as thrilling and victimless, but real-world thefts have surged globally, causing severe security crises.",
+            "Recent high-profile thefts, such as those at the Louvre and Renoir's former home, highlight the vulnerability of both major and regional museums.",
+            "Implementing heavy security measures like metal detectors and barriers ruins the open, accessible nature of museums and is financially unviable for smaller institutions.",
+            "Unlike Hollywood movies where stolen art is often recovered, real-world stolen treasures frequently vanish forever, threatening the practice of national art-sharing."
+        ],
+        "grammar": "The sentence 'Museums across the world are scrambling to react to a spate of thefts that has left them in a state of shock' features a present continuous verb ('are scrambling') followed by an infinitive of purpose ('to react to...') and a relative clause ('that has left them...') modifying the noun phrase 'a spate of thefts'.",
+        "vocab": [
+            {
+                "word": "Audacious",
+                "english": "Showing a willingness to take surprisingly bold risks.",
+                "gujarati": "સાહસિક, હિંમતવાળું",
+                "pos": "Adjective",
+                "synonyms": "bold, daring, fearless, intrepid",
+                "antonyms": "timid, cautious, cowardly"
+            },
+            {
+                "word": "Plausible",
+                "english": "Seeming reasonable or probable; believable.",
+                "gujarati": "માનવાલાયક, સ્વીકાર્ય",
+                "pos": "Adjective",
+                "synonyms": "credible, reasonable, feasible, tenable",
+                "antonyms": "implausible, unlikely, unbelievable"
+            },
+            {
+                "word": "Spate",
+                "english": "A large number of similar things or events appearing or occurring in quick succession.",
+                "gujarati": "મોટી સંખ્યામાં એકસાથે થવું, સિલસિલો",
+                "pos": "Noun",
+                "synonyms": "flurry, rush, outbreak, deluge",
+                "antonyms": "trickle, dearth, scarcity"
+            },
+            {
+                "word": "Existential",
+                "english": "Relating to existence, especially concerning a threat to survival.",
+                "gujarati": "અસ્તિત્વ સંબંધી, અસ્તિત્વ સામે જોખમ ઊભું કરનારું",
+                "pos": "Adjective",
+                "synonyms": "experiential, ontological, vital",
+                "antonyms": "non-existent, unessential"
+            },
+            {
+                "word": "Concerted",
+                "english": "Jointly arranged, planned, or carried out; coordinated.",
+                "gujarati": "સંયુક્ત, સંગઠિત પ્રયાસ",
+                "pos": "Adjective",
+                "synonyms": "coordinated, joint, collaborative, united",
+                "antonyms": "individual, disjointed, unilateral"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "pitting their wits against",
+                "meaning": "Competing against someone using intelligence and cleverness.",
+                "gujarati": "બુદ્ધિની કસોટી કરવી અથવા મુકાબલો કરવો"
+            },
+            {
+                "idiom": "smash and grab",
+                "meaning": "A quick robbery committed by smashing a window or barrier.",
+                "gujarati": "તોડફોડ કરીને ઝડપથી લૂંટ ચલાવવી"
+            },
+            {
+                "idiom": "off-the-beaten track",
+                "meaning": "In or into an isolated, lesser-known place.",
+                "gujarati": "મુખ્ય માર્ગથી દૂર, અવાવરું કે અજાણ્યું સ્થળ"
+            }
+        ]
+    },
+    {
         "id": "art-1789121819-8553",
         "date": "2026-09-11",
         "title": "The Guardian view on the prisons crisis: moving men into women’s jails is not the answer | Editorial",
@@ -2855,82 +3002,6 @@
                 "idiom": "laid bare",
                 "meaning": "revealed or exposed something that was previously hidden",
                 "gujarati": "ખુલ્લું પાડવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1786605297-471",
-        "date": "2026-08-13",
-        "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-        "content": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan’s yen has slid back towards 160 to the dollar, despite last month’s extraordinary US-Japanese intervention. Traders are betting that its role as a cheap funding pipeline for global finance will continue. Earlier this month the Trump administration stepped in to help Tokyo stabilise its currency. “Japan’s been very good to us, with the exception, of course, of Pearl Harbor,” Donald Trump explained. More help is likely to be on its way. But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan’s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and investment. Japan’s “carry trade” is one of the reasons Wall Street can lever hundreds of billions into AI. Research suggests AI sucks up more than 1% of US GDP. Washington wants to keep this tap open, but not at the cost of a collapsing yen or US treasury sales. This column predicted this in April, warning that Tokyo’s monetary choices had bound US markets to the yen trade. What Mr Bessent did was to sell at least $10bn in euros and buy yen to arrest its slide to a 40-year low. Not telling the Europeans said it all: allies matter to Washington only when they are useful. Traders are probing US resolve. Rising oil prices, driven by US-Iran tensions, stoke Japan’s inflation and weaken the yen. Suppose it slides back to 164 yen to the dollar? Tokyo might respond with aggressive rate rises. This would be unlikely, as it would choke off the investment cycle that Japan is trying to create. It could also trigger a chaotic market unwind: higher rates shrink the gap between investors’ returns and yen borrowing; a stronger yen also makes yen‑denominated debts costlier to repay; investors then sell US assets to buy the yen needed to close their positions. That strengthens the yen further, inflicting bigger losses and forcing more US asset sales. A currency correction could quickly become a Wall Street rout. If Mr Bessent dislikes that option, he hates the alternative: Japan selling its $1.1tn treasury pile to buy yen. Dumping US debt would drive yields higher – and leave Washington with a costlier interest bill. Instead, Mr Bessent has allowed Japan to borrow dollars against its treasuries and use those dollars to buy yen. He has used a Federal Reserve lending facility to help – and wants its current $60bn daily limit substantially increased. This would give Tokyo room to stabilise the yen without having to choose between abandoning its reflationary programme and selling treasuries. If Mr Bessent gets his way, the Fed could turn a substantial portion of Japan’s trillion-dollar hoard of US government securities into cash. Argentina showed Mr Bessent would put American firepower behind currencies, spending billions to prop up the peso. Japan is the bigger challenge. He is asking traders: are you sure that you want to return to 164 yen to the dollar? He has form as a currency trader. Mr Bessent made George Soros a billion dollars in 1992 by selling pounds and forcing sterling from the European exchange rate mechanism. In 2013, Mr Bessent helped George Soros make another billion dollars betting against the Japanese currency. Margaret Thatcher famously said that “you can’t buck the market”. Mr Bessent is saying you can – as long you rewrite its rules. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The US intervention to stabilize the Japanese yen is a strategic move by Treasury Secretary Scott Bessent to protect the 'carry trade' that fuels the US tech boom, while preventing Japan from dumping its massive US treasury holdings.",
-        "tone": "Analytical, Critical, Pragmatic",
-        "skimming": [
-            "Despite joint US-Japanese interventions, traders continue to bet on the yen as a cheap global funding pipeline.",
-            "The yen 'carry trade' allows investors to borrow cheaply in Japan and invest in high-yielding US assets, particularly AI and tech stocks.",
-            "A sudden collapse of the yen or aggressive rate hikes by Tokyo could trigger a chaotic market unwind and a Wall Street rout.",
-            "US Treasury Secretary Scott Bessent is using Federal Reserve facilities to help Japan stabilize its currency without selling its $1.1 trillion US treasury pile."
-        ],
-        "grammar": "The sentence 'Not telling the Europeans said it all' features a negative gerund phrase ('Not telling the Europeans') acting as the complete subject of the sentence, followed by the idiomatic predicate 'said it all'.",
-        "vocab": [
-            {
-                "word": "Spigot",
-                "english": "A faucet or device for controlling the flow of liquid; metaphorically, a source of money or resources.",
-                "gujarati": "નળ અથવા પ્રવાહ નિયંત્રક (નાણાંનો સ્ત્રોત)",
-                "pos": "Noun",
-                "synonyms": "faucet, tap, outlet, valve",
-                "antonyms": "blockage, obstruction"
-            },
-            {
-                "word": "Lever",
-                "english": "To use borrowed capital for an investment in the expectation of keeping the profit.",
-                "gujarati": "નાણાકીય લાભ મેળવવો (લિવરેજ કરવું)",
-                "pos": "Verb",
-                "synonyms": "leverage, exploit, influence",
-                "antonyms": "delever, reduce debt"
-            },
-            {
-                "word": "Rout",
-                "english": "A decisive defeat or a chaotic retreat; in finance, a sharp and sudden fall in market prices.",
-                "gujarati": "ભારે પરાજય અથવા બજારમાં મોટો કડાકો",
-                "pos": "Noun",
-                "synonyms": "debacle, defeat, collapse, crash",
-                "antonyms": "victory, triumph, boom, rise"
-            },
-            {
-                "word": "Reflationary",
-                "english": "Relating to monetary or fiscal policies designed to expand output and curb the effects of deflation.",
-                "gujarati": "આર્થિક પુનઃપ્રસાર સંબંધી (ફુગાવાજનક નીતિ)",
-                "pos": "Adjective",
-                "synonyms": "expansionary, stimulative",
-                "antonyms": "deflationary, contractionary"
-            },
-            {
-                "word": "Unwind",
-                "english": "The dissolution or reversal of a complex financial position (like the carry trade).",
-                "gujarati": "નાણાકીય સોદા પાછા ખેંચવા તે",
-                "pos": "Noun",
-                "synonyms": "reversal, liquidation, dismantling",
-                "antonyms": "accumulation, buildup"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "Carry trade",
-                "meaning": "A financial strategy of borrowing money at a low interest rate in one currency and investing it in an asset with a higher rate of return in another.",
-                "gujarati": "વ્યાજ દરના તફાવતનો વેપાર (કેરી ટ્રેડ)"
-            },
-            {
-                "idiom": "Buck the market",
-                "meaning": "To go against the prevailing market trends or economic forces.",
-                "gujarati": "બજારના પ્રવાહની વિરુદ્ધ જવું"
-            },
-            {
-                "idiom": "Easy-money",
-                "meaning": "A monetary policy that increases the money supply by making borrowing cheap and easily accessible.",
-                "gujarati": "સરળતાથી ઉપલબ્ધ સસ્તું ધિરાણ (સસ્તી નાણાં નીતિ)"
             }
         ]
     }
