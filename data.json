@@ -1,5 +1,76 @@
 [
     {
+        "id": "art-1789641725-5947",
+        "date": "2026-09-17",
+        "title": "The Guardian view on Sweden’s election result: an opportunity that progressive parties must not squander | Editorial",
+        "content": "After a desperately tight race, voters rejected the prospect of the far right in government. A potential centre-left coalition needs to seize the moment European progressives searching for reasons to be cheerful have been finding them hard to come by this autumn. In Germany, the dramatic rise of the Alternative für Deutschland party is threatening the liberal values that underpin the identity of the federal republic. In France, polls continue to point to a likely Marine Le Pen victory in a presidential election, which is months away. Across mainland Europe, centre-left parties are failing to muster an adequate response to nativist movements that have colonised swathes of the working-class support that they once relied on. In such an ominous political landscape, the outcome of a cliffhanger Swedish election provides a much‑needed source of optimism – albeit one that comes with heavy caveats. Prior to last Sunday’s poll, the outgoing prime minister, Ulf Kristersson, was explicit that if his rightwing alliance won the largest number of seats, he would invite members of the far-right Sweden Democrats party (SD) to become ministers in the next government. That would have meant the formal end of the SD’s pariah status in Swedish politics, after four years in which its parliamentary votes have propped up Mr Kristersson’s minority administration. In a Europe where firewalls and cordons sanitaires against the far right have never seemed less secure, another significant threshold would have been crossed. Voters appear to have instead handed the narrowest of victories to the Social Democratic leader, Magdalena Andersson, and the progressive bloc of parties. The SD’s share of the vote fell for the first time since it began its political journey as an openly neo-Nazi party in the late 1980s, and it slipped from second to third place behind the conservative Moderates. So much for the good news. As in Germany and France, the Swedish far right has not needed to win power for its agenda to become normalised and partially implemented. Mr Kristersson’s reliance on the SD resulted in a government that behaved with performative cruelty towards migrants, and enacted much of its draconian programme on deportations and citizenship restrictions. Ms Andersson has responded by offering a milder version of the same approach to immigration and asylum. As it leaked support on the left accordingly, her party recorded its lowest vote share for over a century. Unless traditional powerhouse parties of European social democracy are more courageous in seeking to shift the dial of political debate, the far right will continue to set its terms. The SD’s chosen slogan for its campaign was “Make Sweden Sweden again” – varying the usual Maga trope in order to stress the core ethnocentric message. From the sidelines its rhetoric will become still more extreme, and the defeat of the rightwing bloc is already being invidiously attributed to foreign-born voters. Should Ms Andersson eventually succeed in forming a centre-left coalition government, she should counter the forces of division by channelling the best of her own party’s traditions. The Social Democratic party historically dominated Swedish politics through the idea of the Folkhemmet, or People’s Home, which encapsulated the inclusive ethos of a welfare society admired around the world. Locating the resources and ambition to develop a similarly attractive politics of the common good for the 21st century is the urgent task for progressives, in Sweden and beyond. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "2 min",
+        "centralIdea": "The narrow victory of Sweden's progressive bloc over the far-right offers a rare moment of optimism for European social democrats, but to prevent the normalization of far-right agendas, progressive parties must courageously champion inclusive, welfare-oriented politics rather than mimicking right-wing stances on immigration.",
+        "tone": "Analytical, Cautiously Optimistic",
+        "skimming": [
+            "The Swedish election resulted in a narrow victory for the progressive bloc, preventing the far-right Sweden Democrats (SD) from entering the government.",
+            "This outcome provides a rare source of optimism for European progressives amidst the rise of far-right parties in Germany and France.",
+            "Despite the defeat, the far-right's agenda has already been normalized, with the previous right-wing government implementing draconian policies on immigration.",
+            "To secure long-term success, progressive parties must move away from mimicking right-wing rhetoric and instead revive inclusive welfare policies like the 'People's Home' (Folkhemmet)."
+        ],
+        "grammar": "The text utilizes a past unreal conditional structure in the sentence: 'In a Europe where firewalls and cordons sanitaires against the far right have never seemed less secure, another significant threshold would have been crossed.' The use of 'would have been crossed' (passive voice of the conditional perfect) describes a hypothetical past consequence of an event that did not actually happen (the far-right winning and entering government).",
+        "vocab": [
+            {
+                "word": "squander",
+                "english": "To waste something, especially money or an opportunity, in a reckless and foolish manner.",
+                "gujarati": "વેડફી નાખવું",
+                "pos": "Verb",
+                "synonyms": "waste, misuse, dissipate, blow",
+                "antonyms": "save, hoard, preserve, conserve"
+            },
+            {
+                "word": "ominous",
+                "english": "Giving the worrying impression that something bad is going to happen; threatening.",
+                "gujarati": "અશુભ / અપશુકનિયાળ",
+                "pos": "Adjective",
+                "synonyms": "threatening, menacing, sinister, baleful",
+                "antonyms": "promising, auspicious, propitious, encouraging"
+            },
+            {
+                "word": "caveat",
+                "english": "A warning or proviso of specific conditions or limitations.",
+                "gujarati": "ચેતવણી / શરત",
+                "pos": "Noun",
+                "synonyms": "warning, caution, proviso, condition",
+                "antonyms": "guarantee, warranty"
+            },
+            {
+                "word": "draconian",
+                "english": "Excessively harsh and severe (especially of laws or measures).",
+                "gujarati": "અત્યંત કડક / ક્રૂર",
+                "pos": "Adjective",
+                "synonyms": "harsh, severe, strict, extreme",
+                "antonyms": "lenient, mild, gentle, merciful"
+            },
+            {
+                "word": "ethnocentric",
+                "english": "Evaluating other cultures according to preconceptions originating in the standards and customs of one's own culture.",
+                "gujarati": "સ્વજાતિ-કેન્દ્રી",
+                "pos": "Adjective",
+                "synonyms": "nationalistic, chauvinistic, biased, xenophobic",
+                "antonyms": "multicultural, unbiased, open-minded"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "seize the moment",
+                "meaning": "To make the most of today's opportunities; to take immediate advantage of a situation.",
+                "gujarati": "તકનો પૂરેપૂરો લાભ લેવો"
+            },
+            {
+                "idiom": "hard to come by",
+                "meaning": "Difficult to find, obtain, or acquire.",
+                "gujarati": "મુશ્કેલીથી મળવું / દુર્લભ હોવું"
+            }
+        ]
+    },
+    {
         "id": "art-1789554708-8058",
         "date": "2026-09-16",
         "title": "The Guardian view on Lucy Letby: Thirlwall should have waited for the pending case review | Editorial",
@@ -2850,140 +2921,6 @@
                 "idiom": "make one's mark",
                 "meaning": "To attain influence, distinction, or success.",
                 "gujarati": "પોતાની ઓળખ ઊભી કરવી / સફળતા મેળવવી"
-            }
-        ]
-    },
-    {
-        "id": "art-1787034472-6971",
-        "date": "2026-08-18",
-        "title": "The Guardian view on Jason Arday: a tragedy that demands reflection | Editorial",
-        "content": "Legitimate scrutiny became entangled with a racial argument about merit and diversity. His death raises questions about how society treats black success and failure The tragic death of Jason Arday raises serious questions about race, institutional authority and what happens to people in a society increasingly organised around public reputation. Arday, who resigned earlier this month as a professor at the University of Cambridge, was found dead at his home last week. He was 41. His family and friends have lost somebody they loved and cared for. Arday had publicly said that the scrutiny of allegations concerning his academic work and claims he had made about his life was taking a profound toll. That he then died amid an intense and continuing media examination of his life is deeply troubling. The prime minister, Andy Burnham, was right to call this “a moment for reflection”. This does not mean suppressing difficult questions, ignoring why there remain a pitifully small number of black professors in British universities, or attacking legitimate journalism. But in a polarised world it should see the media ask how proper scrutiny can widen into something more encompassing; how race affects the meaning attached to an individual’s alleged failings; and whether separate valid stories can, via social media, have an overwhelming effect. In Arday’s case, alleged shortcomings in his record rapidly became weaponised by the right in an argument about diversity and black academic advancement. Arday’s story – an autistic child from a council estate who became a Cambridge professor aged just 37 – was remarkable. The university publicised the symbolic dimensions of his appointment as a young, black, neurodivergent man. He had been accused of plagiarism in his doctoral thesis – allegations an earlier Liverpool John Moores University investigation had not upheld. His latest accuser, Nathan Cofnas, had advanced ideas widely condemned as racist, making it impossible to regard his intervention as neutral. However, there was a clear public interest case for investigating such allegations. The Guardian sought to establish what was true. That is the proper function of journalism. Reporters were contacted by Arday over a year ago and worked extensively to verify what he had told them. In many instances they could not. It was right for the Guardian to publish its investigation, and it is wrong that the journalists who did their job responsibly are now being subjected to an onslaught of abuse. Cambridge, which has many of its own questions to answer, announced that it would hold an internal inquiry. In its journalism, the Guardian sought to meet tests of importance and proportionality, covering the issue with nuance. This could not be said of much of the rightwing media and its social media outriders. Arday became an exhibit in an ideological, almost Trumpian campaign against diversity and inclusion. The allegations were no longer simply about one academic’s behaviour or his past record. They were used to suggest that Arday had never deserved to be there – and that he had only been advanced because of his race. The attacks were relentless, often partisan, and amplified without respite online. This is racism at work. White academics are generally allowed to fail as individuals. Black ones are not. Arday may have had questions to answer; that did not make black academics collectively answerable for him. A society committed to equality must allow black people the same freedom as everyone else: to be flawed, to make mistakes, and even to fail, without their failure becoming an indictment of their race. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The tragic death of Cambridge professor Jason Arday highlights the devastating impact of racially weaponized media scrutiny, underscoring the need for a society where Black individuals can succeed or fail without their actions being treated as a collective indictment of their race.",
-        "tone": "Reflective, Critical, Somber",
-        "skimming": [
-            "The tragic death of 41-year-old Cambridge professor Jason Arday occurred amid intense media scrutiny over his academic credentials and life claims.",
-            "While legitimate investigative journalism sought to verify allegations, right-wing media and social platforms weaponized the situation to attack diversity and inclusion.",
-            "The editorial highlights a racial double standard where white academics are allowed to fail individually, while Black academics' failures are treated as collective racial shortcomings.",
-            "It calls for media reflection on how scrutiny can escalate into overwhelming campaigns and advocates for true equality where Black individuals have the freedom to be flawed."
-        ],
-        "grammar": "The sentence 'That he then died amid an intense and continuing media examination of his life is deeply troubling' utilizes a noun clause ('That he then died... life') as the grammatical subject of the sentence, which is a sophisticated structure often tested in CAT sentence correction.",
-        "vocab": [
-            {
-                "word": "scrutiny",
-                "english": "Critical, detailed, and disciplined observation or examination.",
-                "gujarati": "ઝીણવટભરી તપાસ",
-                "pos": "Noun",
-                "synonyms": "inspection, examination, audit, analysis",
-                "antonyms": "neglect, ignorance, disregard"
-            },
-            {
-                "word": "weaponised",
-                "english": "Exploited or used as a weapon or tool of attack.",
-                "gujarati": "હથિયાર તરીકે ઉપયોગ કરવો",
-                "pos": "Verb",
-                "synonyms": "exploited, harnessed, capitalized",
-                "antonyms": "neutralized, disarmed, pacified"
-            },
-            {
-                "word": "indictment",
-                "english": "A formal charge or accusation of a serious crime, or something that illustrates that a system or situation is bad.",
-                "gujarati": "દોષારોપણ",
-                "pos": "Noun",
-                "synonyms": "accusation, charge, condemnation, censure",
-                "antonyms": "acquittal, praise, exoneration, defense"
-            },
-            {
-                "word": "respite",
-                "english": "A short period of rest or relief from something difficult or unpleasant.",
-                "gujarati": "રાહત",
-                "pos": "Noun",
-                "synonyms": "break, pause, interval, breathing space",
-                "antonyms": "continuation, clamor, exertion"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "take a toll",
-                "meaning": "To have a serious, bad, or damaging effect on someone or something over time.",
-                "gujarati": "ભારે નુકસાન પહોંચાડવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1787034483-6685",
-        "date": "2026-08-18",
-        "title": "The Guardian view on a vibrant summer for British athletics: inspiring a generation | Editorial",
-        "content": "Amy Hunt’s record haul of four golds in Birmingham showcased the sport’s appeal. More can be done to ensure it gets its fair share of the limelight To win one gold medal is impressive. To win two indicates a certain relentlessness. To win four in the space of one remarkable week of athletics may ensure further recognition for Amy Hunt as the BBC’s sports personality of the year. Ms Hunt’s record‑breaking achievement in winning the 100m, 200m, women’s relay and mixed relay at the first European championships to be held in Britain was an exhibition of world-class sprinting for the ages. Her triumph capped a week which reminded us that there is more to sporting life than football. By winning an 11th medal, Dina Asher-Smith became the most successful athlete in the history of the competition. And on Friday, at a packed Alexander athletics stadium in Birmingham, the crowd savoured a contest and burgeoning rivalry that recalled the halcyon days of Sebastian Coe and Steve Ovett. Audrey Werro, the young Swiss star, and Keely Hodgkinson, Team GB’s Olympic champion, produced a thrillingly intense women’s 800m final, which Werro won with a time that broke a European record set in 1982. Athletics fans should relish the moment. The walls are closing in as another Premier League season begins, sucking the oxygen of publicity away from rival sports. An expanded World Cup, and the fallout from plans to sell a stake in the competition to private equity, made it seem as if football never went away. But it has been a stellar couple of months for British athletes. Josh Kerr’s shattering of the one-mile world record, in front of 60,000 spectators at July’s London Diamond League meet, was the sporting event of the summer until Hunt arguably trumped it. There was also a successful salvage operation in Scotland. Glasgow’s staging of the Commonwealth Games at short notice, after the original Australian hosts pulled out, rescued the event from limbo. The only downside was that the rich talent on display did not, at times, get the fanfare it deserved. Glasgow’s efforts went somewhat under the national radar after cost-conscious organisers rejected a low offer from the BBC and sold rights to the Discovery channel. The boost that terrestrial coverage can give was shown by an audience estimated to be in the region of 4 million for the epic runoff between Werro and Hodgkinson. Birmingham, however, has had its own problems as cameras panned across acres of empty seats in the early part of last week. The former athlete and BBC commentator Steve Cram has been among those to question high ticket prices, and there was a notable lack of cut-price deals to attract the next generation of athletics fans. The promotion and marketing of the event in Birmingham itself, in stark contrast with the 2022 Commonwealth Games, was somewhat underwhelming. For a sport which can produce such scintillating moments of concentrated drama, and in which male and female athletes enjoy a genuine equality of esteem, that is a shame. British athletics is enjoying a golden era, and sassy personalities such as Hunt – a Cambridge graduate who once described herself as “an ­academic badass and a track ­goddess” – have a charismatic appeal. The chosen motto of the London 2012 Olympics was “Inspire a generation”. As the likes of Hunt, Hodgkinson and Kerr do just that, more can be done to support and promote their efforts. Football may now be back. But Britain’s stars of track and field jumped through their annual summer window of opportunity to stunning effect.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "2 min",
-        "centralIdea": "While British athletics is currently enjoying a golden era of stellar performances and charismatic stars, its potential to inspire the next generation is being hindered by poor marketing, high ticket prices, and broadcasting challenges under the dominant shadow of football.",
-        "tone": "Appreciative, Critical, Analytical",
-        "skimming": [
-            "Amy Hunt's historic four-gold haul and the thrilling Werro-Hodgkinson rivalry highlighted a spectacular summer for British athletics.",
-            "The return of the Premier League and dominant football coverage threaten to quickly overshadow these remarkable athletic achievements.",
-            "Despite successful events like Glasgow's salvaged Commonwealth Games, poor broadcasting choices and high ticket prices in Birmingham limited public engagement.",
-            "To truly capitalize on this golden era of charismatic athletes, better promotion, marketing, and accessibility are essential."
-        ],
-        "grammar": "The opening of the text uses parallel infinitive phrases ('To win one...', 'To win two...', 'To win four...') acting as subjects. This rhetorical device, known as anaphora combined with parallelism, builds dramatic momentum and emphasizes the scale of the athlete's achievement.",
-        "vocab": [
-            {
-                "word": "Relentlessness",
-                "english": "The quality of being constant, persistent, and unyielding.",
-                "gujarati": "અવિરતતા, દ્રઢતા",
-                "pos": "Noun",
-                "synonyms": "persistence, determination, tenacity",
-                "antonyms": "irresolution, weakness, hesitation"
-            },
-            {
-                "word": "Burgeoning",
-                "english": "Beginning to grow or increase rapidly; flourishing.",
-                "gujarati": "વિકસતું, ઝડપથી વધતું",
-                "pos": "Adjective",
-                "synonyms": "flourishing, growing, thriving",
-                "antonyms": "declining, shrinking, fading"
-            },
-            {
-                "word": "Halcyon",
-                "english": "Denoting a period of time in the past that was idyllically happy and peaceful.",
-                "gujarati": "શાંત અને સુખી (ભૂતકાળના સોનેરી દિવસો)",
-                "pos": "Adjective",
-                "synonyms": "peaceful, serene, golden, idyllic",
-                "antonyms": "turbulent, chaotic, miserable"
-            },
-            {
-                "word": "Scintillating",
-                "english": "Brilliantly clever, animated, or sparklingly attractive.",
-                "gujarati": "અત્યંત આકર્ષક, ચમકતું, તેજસ્વી",
-                "pos": "Adjective",
-                "synonyms": "brilliant, dazzling, sparkling",
-                "antonyms": "dull, boring, lackluster"
-            },
-            {
-                "word": "Stellar",
-                "english": "Exceptionally good; outstanding.",
-                "gujarati": "ઉત્કૃષ્ટ, તારા જેવું તેજસ્વી",
-                "pos": "Adjective",
-                "synonyms": "outstanding, exceptional, superb",
-                "antonyms": "mediocre, poor, ordinary"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "Suck the oxygen out of",
-                "meaning": "To take all the attention, energy, or resources away from everything else.",
-                "gujarati": "બધી જ લાઈમલાઈટ કે ધ્યાન પોતાની તરફ ખેંચી લેવું"
-            },
-            {
-                "idiom": "Under the radar",
-                "meaning": "To go unnoticed, undetected, or without receiving public attention.",
-                "gujarati": "ધ્યાન બહાર રહેવું, અજાણ રહેવું"
-            },
-            {
-                "idiom": "Walls are closing in",
-                "meaning": "To feel increasingly trapped, restricted, or limited by circumstances.",
-                "gujarati": "મુશ્કેલીઓ વધવી અથવા વિકલ્પો મર્યાદિત થવા"
             }
         ]
     }
