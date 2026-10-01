@@ -1,5 +1,81 @@
 [
     {
+        "id": "art-1790856409-2014",
+        "date": "2026-10-01",
+        "title": "The Guardian view on Lula v the Bolsonaros: the decision of Brazilian voters will affect us all | Editorial",
+        "content": "Sunday’s general election is too close to call, with the incumbent president facing the son of the man who attempted a coup against him Sunday’s election in Brazil could hardly be a clearer-cut choice – nor a closer call. President Luiz Inácio Lula da Silva, known as Lula, is neck and neck in the polls with Flávio Bolsonaro, the son and champion of the jailed far-right former president Jair. Mr Bolsonaro senior is serving a 27-year sentence for plotting a coup to “annihilate” democracy after losing the last election. Brazil is Latin America’s largest democracy, but military dictatorship is in its recent past. Mr Bolsonaro wants to free his father and those who rioted in his support in 2023. The senator has campaigned as a less crass and temperamental version of his father, but he is no less extreme. For many on both sides, this is a vote against a man they detest more than an endorsement of their own candidate. Most voters disapprove of both men. Initially, pundits predicted victory for the leftwing incumbent. Some feel that at 80 he is too old to begin a fourth term, though he remains energetic. His social programmes are extensive, but frustration at Brazil’s enduring failure to match its economic record to its potential may hobble him, especially with growth slowing. Violent crime remains a top issue. Then came the Banco Master financial scandal, which has snowballed into a corruption case spanning Brazilian politics and the judiciary. First, Flávio Bolsonaro was caught on tape asking the failed bank’s playboy owner, Daniel Vorcaro, for almost $27m to make a film about his father. He denies wrongdoing. Then compromising messages between Mr Vorcaro and the supreme court judge who led the prosecution of the ex-president were revealed. The allegations fed the perception that politicians are all dirty, and bolstered the unfounded far-right claim that Mr Bolsonaro Sr was stitched up. His son has also papered over a damaging public rift with his stepmother Michelle – an influential figure, key to the evangelical support he needs. Mr Bolsonaro Jr has said he will abide by the election’s result. But the Bolsonaros have spent years working to undermine trust in internationally respected Brazil’s electronic voting system. A narrow first-round victory for Lula would probably be contested. With other candidates on the right, Mr Bolsonaro Jr would also have an advantage in a second-round vote. He has talked up the prospect of privatisation and cuts to public spending and taxes if he wins. He has pledged to pack the supreme court with anti‑abortion conservative judges, who would also be critical to future election disputes. He has vowed to introduce the kind of aggressive anti-crime drive that has trampled human rights elsewhere. President Donald Trump and Marco Rubio, his secretary of state, will be further emboldened in their “Donroe doctrine” of aggressive intervention in the western hemisphere if Mr Bolsonaro Jr is victorious. US meddling in this election has often backfired – high tariffs on Brazil have allowed Lula to run as the patriot defending the country against foreign interference. But it is no less disturbing. Mr Trump’s more ruthless and reckless second term also offers an alarming vision of how another Bolsonaro presidency might look. The first showed historic levels of deforestation in the Amazon as well as a surge in illegal resource extraction and the invasion of Indigenous people’s lands. Those fell sharply once Lula returned to power. A Bolsonaro presidency would be bad for women, the poor and minorities. Democracy would probably be its first, local victim. But the climate would surely be another – with consequences for us all. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The upcoming Brazilian presidential election between incumbent Lula da Silva and Flávio Bolsonaro is a highly polarized, close-run contest with profound implications for the country's democratic stability and global climate action.",
+        "tone": "Urgent, Analytical, Concerned",
+        "skimming": [
+            "The election presents a stark choice between left-wing incumbent Lula and far-right candidate Flávio Bolsonaro, son of the jailed former president.",
+            "A major financial scandal involving Banco Master has fueled public distrust in politicians and bolstered the far-right's narrative.",
+            "Flávio Bolsonaro's platform includes privatizations, packing the supreme court, and aggressive policing, aligned with Donald Trump's foreign policy vision.",
+            "The outcome is globally critical, as a Bolsonaro victory threatens Amazon conservation efforts and democratic norms."
+        ],
+        "grammar": "The sentence 'For many on both sides, this is a vote against a man they detest more than an endorsement of their own candidate' features a comparative structure ('more than') used to contrast two noun phrases ('a vote against...' vs 'an endorsement of...'), highlighting the voters' negative partisanship.",
+        "vocab": [
+            {
+                "word": "incumbent",
+                "english": "Currently holding an official office or position.",
+                "gujarati": "ચાલુ પદધારી",
+                "pos": "Noun",
+                "synonyms": "current holder, officeholder, reigning",
+                "antonyms": "challenger, candidate, successor"
+            },
+            {
+                "word": "crass",
+                "english": "Lacking sensitivity, refinement, or intelligence.",
+                "gujarati": "અસંસ્કારી",
+                "pos": "Adjective",
+                "synonyms": "coarse, insensitive, tasteless, crude",
+                "antonyms": "refined, sophisticated, polite"
+            },
+            {
+                "word": "hobble",
+                "english": "To restrict the activity or progress of; hamper.",
+                "gujarati": "અડચણ ઉભી કરવી",
+                "pos": "Verb",
+                "synonyms": "hamper, hinder, impede, restrict",
+                "antonyms": "assist, facilitate, aid, encourage"
+            },
+            {
+                "word": "emboldened",
+                "english": "Given the courage or confidence to do something or to behave in a certain way.",
+                "gujarati": "પ્રોત્સાહિત કરવું",
+                "pos": "Verb",
+                "synonyms": "encouraged, heartened, strengthened",
+                "antonyms": "discouraged, disheartened, intimidated"
+            },
+            {
+                "word": "deforestation",
+                "english": "The action of clearing a wide area of trees.",
+                "gujarati": "જંગલોનો નાશ",
+                "pos": "Noun",
+                "synonyms": "forest clearance, logging, desertification",
+                "antonyms": "afforestation, reforestation"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "neck and neck",
+                "meaning": "Even or level in a race or comparison.",
+                "gujarati": "ખૂબ નજીકની સ્પર્ધામાં હોવું"
+            },
+            {
+                "idiom": "too close to call",
+                "meaning": "An election or contest in which the outcome is difficult to predict because the competitors are so evenly matched.",
+                "gujarati": "પરિણામ નક્કી કરવું મુશ્કેલ હોવું"
+            },
+            {
+                "idiom": "papered over",
+                "meaning": "To hide or conceal a difficulty, mistake, or disagreement rather than finding a satisfactory solution to it.",
+                "gujarati": "મતભેદો પર પડદો પાડવો"
+            }
+        ]
+    },
+    {
         "id": "art-1790768268-2168",
         "date": "2026-09-30",
         "title": "The Guardian view on Andy Burnham: grounds to hope for a better Britain | Editorial",
@@ -2381,148 +2457,6 @@
                 "idiom": "gloss over",
                 "meaning": "To treat or describe something as if it were not important; to ignore or avoid dealing with a problem.",
                 "gujarati": "ઉપરછલ્લી રીતે રજૂ કરવું અથવા અવગણવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1788259792-8646",
-        "date": "2026-09-01",
-        "title": "The Guardian view on Trump’s immigration crackdown: who will have fewer rights next? | Editorial",
-        "content": "The president’s deportation machine is creating a class of people inside the US who have fewer protections against the power of the state Is the Trump administration creating a group in the US with fewer protections against executive power owing to their immigration status? Its often openly racist actions suggest so. US Immigration and Customs Enforcement (ICE) claims to target “the worst of the worst” – undocumented migrants who commit violent crimes. Yet the Guardian reported that over half of those arrested in July had no criminal convictions or pending charges. That month, ICE made record arrests and deportations, apprehending 1,500 people and removing 1,100 daily. When campaigning, Donald Trump falsely claimed that Haitians were “eating the pets”. In office, his administration moved to end temporary protected status (TPS) for Haitians. In June, the supreme court let the protection expire, leaving about 350,000 people at risk of deportation to a country gripped by violence and instability. The court’s decision means more than 1 million TPS holders from 13 nations previously considered too unsafe to return to are now at risk of deportation. Many have lived and worked legally in the US for years. Although Barack Obama deported a record 430,000 people in 2013, his administration focused largely on border-crossers. Mr Trump’s crackdown reaches deep into America, targeting those who call the country home. The Economist reports that Trumpian legal tactics have left 1.7 million more immigrants open to deportation. Mr Trump’s dehumanising rhetoric does political work: it turns groups into threats, making harsh treatment easier to justify. By calling migration an “invasion”, he sought to suspend habeas corpus – the ancient safeguard against arbitrary detention. When that proved too much even for Mr Trump, his administration attacked due process instead. In July 2025, an ICE directive quietly rewrote detention policy, treating many migrants arrested inside the US as if they had just arrived at the border, denying them bond hearings. For many, the only recourse was to go to the federal courts. Judges repeatedly ruled the policy illegal yet thousands languish in detention for months awaiting relief. The White House has sought to deport immigrants for protected political speech. Last week, a federal judge ruled visa cancellations for noncitizen students’ pro-Palestinian advocacy unconstitutional. Mahmoud Khalil, a Columbia graduate and permanent resident whose arrest by ICE in 2025 after Gaza protests made global news, is still fighting a final deportation order – a stark threat to liberty. Mr Trump’s immigration crackdown still fires up his Maga base, but is unpopular with many Americans. In one week in July, three ICE encounters ended in death. ICE’s masked thuggishness is a disgrace. So is the president’s cruelty. The Brookings Institution thinktank estimates that more than 100,000 children, three-quarters of whom are probably US citizens, have been separated from their parents during Mr Trump’s second term. The argument within the US right is moving beyond undocumented migrants and noncitizens. Some Republicans are pushing to restrict the rights of naturalised and dual citizens – including their right to run for office. They may be spooked by the success of the Ugandan-born New York mayor Zohran Mamdani, whose family has Indian roots. Mr Trump has long spoken about – and treated – people differently according to their race. He is still doing so. The US has been down this road before. Abraham Lincoln understood the danger: once equality admits exceptions, where do they stop? Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The Trump administration's aggressive immigration policies and dehumanizing rhetoric are systematically eroding legal protections for immigrants, creating a vulnerable class of residents, and threatening broader democratic norms and civil liberties in the US.",
-        "tone": "Critical, Apprehensive, Condemnatory",
-        "skimming": [
-            "ICE's deportation efforts are increasingly targeting non-criminals and ending Temporary Protected Status (TPS) for over a million long-term residents.",
-            "The administration utilizes dehumanizing rhetoric to justify harsh policies, bypass due process, and deny bond hearings to detained migrants.",
-            "Legal challenges have emerged against federal attempts to deport noncitizen students and residents for engaging in protected political speech.",
-            "The right-wing political agenda is expanding beyond undocumented migrants to restrict the rights of naturalized and dual citizens."
-        ],
-        "grammar": "The sentence 'Although Barack Obama deported a record 430,000 people in 2013, his administration focused largely on border-crossers' uses a concessive clause starting with the subordinating conjunction 'Although'. This structure is used to contrast two pieces of information, acknowledging a counter-argument (Obama's high deportation numbers) before asserting the main point (the difference in targeting strategy compared to Trump).",
-        "vocab": [
-            {
-                "word": "languish",
-                "english": "To suffer from being forced to remain in an unpleasant place or situation.",
-                "gujarati": "રિબાવું, સડવું",
-                "pos": "Verb",
-                "synonyms": "suffer, weaken, pine, rot",
-                "antonyms": "flourish, thrive, prosper"
-            },
-            {
-                "word": "dehumanising",
-                "english": "Depriving someone of positive human qualities, personality, or dignity.",
-                "gujarati": "અમાનવીય બનાવતું, માનવતાહીન",
-                "pos": "Adjective",
-                "synonyms": "degrading, brutalizing, demeaning",
-                "antonyms": "humanizing, elevating, dignifying"
-            },
-            {
-                "word": "arbitrary",
-                "english": "Based on random choice or personal whim, rather than any reason or system.",
-                "gujarati": "મનસ્વી, આપખુદ",
-                "pos": "Adjective",
-                "synonyms": "random, whimsical, capricious, subjective",
-                "antonyms": "rational, systematic, reasoned, objective"
-            },
-            {
-                "word": "thuggishness",
-                "english": "Behavior characteristic of a thug; violent, brutal, or lawless behavior.",
-                "gujarati": "ગુંડાગીરી, હિંસક વર્તન",
-                "pos": "Noun",
-                "synonyms": "brutality, violence, hooliganism, rowdyism",
-                "antonyms": "gentleness, civility, politeness"
-            },
-            {
-                "word": "recourse",
-                "english": "A source of help in a difficult situation, or the legal right to demand compensation.",
-                "gujarati": "આશરો, ઉપાય, સહારો",
-                "pos": "Noun",
-                "synonyms": "option, alternative, resort, remedy",
-                "antonyms": "hindrance, blockage, obstruction"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "down this road",
-                "english": "To have experienced a similar situation or course of action in the past.",
-                "gujarati": "ભૂતકાળમાં આવી પરિસ્થિતિ કે માર્ગમાંથી પસાર થવું"
-            },
-            {
-                "idiom": "fires up",
-                "english": "To excite, enthuse, or agitate a group of people.",
-                "gujarati": "ઉત્તેજિત કરવું, જોશ આપવો"
-            }
-        ]
-    },
-    {
-        "id": "art-1788259803-8877",
-        "date": "2026-09-01",
-        "title": "The Guardian view on regulating big tech: Meta has got off too lightly | Editorial",
-        "content": "New child safety measures are welcome, but the wider risks posed by these platforms remain unaddressed “Hook, hold, harvest and hide” was how Megan O’Neill, a lawyer for the US state of California, characterised Meta’s business model in the trial that ended last week with an $18bn settlement, to be shared between the states and territories that brought the case. It was a clever way to describe the company’s approach to users’ attention and data. But the sharpness of her words was not matched by the deal. While the strengthening of child safety features is welcome, the tech giant once again batted off efforts to alter its products. Meta’s decision to settle enabled it to avoid any admission of liability. It put a stop to the awkward questions being asked of witnesses including Adam Mosseri, Instagram’s CEO, and the damaging claims made by whistleblowers such as Arturo Béjar. This former Meta safety engineer told the court that his own daughter had been sent unsolicited photos of male genitals on Instagram. The $18bn that Meta agreed to pay over 10 years, some of which is conditional on other platforms making similar changes, will hardly dent its profits (Meta plans to invest up to $145bn this year). More significant by far are its concessions in relation to child users. Safety features will become “opt-out” instead of “opt-in”, increasing the likelihood of their being switched on. Parents will be able to change the settings on young people’s accounts so that their feeds no longer show personalised, algorithmically driven content. A new two-hour daily limit, blocks on use during the night and on notifications during school hours, backed up by compulsory age verification, improve on the current free-for-all. So does the commitment to disable obviously harmful “social comparison” features such as cosmetic surgery image filters. But the package falls short of the restrictions on social media companies’ access to children that Australia, the UK, Malaysia, Indonesia and the EU have either imposed or are in the process of imposing (UK ministers have indicated that in areas where US rules may be stricter, they plan to follow suit). By accepting the terms that they did, while declining to raise the “digital age of consent” (at which accounts can be marketed to children) from 13, this deal’s negotiators left crucial aspects of Meta’s business, including its algorithms and addictive design features, largely untouched. There are good reasons why children’s mental health is a central focus of online safety campaigning. But the harm caused by big tech’s monetisation of attention goes wider. The addictive, tribalist and narcissistic behaviours that platforms are widely recognised to promote have implications for societies as well as individuals. One of many outstanding cases against Meta is being brought by Abrham Mearag, whose father was murdered in Ethiopia in 2021, after Facebook’s algorithm allegedly promoted posts calling for his killing. A US court blocked another case against the company regarding its role in the Rohingya genocide. Measures designed to protect American children from anxiety, depression, unlawful data gathering and addiction are important. But they will not reduce the risk of social media being linked to murderous violence, or undermining democracy, elsewhere in the world. It is now for other courts, or foreign governments, to take the next steps in holding Meta and its peer companies to account for their role as overseers of the global digital commons. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "While Meta's $18 billion settlement introduces welcome child safety measures, it ultimately allows the tech giant to evade structural changes to its addictive business model and fails to address broader global societal harms.",
-        "tone": "Critical, Analytical, Skeptical",
-        "skimming": [
-            "Meta's $18bn settlement with US states allows it to avoid admitting liability and stops damaging whistleblower testimonies.",
-            "The deal introduces positive child safety features, such as opt-out settings and daily limits, but fails to raise the digital age of consent.",
-            "The concessions fall short of stricter regulations being imposed globally by regions like the EU, UK, and Australia.",
-            "Broader systemic issues, such as algorithmic promotion of violence and threats to democracy worldwide, remain entirely unaddressed."
-        ],
-        "grammar": "The sentence 'increasing the likelihood of their being switched on' features the use of a possessive pronoun ('their') preceding a gerund ('being'). In formal English, which is highly tested in CAT, a noun or pronoun modifying a gerund must be in the possessive case.",
-        "vocab": [
-            {
-                "word": "concession",
-                "english": "A thing that is granted, especially in response to demands.",
-                "gujarati": "છૂટછાટ",
-                "pos": "Noun",
-                "synonyms": "compromise, allowance, yielding",
-                "antonyms": "denial, refusal, protestation"
-            },
-            {
-                "word": "unsolicited",
-                "english": "Not asked for; given or done voluntarily.",
-                "gujarati": "વણમાગેલું",
-                "pos": "Adjective",
-                "synonyms": "uninvited, unwelcome, unrequested",
-                "antonyms": "solicited, requested, invited"
-            },
-            {
-                "word": "monetisation",
-                "english": "The action or process of earning revenue from an asset or business.",
-                "gujarati": "મુદ્રીકરણ",
-                "pos": "Noun",
-                "synonyms": "capitalization, commercialization",
-                "antonyms": "demonetization"
-            },
-            {
-                "word": "tribalist",
-                "english": "Relating to or characterized by loyalty to a social group or tribe, often leading to exclusion of others.",
-                "gujarati": "જૂથવાદી",
-                "pos": "Adjective",
-                "synonyms": "sectarian, partisan, clannish",
-                "antonyms": "universalist, cosmopolitan, unbiased"
-            },
-            {
-                "word": "dent",
-                "english": "Have an adverse effect on; diminish or reduce.",
-                "gujarati": "ઘટાડવું",
-                "pos": "Verb",
-                "synonyms": "diminish, reduce, damage, impact",
-                "antonyms": "increase, boost, strengthen"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "get off lightly",
-                "meaning": "To escape with a milder punishment or fewer consequences than expected.",
-                "gujarati": "હળવી સજા સાથે બચી જવું"
-            },
-            {
-                "idiom": "follow suit",
-                "meaning": "To do the same thing as someone else has just done.",
-                "gujarati": "અનુકરણ કરવું"
             }
         ]
     }
