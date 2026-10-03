@@ -1,5 +1,76 @@
 [
     {
+        "id": "art-1791024690-6225",
+        "date": "2026-10-03",
+        "title": "The Guardian view on the Conservative conference: a party still searching for a purpose | Editorial",
+        "content": "Kemi Badenoch has a lot to say about Labour and Reform UK but none of it amounts to a coherent alternative programme for government The Conservative party is far from the margin of British politics, but it has yet to recover the relevance to which it feels historically entitled. The Tories are flattered by their status as the official opposition in parliament. In the wider country, Reform UK has set the agenda on the right, overtaking Kemi Badenoch’s party in opinion polls and poaching MPs from her benches. But Nigel Farage’s progress has stalled. Scrutiny of Reform’s finances has made its leader look shifty. Competition from Restore Britain, an extreme nationalist party, has denied Mr Farage the luxury of taking far-right votes for granted. Pandering to a hardcore audience makes it difficult for Reform to affect the moderation required to capture more Tory and Labour votes. This creates an opportunity for Conservatives to reassert themselves as the mainstream opposition to Labour. Many Tories believe the available space has grown since Andy Burnham replaced Sir Keir Starmer as prime minister. Mr Burnham has a bolder agenda than his predecessor, and he communicates it well – qualities that have been rewarded with a poll-ratings recovery. It is also a programme with unapologetic left-liberal ambition – universal social care, free at the point of use; opening the door to public ownership of utilities; dissolving red lines in relations with the EU; electoral reform. Under new leadership, the party has risen out of the defensive crouch from which it fought the election, fearful of offending Conservative sensibilities. Conservatives are duly offended. The vision that Mr Burnham outlined at his party conference last week was a repudiation of Margaret Thatcher’s legacy, and there is no greater heresy in Tory doctrine. Mrs Badenoch will not struggle to articulate a rebuttal at her party’s conference in Birmingham over the next few days. She is a devotee of the Conservative cult of the Iron Lady, committed to low taxes and a smaller state as axioms of political virtue. She believes there are voters who share that conviction, who will be repelled by Labour, and who are deeply wary of Mr Farage. This is the electoral audience she is targeting. It isn’t an irrational strategy, but nor is it a well-developed one. Mrs Badenoch likes to debate the opponent she wants rather than the one she has. She accuses Mr Burnham of taking Britain back to the 1970s, without engaging with his analysis of what went wrong in the 1980s or considering that her own nostalgic ideology might need revision with reference to subsequent decades. Her approach to Reform is even more blinkered. The Tories want voters to take a dim view of Mr Farage’s candidacy to be prime minister, but they are selective in their criticism. Mrs Badenoch joins the fray over opaque donations, but has less to say about Reform’s toxic rhetoric around immigration, largely because Conservative policy fits the Faragist mould. The traffic in defections has slowed, but the boundary between the two parties is porous. To make her party competitive in British politics, Mrs Badenoch needs more serious arguments. She needs an answer to Mr Burnham that doesn’t retreat into lazy 20th-century political cliche. And she needs to reject Mr Farage’s brand of national populism in terms that give voters reasons to distinguish between their two parties on points of principle, when at the moment there are none. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The Conservative Party, led by Kemi Badenoch, is struggling to establish a coherent and modern political identity, remaining caught between outdated Thatcherite dogmas and an inability to distinctively counter Reform UK's right-wing populism.",
+        "tone": "Critical, Analytical, Skeptical",
+        "skimming": [
+            "The Conservative Party is struggling to regain political relevance and establish itself as the primary opposition to Labour.",
+            "Reform UK's momentum has slowed due to financial scrutiny, presenting an opportunity for the Tories to reclaim mainstream right-wing voters.",
+            "Labour's bold, unapologetic left-liberal agenda directly challenges the core of the Thatcherite legacy.",
+            "Kemi Badenoch's strategy relies on nostalgic 20th-century dogmas and fails to clearly distinguish her party's principles from Nigel Farage's populism."
+        ],
+        "grammar": "The sentence 'It isn’t an irrational strategy, but nor is it a well-developed one' demonstrates the use of 'nor' to connect two negative clauses, which triggers subject-auxiliary inversion ('nor is it' instead of 'nor it is').",
+        "vocab": [
+            {
+                "word": "repudiation",
+                "english": "The rejection of a proposal or idea; denial of the truth or validity of something.",
+                "gujarati": "અસ્વીકાર, ત્યાગ",
+                "pos": "Noun",
+                "synonyms": "rejection, renunciation, abandonment, disavowal",
+                "antonyms": "acceptance, confirmation, ratification, approval"
+            },
+            {
+                "word": "heresy",
+                "english": "Belief or opinion contrary to orthodox religious or political doctrine.",
+                "gujarati": "પાખંડ, સ્થાપિત માન્યતા વિરુદ્ધનો મત",
+                "pos": "Noun",
+                "synonyms": "dissension, nonconformity, blasphemy, heterodoxy",
+                "antonyms": "orthodoxy, conformity, agreement"
+            },
+            {
+                "word": "pandering",
+                "english": "Gratifying or indulging an immoral or distasteful desire, need, or habit.",
+                "gujarati": "ખુશામત કરવી, હીન વાસના કે ઈચ્છાને પોષવી",
+                "pos": "Verb",
+                "synonyms": "indulging, catering, gratifying, cajoling",
+                "antonyms": "opposing, frustrating, denying"
+            },
+            {
+                "word": "blinkered",
+                "english": "Having or showing a limited, narrow, or biased outlook.",
+                "gujarati": "સંકુચિત દ્રષ્ટિકોણવાળું",
+                "pos": "Adjective",
+                "synonyms": "narrow-minded, provincial, parochial, limited",
+                "antonyms": "broad-minded, open-minded, liberal"
+            },
+            {
+                "word": "porous",
+                "english": "Not secure; easy to pass through or penetrate.",
+                "gujarati": "છિદ્રાળુ, સહેલાઈથી પસાર થઈ શકાય તેવું",
+                "pos": "Adjective",
+                "synonyms": "permeable, penetrable, passable",
+                "antonyms": "impermeable, airtight, impenetrable"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "take a dim view of",
+                "meaning": "To disapprove of something or to have a low opinion of it.",
+                "gujarati": "નાપસંદ કરવું અથવા શંકાની નજરે જોવું"
+            },
+            {
+                "idiom": "join the fray",
+                "meaning": "To enter into a fight, argument, or intense competition.",
+                "gujarati": "લડાઈ, ચર્ચા કે સ્પર્ધામાં ઝંપલાવવું"
+            }
+        ]
+    },
+    {
         "id": "art-1790856409-2014",
         "date": "2026-10-01",
         "title": "The Guardian view on Lula v the Bolsonaros: the decision of Brazilian voters will affect us all | Editorial",
@@ -2241,76 +2312,5 @@
             }
         ],
         "idioms": []
-    },
-    {
-        "id": "art-1788431178-4788",
-        "date": "2026-09-03",
-        "title": "The Guardian view on Israeli settlements: Britain can no longer look away | Editorial",
-        "content": "International law, European action and UK public opinion point the same way. Britain should stop helping to sustain Israeli settlements economically In the Commons this week, the foreign secretary, Ed Miliband, appeared to have accepted the principle of a trade ban between the UK and Israeli settlements, which Britain says are illegal under international law. This is long overdue. The test now is whether his promised “comprehensive reset” deserves the name. Stopping settlement-produced goods at the border is not enough. Britain should prohibit its companies from sustaining settlement activity – by financing, constructing, insuring, advertising – in territory whose occupation it regards as unlawful. The ban must have teeth. The UK can no longer ignore the violence and pressure exerted on Palestinians in the West Bank by Israel’s government, military and settlers. There have been more than 1,400 settler attacks so far this year, according to the UN, against a record 1,800 registered in 2025. An election campaign has only made matters worse. Last month, Israel issued tenders for 1,234 homes in the 3,401-unit E1 development east of Jerusalem. The country’s ministers gave the green light for the controversial settlement – long condemned for effectively bisecting the West Bank – expressly to “erase” the idea of a Palestinian state, the creation of which the UK officially supports. Israeli ministers have reacted with fury, threatening retaliation if Britain imposes sanctions over settlement expansion. This is disappointing, but hardly surprising. Benjamin Netanyahu has accused countries imposing sanctions of “moral bankruptcy”. Yet Britain would be following several comparable European states that increasingly regard such bans as a consequence of international law. Spain has banned settlement imports; Norway is legislating against trade and services linked to settlements; nine EU governments have demanded action from Brussels. Since 1967, Israel has built about 160 settlements housing 700,000 Jewish people among 3.3 million Palestinians in the occupied West Bank and East Jerusalem. There are now calls to suspend the EU’s trade agreement with Israel. Britain has such a deal and, under Sir Keir Starmer, Labour wanted to “distinguish and protect trade with people and businesses across the state of Israel”. This gave critics reason to warn that targeting settlements could end up as a “de facto” boycott of Israel. But that gets the argument backwards: Israel cannot make the settlements part of its economy and then argue that other nations must treat them as part of the country. Mr Miliband has political room to manoeuvre. Polling suggests that even Reform UK and Conservative voters are more likely to support than oppose a settlement trade ban. In parliament there was agreement stretching from the Greens to Labour to Tory MPs that something has to be done. Settlement expansion accelerated after Mr Netanyahu’s far-right coalition took power in 2022 and then again after Hamas’s murderous attack sparked the Gaza war in 2023. The legal case is clear: other nations are acting and the political space is opening up – all while creeping annexation becomes a reality. Israel is extending civilian control over occupied territory as settlements expand. Gaza, where more than 70,000 Palestinians have been killed, has understandably commanded the world’s attention. No one disputes that Israel exists in a violent and unstable neighbourhood, though its actions aggravate, rather than alleviate, that instability. But the West Bank and Jerusalem cannot be ignored. Security cannot justify an ideological land grab. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "2 min",
-        "centralIdea": "The UK must move beyond symbolic gestures and implement a comprehensive, legally binding trade ban on Israeli settlements to stop economically sustaining illegal occupations and address escalating violence in the West Bank.",
-        "tone": "Critical, Analytical, Urgent",
-        "skimming": [
-            "UK Foreign Secretary Ed Miliband has accepted the principle of a trade ban with Israeli settlements, but it must be comprehensive to be effective.",
-            "Settler violence and illegal expansions in the West Bank have surged, explicitly aimed at erasing the possibility of a Palestinian state.",
-            "European nations like Spain and Norway are already taking action, showing that the UK would not be isolated in enforcing international law.",
-            "Domestic political and public consensus across various UK parties supports taking decisive action against settlement trade."
-        ],
-        "grammar": "The sentence 'Britain should prohibit its companies from sustaining settlement activity...' showcases the 'prohibit someone from doing something' construction, where 'prohibit' is paired with the preposition 'from' followed by a gerund ('sustaining'), which is a common error-prone area in CAT sentence correction questions.",
-        "vocab": [
-            {
-                "word": "sustain",
-                "english": "To strengthen or support physically, mentally, or economically.",
-                "gujarati": "ટકાવી રાખવું",
-                "pos": "Verb",
-                "synonyms": "support, maintain, uphold",
-                "antonyms": "undermine, weaken, obstruct"
-            },
-            {
-                "word": "bisecting",
-                "english": "Dividing into two parts.",
-                "gujarati": "બે ભાગમાં વિભાજીત કરવું",
-                "pos": "Verb",
-                "synonyms": "halving, splitting, intersecting",
-                "antonyms": "joining, uniting, combining"
-            },
-            {
-                "word": "retaliation",
-                "english": "The action of returning an attack; counterattack or revenge.",
-                "gujarati": "વેર વાળવું / બદલો",
-                "pos": "Noun",
-                "synonyms": "revenge, vengeance, reprisal",
-                "antonyms": "forgiveness, pardon, sympathy"
-            },
-            {
-                "word": "manoeuvre",
-                "english": "A movement or series of moves requiring skill and care.",
-                "gujarati": "દાવપેચ / કુનેહપૂર્વકનું પગલું",
-                "pos": "Noun",
-                "synonyms": "scheme, tactic, strategy",
-                "antonyms": "inaction, stagnation, blunder"
-            },
-            {
-                "word": "annexation",
-                "english": "The action of seizing or taking over a territory.",
-                "gujarati": "જોડાણ / પ્રદેશ પડાવી લેવો તે",
-                "pos": "Noun",
-                "synonyms": "seizure, occupation, takeover",
-                "antonyms": "relinquishment, surrender, liberation"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "have teeth",
-                "meaning": "To have the power to be effective or to enforce rules and punishments.",
-                "gujarati": "અસરકારક અમલ કરવાની સત્તા હોવી"
-            },
-            {
-                "idiom": "give the green light",
-                "meaning": "To give permission for an action or project to proceed.",
-                "gujarati": "મંજૂરી આપવી"
-            }
-        ]
     }
 ]
