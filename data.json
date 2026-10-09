@@ -1,5 +1,73 @@
 [
     {
+        "id": "art-1791548369-5986",
+        "date": "2026-10-09",
+        "title": "The Guardian view on cancers in under-50s: the risks of obesity must be confronted | Editorial",
+        "content": "More research into the troubling rise in early onset cancers is needed. But we already know that food is among the culprits The latest findings about the rise in cancers in people under 50, from the World Cancer Research Fund (WCRF), are extremely concerning. While a cancer diagnosis is bad news at any time, it is a particular blow for those in younger age groups where most people are in good health. Overlapping trends observed in England, the Netherlands and the US include a troubling rise in the incidence of colorectal (or bowel) cancer. Other diseases that have increased in England include uterine and kidney cancers. These diseases are still rare in young people: 10 times more adults in their 50s, 60s and 70s are diagnosed than those in their 20s, 30s and 40s. Earlier detection is thought to be one factor behind the rise in younger patients. Diagnosing more cancers sooner is an explicit policy goal in England, where late diagnosis and lower uptake of screening are two reasons for mortality rates that are higher than elsewhere in Europe. But diagnostic improvements are unfortunately not the main reason for increased cases. While research is ongoing and many questions remain, evidence points to obesity and poor diet causing cancers as well as heart disease and type 2 diabetes. The Prospect-UK trial is currently seeking 250,000 participants for a longitudinal study into early-onset (under-50) bowel cancer. It will scrutinise information about nutrition in more detail than has been done previously, including what people are eating less of. The success of international efforts to cut lung cancer through targeting smoking set a powerful precedent for public health campaigning. This took longer than it should have done, due to tobacco industry lobbying. But it remains the gold standard of regulation combined with messaging, to bring about behaviour change. The WCRF data shows that lung cancer rates in under-50s have continued falling. So far, efforts to cut obesity have had nothing like the same impact. The patterns are not the same everywhere; one recent study found that in some countries a rapid rise had been replaced by a levelling-off. But English-speaking countries have some of the worst records, and the lack of strong action in the UK is among the big disappointments of health policy in the last decade. Politicians from Boris Johnson to Wes Streeting have committed to obesity action plans, only to water them down in the face of opposition from the food and drink industries. Last year, scientists wrote to Mr Streeting to protest that the government had done “virtually nothing” to alert consumers to the carcinogenic properties of the nitrites added to bacon and ham. There is a grim irony in dramatic advances in cancer research and treatment coinciding with the rise in early-onset cancers. For many doctors and patients, this a period of hope. But politicians and health bosses must guard against a situation in which some groups have improved prospects, while others face increased risks linked to socioeconomic disadvantages. In relation to obesity and diet, the close link with poverty points to the need for ministers to view public spending holistically, and to recognise that the NHS is not the only institution with the capacity to improve health. While more research into early-onset cancers is needed, existing data tells us a great deal. Governments should be as bold in tackling the causes of obesity as they once were in confronting big tobacco. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
+        "theme": "Global Affairs / CAT Standard Read",
+        "readTime": "3 min",
+        "centralIdea": "The rising incidence of early-onset cancers among under-50s is increasingly linked to obesity and poor diet, necessitating bold government intervention and regulation of the food industry akin to historical anti-tobacco campaigns.",
+        "tone": "Analytical, Urgent, Critical",
+        "skimming": [
+            "Early-onset cancers, particularly colorectal, uterine, and kidney cancers, are rising alarmingly among people under 50.",
+            "While diagnostic improvements help detect cases early, obesity and poor nutrition are identified as the primary drivers of this trend.",
+            "The historical success of anti-smoking campaigns serves as a gold standard for how public health regulations can successfully drive behavioral change.",
+            "UK policymakers have repeatedly watered down anti-obesity measures due to food industry lobbying, highlighting the urgent need for holistic, poverty-focused interventions."
+        ],
+        "grammar": "The text uses the 'only to + infinitive' structure ('...only to water them down...'), which is a common grammatical device used to express a frustrating, disappointing, or unexpected subsequent event or result.",
+        "vocab": [
+            {
+                "word": "scrutinise",
+                "english": "To examine or inspect closely and thoroughly.",
+                "gujarati": "ઝીણવટભરી તપાસ કરવી",
+                "pos": "Verb",
+                "synonyms": "examine, inspect, analyze, audit",
+                "antonyms": "ignore, neglect, overlook"
+            },
+            {
+                "word": "precedent",
+                "english": "An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.",
+                "gujarati": "પૂર્વ ઉદાહરણ",
+                "pos": "Noun",
+                "synonyms": "exemplar, model, standard, pattern",
+                "antonyms": "anomaly, deviation"
+            },
+            {
+                "word": "carcinogenic",
+                "english": "Having the potential to cause cancer.",
+                "gujarati": "કેન્સર પેદા કરનારું",
+                "pos": "Adjective",
+                "synonyms": "cancer-causing, tumorigenic, toxic",
+                "antonyms": "non-carcinogenic, benign, harmless"
+            },
+            {
+                "word": "holistically",
+                "english": "In a way that is characterized by the treatment of the whole system rather than just its parts.",
+                "gujarati": "સમગ્રતયા અથવા સર્વાંગી રીતે",
+                "pos": "Adverb",
+                "synonyms": "comprehensively, globally, thoroughly",
+                "antonyms": "partially, segmentally, narrowly"
+            }
+        ],
+        "idioms": [
+            {
+                "idiom": "gold standard",
+                "meaning": "A model of excellence; a very high standard against which other things are measured.",
+                "gujarati": "ઉત્કૃષ્ટ માપદંડ અથવા આદર્શ ધોરણ"
+            },
+            {
+                "idiom": "water down",
+                "meaning": "To make something weaker, less effective, or less forceful.",
+                "gujarati": "નબળું પાડવું અથવા પ્રભાવ ઓછો કરવો"
+            },
+            {
+                "idiom": "in the face of",
+                "meaning": "When confronted with; despite having to deal with a difficult situation or opposition.",
+                "gujarati": "નો સામનો કરવો પડે ત્યારે અથવા ની સામે"
+            }
+        ]
+    },
+    {
         "id": "art-1791462656-1288",
         "date": "2026-10-08",
         "title": "The Guardian view on Conservative conference: struggling to break out of the comfort zone | Editorial",
@@ -1981,148 +2049,6 @@
                 "idiom": "reach for the chequebook",
                 "meaning": "To prepare to spend money, especially a large amount, to resolve a problem or situation.",
                 "gujarati": "સમસ્યા ઉકેલવા માટે નાણાં ખર્ચવા તૈયાર થવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1788949648-990",
-        "date": "2026-09-09",
-        "title": "The Guardian view on Britain’s new Middle East policy: an unlawful occupation must carry a price | Editorial",
-        "content": "Ed Miliband has delivered Britain’s toughest indictment of Israeli conduct in Palestinian lands - and rightly says this has economic consequences Rarely in recent years has the Commons felt like the cockpit of history. On Tuesday it did. The foreign secretary, Ed Miliband, placed Britain at the head of a 12-country coalition considering economic restrictions on Israel’s illegal settlements, with the UK, France and Canada committing to national trade bans. The move comes after escalating numbers of attacks by Israeli settlers against Palestinian villages in the West Bank. International opinion seemed to shift decisively after Israel gave the go-ahead for 1,200 homes in the E1 settlement that would cleave the West Bank into two – using illegal settlements to bury Palestinian statehood for good. Mr Miliband added that evidence of war crimes in Gaza was mounting, making the overdue case for Britain to recast its economic and military relationship with Israel. Mr Miliband, who is Jewish and lost more than 60 relatives at the hands of the Nazis, declared himself to be a friend of Israel. But clearly he thinks friends should talk straight to each other. Mr Miliband has delivered perhaps the toughest official British indictment of Israeli conduct in recent history, declaring that “ethnic cleansing” is taking place in the West Bank and accusing members of Israel’s government of supporting forced displacement. Probably the most consequential move by Mr Miliband is to formally declare the occupation of the Palestinian territories unlawful, in line with the international court of justice’s 2024 opinion. The import ban logically follows. But private acts will have to change too. British companies could soon have to ask whether they are profiting from – or helping to sustain – an illegal occupation. To emphasise this point, the foreign secretary also promised to take action against those providing construction, infrastructure and financing services, because a goods-only ban would leave untouched the commercial activity sustaining unlawful settlements. He also committed to target extremist settlers and to refuse to license arms sales that “contribute to the occupation”. By simultaneously sanctioning Iran and Hezbollah, the UK is signalling that it recognises the threats Israel faces while opposing its illegal actions. No one can accuse Mr Miliband of ducking a fight. His statement will be pored over by the Trump administration, which has supported Israel’s prime minister, Benjamin Netanyahu. Being part of an international coalition will help to shield Britain from US ire. However, Mike Huckabee, the US ambassador to Israel, warned that some US states such as Florida could impose penalties against foreign governments deemed to be boycotting Israel. Britain’s intervention comes in the midst of an Israeli election campaign. Opinion polls give neither Mr Netanyahu’s far-right coalition nor the opposition a sustained lead. Israel’s president, Isaac Herzog, a figure expected to be above the fray, absurdly claimed that Mr Miliband was interfering in the elections – as if the campaign itself could excuse ethnic cleansing. Israel closed the UK consulate in Jerusalem as a first response. Tuesday’s announcement deserves a welcome. Mr Miliband has been characteristically brave. But the test is not what he said, but what he enforces in the weeks and months ahead. He promises a “sanctions regime” to take action against “companies and individuals” aiding settlements. Britain has accepted the principle that it must sever the business ties that uphold an unlawful occupation. The test is whether Mr Miliband can turn that into a comprehensive embargo, rather than a symbolic blacklist. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "3 min",
-        "centralIdea": "The UK's landmark decision to declare Israel's occupation of Palestinian territories unlawful and impose trade bans on illegal settlements represents a bold policy shift, though its ultimate success depends on rigorous enforcement rather than symbolic gestures.",
-        "tone": "Commendatory, Analytical, Critical",
-        "skimming": [
-            "UK Foreign Secretary Ed Miliband announced trade bans and economic restrictions on Israel's illegal West Bank settlements.",
-            "The UK has formally declared the occupation of Palestinian territories unlawful, aligning with the 2024 International Court of Justice opinion.",
-            "The proposed sanctions target not only goods but also construction, infrastructure, and financing services that sustain these settlements.",
-            "Despite potential backlash from the US and diplomatic retaliation from Israel, the true test of this policy lies in its long-term enforcement."
-        ],
-        "grammar": "The sentence 'Rarely in recent years has the Commons felt like the cockpit of history' demonstrates subject-verb inversion. When a sentence begins with a negative or restrictive adverb like 'Rarely', 'Seldom', or 'Hardly', the auxiliary verb ('has') is placed before the subject ('the Commons') to add dramatic emphasis.",
-        "vocab": [
-            {
-                "word": "Indictment",
-                "english": "A formal charge or accusation of a serious crime, or a thing that serves as a sign that something is bad.",
-                "gujarati": "દોષારોપણ / આક્ષેપનામું",
-                "pos": "Noun",
-                "synonyms": "accusation, charge, arraignment, condemnation",
-                "antonyms": "acquittal, exoneration, praise, absolution"
-            },
-            {
-                "word": "Cleave",
-                "english": "To split or sever something, especially along a natural line or grain.",
-                "gujarati": "ચીરવું / ભાગલા પાડવા",
-                "pos": "Verb",
-                "synonyms": "split, divide, sever, sunder",
-                "antonyms": "unite, join, combine, meld"
-            },
-            {
-                "word": "Consequential",
-                "english": "Having important or significant effects or consequences.",
-                "gujarati": "પરિણામલક્ષી / મહત્વપૂર્ણ",
-                "pos": "Adjective",
-                "synonyms": "significant, important, momentous, substantial",
-                "antonyms": "insignificant, trivial, minor, negligible"
-            },
-            {
-                "word": "Ire",
-                "english": "Anger or wrath.",
-                "gujarati": "ક્રોધ / ગુસ્સો",
-                "pos": "Noun",
-                "synonyms": "anger, wrath, fury, outrage",
-                "antonyms": "pleasure, calmness, goodwill, patience"
-            },
-            {
-                "word": "Embargo",
-                "english": "An official ban on trade or other commercial activity with a particular country.",
-                "gujarati": "વ્યાપારિક પ્રતિબંધ",
-                "pos": "Noun",
-                "synonyms": "ban, restriction, boycott, prohibition",
-                "antonyms": "allowance, permission, clearance"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "Above the fray",
-                "meaning": "Not involved in an ongoing fight, argument, or controversy.",
-                "gujarati": "વિવાદ કે સંઘર્ષથી પર/દૂર રહેવું"
-            },
-            {
-                "idiom": "Ducking a fight",
-                "meaning": "Avoiding a difficult situation, confrontation, or challenge.",
-                "gujarati": "મુશ્કેલ પરિસ્થિતિ કે લડાઈથી બચવું"
-            }
-        ]
-    },
-    {
-        "id": "art-1788949666-6839",
-        "date": "2026-09-09",
-        "title": "The Guardian view on English schools: teachers and pupils should be proud of bucking a downward trend | Editorial",
-        "content": "International comparisons suggest that some things are being done right in England’s classrooms Teachers, headteachers, children, parents and politicians should all feel proud of England’s schools, which have bucked a disappointing international trend. Results from 15-year-olds in reading, maths and science have held up well compared with 90 other countries, according to the programme for international student assessment (Pisa). Scotland, Wales and Northern Ireland did not match England’s success in reading and maths, although all four UK nations scored well in science. Worries about children reading fewer books than in the past should be dispelled to some degree by England’s results, which show no decline in capability since 2022, when the Organisation for Economic Cooperation and Development (OECD) last published results. The decision to place more emphasis on science, technology, engineering and maths (Stem), both at primary and secondary levels, has seemingly borne fruit. Pisa scores do not record everything that schools are doing, and a positive set of results doesn’t mean that all is suddenly right with the system. The focus on Stem was partly at the expense of arts subjects, which were wrongly excluded from the Ebacc suite of favoured GCSE subjects promoted by the Conservatives. This is due to be scrapped by Labour, following the recommendation of Prof Becky Francis’s review. Prof Francis was also right to highlight the demoralising effect of compulsory maths and English GCSE retakes. The education secretary, Lucy Powell, has cited the development of modular replacements as a priority, along with improved technical qualifications, some of which she has suggested could take the form of new GCSEs. Reform of special educational needs provision, and the laws surrounding it, is arguably the aspect of schools policy that will end up absorbing most ministerial attention. Earlier this week, the Guardian reported on a surge in applications for the education, health and care plans that compel councils to provide a specified level of support to individuals. The government must also find ways to address troublingly wide regional disparities. But concerns about attainment gaps and inequalities, and about the dismayingly high number of pupils who do not thrive at school, should not detract from schools’ striking successes. Many are meeting the demands of a challenging curriculum. The stagnation and decline in other countries should not be viewed simply as a backdrop for England’s success. Andreas Schleicher, the OECD’s director for education, believes there are weaknesses in how schools adapt to technological change and has questioned whether heavy smartphone use is “compatible with sustained academic attention”. This echoes the concerns of academics who believe that overreliance on screens in schools is undermining learning. While other experts believe that the evidence points to more nuanced conclusions, it seems clear that caution is needed when assessing the role of technology in classrooms as well as in children’s lives in the round. It would be overly simplistic to blame a poor set of international results on smartphones. After all, English teenagers use them too. But Prof Francis is right that England’s scores suggest there are “important things our education system is getting right”. Her review was aimed at avoiding too much disruption, given the impact on teacher workloads and morale. Further changes should not be rushed into – even by a new education secretary keen to make a mark. England’s schools deserve some praise.",
-        "theme": "Global Affairs / CAT Standard Read",
-        "readTime": "2 min",
-        "centralIdea": "England's schools have achieved commendable success by maintaining strong academic performance in international assessments despite a global downward trend, though future reforms must carefully balance these achievements with addressing regional disparities and student well-being.",
-        "tone": "Commendatory, Analytical, Cautious",
-        "skimming": [
-            "England's 15-year-olds bucked the international downward trend by maintaining strong Pisa scores in reading, maths, and science.",
-            "The strategic focus on STEM subjects has yielded positive results, though it occasionally sidelined arts subjects.",
-            "Upcoming policy reforms under the Labour government aim to address special educational needs, regional disparities, and stressful GCSE retakes.",
-            "Experts caution against over-relying on classroom technology and warn that future educational reforms should not be rushed."
-        ],
-        "grammar": "The sentence 'Further changes should not be rushed into...' showcases the passive voice of a phrasal verb ('rush into'). In English grammar, when a phrasal verb is converted into the passive voice, the preposition ('into') remains attached to the verb, appearing at the end of the clause.",
-        "vocab": [
-            {
-                "word": "bucking",
-                "english": "opposing, resisting, or going against a trend",
-                "gujarati": "સામે થવું / પ્રવાહથી વિરુદ્ધ જવું",
-                "pos": "Verb",
-                "synonyms": "defying, resisting, opposing",
-                "antonyms": "yielding, conforming, accepting"
-            },
-            {
-                "word": "dispelled",
-                "english": "made a doubt, feeling, or belief disappear",
-                "gujarati": "દૂર કરવું / શંકા નિવારવી",
-                "pos": "Verb",
-                "synonyms": "banished, eliminated, dismissed",
-                "antonyms": "engendered, fostered, encouraged"
-            },
-            {
-                "word": "demoralising",
-                "english": "causing someone to lose confidence or hope; disheartening",
-                "gujarati": "નિરુત્સાહ કરનારું",
-                "pos": "Adjective",
-                "synonyms": "disheartening, discouraging, depressing",
-                "antonyms": "encouraging, heartening, inspiring"
-            },
-            {
-                "word": "disparities",
-                "english": "great differences or inequalities, especially unfair ones",
-                "gujarati": "અસમાનતાઓ / તફાવતો",
-                "pos": "Noun",
-                "synonyms": "inequalities, discrepancies, variances",
-                "antonyms": "similarities, equalities, parities"
-            },
-            {
-                "word": "stagnation",
-                "english": "the state of not flowing, growing, or changing; lack of development",
-                "gujarati": "સ્થિરતા / પ્રગતિનો અભાવ",
-                "pos": "Noun",
-                "synonyms": "inactivity, sluggishness, standstill",
-                "antonyms": "growth, progress, development"
-            }
-        ],
-        "idioms": [
-            {
-                "idiom": "borne fruit",
-                "meaning": "yielded positive results or outcomes",
-                "gujarati": "ફળદાયી નીવડવું / સફળ થવું"
-            },
-            {
-                "idiom": "make a mark",
-                "meaning": "to attain distinction or leave a significant, lasting impression",
-                "gujarati": "પોતાની છાપ છોડવી"
             }
         ]
     }
